@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products source_id="1" source_name="fotoekspres-sync-test">
+ <product>
+  <id><![CDATA[1]]></id>
+  <name><![CDATA[Sony A7C 28-60mm Lens (Silver)]]></name>
+  <brand><![CDATA[Sony]]></brand>
+  <sku><![CDATA[FE-SNY-13341]]></sku>
+  <barcode/>
+  <price><![CDATA[78132]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <status><![CDATA[in_stock]]></status>
+ </product>
+</products>
