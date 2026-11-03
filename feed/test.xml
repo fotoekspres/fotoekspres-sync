@@ -1,15 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products source_id="1" source_name="fotoekspres-sync-test">
  <product>
-  <id><![CDATA[1]]></id>
-  <name><![CDATA[Sony A7C 28-60mm Lens (Silver)]]></name>
-  <brand><![CDATA[Sony]]></brand>
-  <sku><![CDATA[FE-SNY-13341]]></sku>
+  <id><![CDATA[975]]></id>
+  <source_url><![CDATA[https://www.klasfoto.com.tr/urun/nikon-monarch-m5-12x50-durbun]]></source_url>
+  <name><![CDATA[Nikon Monarch M5 12x50 Dürbün]]></name>
+  <brand><![CDATA[Nikon]]></brand>
+  <sku><![CDATA[FE-NKN-13478]]></sku>
   <barcode/>
-  <price><![CDATA[78132]]></price>
+  <price><![CDATA[34169]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[Dürbünler]]></category>
+  <description><![CDATA[<p><strong>Nikon Monarch M5 12x50 Dürbün</strong>, 12x büyütme gücü ve 50 mm geniş objektif çapıyla uzaktaki detayları parlak ve net şekilde yakınlaştırmak isteyenler için tasarlandı. ED camlı optik yapısı, suya ve buğulanmaya dayanıklı gövdesiyle doğa gözleminden kuş gözlemine, açık hava gezilerinden gökyüzü izlemeye kadar her koşulda güvenle kullanabileceğiniz bir dürbün.</p>
+<p><strong>Öne Çıkan Özellikler</strong></p>
+<ul>
+<li>12x büyütme, 50 mm objektif çapı</li>
+<li>Renk saçılmasını azaltan ED (ekstra düşük dağılımlı) cam</li>
+<li>Tüm lens ve prizmalarda çok katmanlı kaplama, dielektrik ve faz düzeltme kaplamalı roof prizma</li>
+<li>Azot dolgulu, O-ring contalı gövde: buğulanmaya karşı koruma, 1 m derinlikte 10 dakika suya dayanıklılık</li>
+<li>16,4 mm göz mesafesi ve kademeli göz lastikleri ile gözlükle rahat kullanım</li>
+<li>Cam elyaf takviyeli polikarbonat gövde, kaymaz kauçuk kaplama</li>
+<li>Ayrı satılan Nikon TRA-3 adaptörü ile tripoda bağlanabilme</li>
+</ul>
+<p><strong>Uzaktaki Detaylar Gözünüzün Önünde</strong></p>
+<p>12 kat büyütme, uzak mesafedeki kuşları, yaban hayatını ve manzaradaki ince ayrıntıları yakından incelemenizi sağlar. 1.000 metrede 98 metrelik görüş alanı, hedefinizi hızlıca bulmanıza yardımcı olur.</p>
+<p><strong>Parlak ve Doğal Renkler</strong></p>
+<p>ED cam elemanlar renk kaymasını en aza indirir; çok katmanlı kaplamalar ise ışık geçirgenliğini artırarak alacakaranlıkta bile kontrastlı, canlı görüntüler sunar.</p>
+<p><strong>Her Havaya Hazır</strong></p>
+<p>Azot dolgulu ve contalı yapı sayesinde ani sıcaklık değişimlerinde iç buğulanma yaşanmaz, yağmurda da gönül rahatlığıyla kullanılabilir. Not: Ürün su altında kullanım için tasarlanmamıştır.</p>
+<p><strong>Uzun Gözlemlerde Konfor</strong></p>
+<p>650 gramlık dengeli gövde ve kauçuk kaplama sağlam bir tutuş sunar. Uzun süreli ve titreşimsiz gözlem için tripod kullanımı önerilir.</p>
+<p><strong>Neden Foto Ekspres?</strong></p>
+<ul>
+<li>Resmi Türkiye Garantili ürün</li>
+<li>14 gün içinde ücretsiz iade ve değişim</li>
+<li>İstanbul içi kurye ile aynı gün teslimat imkânı</li>
+<li>Sirkeci mağazamızda uzman destek</li>
+</ul>
+<p><strong>Teknik Özellikler</strong></p>
+<ul>
+<li>Büyütme: 12x</li>
+<li>Objektif çapı: 50 mm</li>
+<li>Prizma tipi: Roof (çatı)</li>
+<li>Netleme: Merkezi netleme</li>
+<li>Gerçek görüş açısı: 5,6°</li>
+<li>Görünür görüş açısı: 60,8°</li>
+<li>1.000 m'de görüş alanı: 98 m</li>
+<li>Çıkış göz bebeği: 4,2 mm</li>
+<li>Bağıl parlaklık: 17,6</li>
+<li>Göz mesafesi: 16,4 mm</li>
+<li>Minimum netleme mesafesi: 4,5 m</li>
+<li>Gözler arası mesafe ayarı: 58–72 mm</li>
+<li>Boyutlar: 166 × 133 × 58 mm</li>
+<li>Ağırlık: 650 g</li>
+<li>Suya dayanıklılık: 1 m derinlikte 10 dakika</li>
+</ul>]]></description>
+  <short_description><![CDATA[12x büyütme, 50 mm objektif, ED cam, suya ve buğulanmaya dayanıklı gövde. Resmi Türkiye Garantili.]]></short_description>
+  <seo_title><![CDATA[Nikon Monarch M5 12x50 Dürbün | Foto Ekspres]]></seo_title>
+  <seo_description><![CDATA[Nikon Monarch M5 12x50 Dürbün Resmi Türkiye Garantili Foto Ekspres'te. Nikon ürünlerinde hızlı kargo, güvenli ödeme ve uzman destek.]]></seo_description>
+  <seo_keywords><![CDATA[Nikon Monarch M5 12x50, Nikon, Dürbün]]></seo_keywords>
   <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/975/monarch-m5-12x50-front.webp?revision=1791882415]]></image1>
+  <image2><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/975/monarch-m5-12x50-front-left.webp?revision=1791882415]]></image2>
+  <image3><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/975/monarch-m5-12x50-rear-left.webp?revision=1791882415]]></image3>
+  <image4><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/975/monarch-m5-12x50-objective-side.webp?revision=1791882415]]></image4>
  </product>
 </products>
