@@ -31,8 +31,9 @@ ALANLAR = ["id", "name", "brand", "sku", "barcode", "price", "currency", "stock"
            "category", "description", "status"]
 
 
-def satis_fiyati(kaynak):
-    return int(math.floor(kaynak * 1.02 + 0.5))
+def satis_fiyati(kaynak, marj=2.0):
+    """Kaynak (indirimli) fiyat + grup marjı (%), tam TL'ye yuvarlanır. Marj gruplar.csv'deki 'marj' sütunundan gelir."""
+    return int(math.floor(kaynak * (1 + marj / 100) + 0.5))
 
 
 def para(s):
@@ -217,6 +218,7 @@ def main():
     ozet, yeniler = [], []
     for g in gruplar:
         ad, url, tip, alt = g["grup"], g["url"], g["tip"], float(g.get("min_fiyat") or 0)
+        marj = float(g.get("marj") or 2)
         print(f"== {ad}: {url}")
         kartlar = ideasoft_liste(url) if tip == "ideasoft" else ticimax_liste(url)
         bizim = [u for u in urunler if u["category"] == ad]
@@ -228,7 +230,7 @@ def main():
         for u in bizim:
             k = urun_anahtari(u)
             ilk = dosya_adi(u["imgs"][0]) if u["imgs"] else ""
-            eski_kaynak = float(u["price"] or 0) / 1.02
+            eski_kaynak = float(u["price"] or 0) / (1 + marj / 100)
             adaylar = [c for c in kartlar if c["anahtar"] & k]
 
             def puan(c):
@@ -243,7 +245,7 @@ def main():
             if kart:
                 eslesen.add(id(kart))
             if kart and kart["stok"] and kart["fiyat"] > 0:
-                plan[u["sku"]] = (str(satis_fiyati(kart["fiyat"])), str(STOK_VAR))
+                plan[u["sku"]] = (str(satis_fiyati(kart["fiyat"], marj)), str(STOK_VAR))
             else:
                 plan[u["sku"]] = (u["price"], "0")
         oran = len(eslesen) / max(1, len(bizim))
