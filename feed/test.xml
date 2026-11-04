@@ -1,8 +1,390 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products source_id="1" source_name="fotoekspres-sync-test">
+<products source_id="1" source_name="fotoekspres-sync">
  <product>
-  <id><![CDATA[975]]></id>
-  <source_url><![CDATA[https://www.klasfoto.com.tr/urun/nikon-monarch-m5-12x50-durbun]]></source_url>
+  <id><![CDATA[1]]></id>
+  <name><![CDATA[Nikon Z5 II Body]]></name>
+  <brand><![CDATA[Nikon]]></brand>
+  <sku><![CDATA[FE-NKN-13479]]></sku>
+  <barcode/>
+  <price><![CDATA[101999]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[XML - Klas]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Nikon Z5 II Body Resmi Türkiye Garantili (Nikon Türkiye Garantili)</strong></div>
+<div>&nbsp;</div>
+<div>Nikon Z5 II, full frame fotoğrafçılığa geçmek ya da mevcut sistemini yükseltmek isteyenler için hız, odak ve görüntü kalitesini bir araya getiren aynasız bir gövdedir. EXPEED 7 işlemci, yapay zekâ destekli konu algılama ve 30 fps seri çekimle bir üst sınıfın yeteneklerini daha erişilebilir bir gövdede sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>24.5 MP full frame (FX) BSI CMOS sensör</div>
+<div>EXPEED 7 görüntü işlemcisi</div>
+<div>30 fps'ye kadar seri çekim</div>
+<div>60p'ye kadar 4K UHD, 120p Full HD video</div>
+<div>9 konu tipini tanıyan yapay zekâ destekli AF</div>
+<div>5 eksenli gövde içi titreşim azaltma</div>
+<div>3,69 milyon noktalı OLED vizör, 3,2 inç döner dokunmatik ekran</div>
+<div>Çift UHS-II SD kart yuvası, Wi-Fi ve Bluetooth</div>
+<div>&nbsp;</div>
+<div><strong>Full Frame Kalitesi, Yeni Nesil Hız</strong></div>
+<div>24.5 MP arkadan aydınlatmalı full frame sensör, Nikon'un üst seviye modellerinde kullanılan EXPEED 7 işlemciyle birleşiyor. ISO 100-64000 aralığı (50-204800'e genişletilebilir) gece çekimlerinden iç mekânlara kadar temiz, düşük gürültülü kareler sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Konuyu Kendisi Bulan Otomatik Odak</strong></div>
+<div>Z9'dan gelen derin öğrenme algoritmaları insan, hayvan, kuş, araç ve uçak dahil 9 farklı konu tipini tanır. Otomatik alan modunda konu kadrajda hareket etse bile odak üzerinde kalır; ayrı kuş algılama modu da bulunur.</div>
+<div>&nbsp;</div>
+<div><strong>Video İçin Hazır</strong></div>
+<div>60p'ye kadar 4K UHD ve 120p Full HD kayıt, iki saate kadar kesintisiz çekim, elektronik VR ve HDMI üzerinden harici kayıt desteği sunar. Kamera içinde 4K zaman atlamalı video da üretilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Elde Çekimde Sabit Görüntü</strong></div>
+<div>5 eksenli gövde içi titreşim azaltma tüm lenslerde 5 durağa, uyumlu lenslerde 7,5 durağa kadar sabitleme sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Renkleri Tek Tuşla Yönetin</strong></div>
+<div>Gövdedeki Picture Control tuşu, 31 dahili renk profiline otomatik modda bile hızlı erişim sağlar. Nikon Imaging Cloud üzerinden yeni renk tarifleri indirilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kullanışlı Gövde ve Bağlantı</strong></div>
+<div>Döner 3,2 inç dokunmatik ekran, parlak OLED vizör, çift UHS-II SD yuvası, USB-C ile şarj ve güç, mikro HDMI ve kulaklık çıkışı bulunur. SnapBridge ile fotoğraflarınızı telefona aktarabilir, kamerayı uzaktan kontrol edebilirsiniz. EN-EL15c batarya ile yaklaşık 380 kare çekim yapılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>Nikon Z5 II gövde</div>
+<div>EN-EL15c batarya</div>
+<div>UC-E25 USB kablosu</div>
+<div>AN-DC26 askı</div>
+<div>BF-N1 gövde kapağı</div>
+<div>DK-29 göz lastiği</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Sensör: 24.5 MP FX formatlı BSI CMOS</div>
+<div>İşlemci: EXPEED 7</div>
+<div>ISO: 100-64000 (50-204800 genişletilmiş)</div>
+<div>Seri çekim: 30 fps'ye kadar</div>
+<div>Video: 4K UHD 60p, Full HD 120p</div>
+<div>Sabitleme: 5 eksenli sensör kaydırmalı VR (7,5 durağa kadar)</div>
+<div>Vizör: 3,69 milyon nokta OLED</div>
+<div>Ekran: 3,2 inç, 2,1 milyon nokta, döner dokunmatik</div>
+<div>Kart yuvası: 2x SD (UHS-II)</div>
+<div>Bağlantı: Wi-Fi, Bluetooth, USB-C, mikro HDMI, kulaklık</div>
+<div>Batarya: EN-EL15c (yaklaşık 380 çekim)</div>
+<div>Lens yuvası: Nikon Z</div>
+</div>]]></description>
+  <warranty><![CDATA[24]]></warranty>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/369/nikon-z5-ii-body.jpg?revision=1775569120]]></image1>
+  <image2><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/369/nikon-z5-ii-body-2.jpg?revision=1775569120]]></image2>
+  <image3><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/369/nikon-z5-ii-body-3.jpg?revision=1775569120]]></image3>
+  <image4><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/369/nikon-z5-ii-body-4.jpg?revision=1775569120]]></image4>
+ </product>
+ <product>
+  <id><![CDATA[2]]></id>
+  <name><![CDATA[Nikon Z5 II 24-50mm f/4-6.3 Lensli Fotoğraf Makinesi]]></name>
+  <brand><![CDATA[Nikon]]></brand>
+  <sku><![CDATA[FE-NKN-13480]]></sku>
+  <barcode/>
+  <price><![CDATA[119747]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[XML - Klas]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Nikon Z5 II 24-50mm f/4-6.3 Lensli Fotoğraf Makinesi Resmi Türkiye Garantili (Nikon Türkiye Garantili)</strong></div>
+<div>&nbsp;</div>
+<div>Nikon Z5 II 24-50mm kiti, full frame Z5 II gövdesini kompakt ve hafif NIKKOR Z 24-50mm f/4-6.3 zoom lensle birlikte sunar. Katlanabilir yapısıyla çantada az yer kaplayan lens; geniş açı manzara ve mimari çekimlerden 50mm ile sokak ve portre karelerine kadar günlük kullanımın büyük bölümünü karşılar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Kutuda kompakt NIKKOR Z 24-50mm f/4-6.3 zoom lens</div>
+<div>24.5 MP full frame (FX) BSI CMOS sensör</div>
+<div>EXPEED 7 görüntü işlemcisi</div>
+<div>30 fps'ye kadar seri çekim</div>
+<div>60p'ye kadar 4K UHD, 120p Full HD video</div>
+<div>9 konu tipini tanıyan yapay zekâ destekli AF</div>
+<div>5 eksenli gövde içi titreşim azaltma</div>
+<div>3,69 milyon noktalı OLED vizör, 3,2 inç döner dokunmatik ekran</div>
+<div>Çift UHS-II SD kart yuvası, Wi-Fi ve Bluetooth</div>
+<div>&nbsp;</div>
+<div><strong>Yanınızda Taşıyacağınız Bir Kit</strong></div>
+<div>Geri çekilebilir 24-50mm lens, gövdeyle birlikte hafif bir full frame sistem oluşturur. Seyahatlerde, şehir turlarında ve günlük çekimlerde lens değiştirmeden geniş açıdan standart odağa geçebilirsiniz.</div>
+<div>&nbsp;</div>
+<div><strong>Full Frame Kalitesi, Yeni Nesil Hız</strong></div>
+<div>24.5 MP arkadan aydınlatmalı full frame sensör, Nikon'un üst seviye modellerinde kullanılan EXPEED 7 işlemciyle birleşiyor. ISO 100-64000 aralığı (50-204800'e genişletilebilir) gece çekimlerinden iç mekânlara kadar temiz, düşük gürültülü kareler sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Konuyu Kendisi Bulan Otomatik Odak</strong></div>
+<div>Z9'dan gelen derin öğrenme algoritmaları insan, hayvan, kuş, araç ve uçak dahil 9 farklı konu tipini tanır. Otomatik alan modunda konu kadrajda hareket etse bile odak üzerinde kalır; ayrı kuş algılama modu da bulunur.</div>
+<div>&nbsp;</div>
+<div><strong>Video İçin Hazır</strong></div>
+<div>60p'ye kadar 4K UHD ve 120p Full HD kayıt, iki saate kadar kesintisiz çekim, elektronik VR ve HDMI üzerinden harici kayıt desteği sunar. Kamera içinde 4K zaman atlamalı video da üretilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Elde Çekimde Sabit Görüntü</strong></div>
+<div>5 eksenli gövde içi titreşim azaltma tüm lenslerde 5 durağa, uyumlu lenslerde 7,5 durağa kadar sabitleme sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Renkleri Tek Tuşla Yönetin</strong></div>
+<div>Gövdedeki Picture Control tuşu, 31 dahili renk profiline otomatik modda bile hızlı erişim sağlar. Nikon Imaging Cloud üzerinden yeni renk tarifleri indirilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kullanışlı Gövde ve Bağlantı</strong></div>
+<div>Döner 3,2 inç dokunmatik ekran, parlak OLED vizör, çift UHS-II SD yuvası, USB-C ile şarj ve güç, mikro HDMI ve kulaklık çıkışı bulunur. SnapBridge ile fotoğraflarınızı telefona aktarabilir, kamerayı uzaktan kontrol edebilirsiniz. EN-EL15c batarya ile yaklaşık 380 kare çekim yapılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>Nikon Z5 II gövde</div>
+<div>NIKKOR Z 24-50mm f/4-6.3 lens</div>
+<div>EN-EL15c batarya</div>
+<div>UC-E25 USB kablosu</div>
+<div>AN-DC26 askı</div>
+<div>BF-N1 gövde kapağı</div>
+<div>DK-29 göz lastiği</div>
+<div>LC-52B ön lens kapağı</div>
+<div>LF-N1 arka lens kapağı</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kit lens: NIKKOR Z 24-50mm f/4-6.3</div>
+<div>Sensör: 24.5 MP FX formatlı BSI CMOS</div>
+<div>İşlemci: EXPEED 7</div>
+<div>ISO: 100-64000 (50-204800 genişletilmiş)</div>
+<div>Seri çekim: 30 fps'ye kadar</div>
+<div>Video: 4K UHD 60p, Full HD 120p</div>
+<div>Sabitleme: 5 eksenli sensör kaydırmalı VR (7,5 durağa kadar)</div>
+<div>Vizör: 3,69 milyon nokta OLED</div>
+<div>Ekran: 3,2 inç, 2,1 milyon nokta, döner dokunmatik</div>
+<div>Kart yuvası: 2x SD (UHS-II)</div>
+<div>Bağlantı: Wi-Fi, Bluetooth, USB-C, mikro HDMI, kulaklık</div>
+<div>Batarya: EN-EL15c (yaklaşık 380 çekim)</div>
+<div>Lens yuvası: Nikon Z</div>
+</div>]]></description>
+  <warranty><![CDATA[24]]></warranty>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/368/nikon-z5-ii-24-50mm-f-4-6-3-lensli-fotograf-makinesi.jpg?revision=1775569683]]></image1>
+  <image2><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/368/nikon-z5-ii-24-50mm-f-4-6-3-lensli-fotograf-makinesi-2.jpg?revision=1775569683]]></image2>
+  <image3><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/368/nikon-z5-ii-24-50mm-f-4-6-3-lensli-fotograf-makinesi-3.jpg?revision=1775569683]]></image3>
+  <image4><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/368/nikon-z5-ii-24-50mm-f-4-6-3-lensli-fotograf-makinesi-4.jpg?revision=1775569683]]></image4>
+ </product>
+ <product>
+  <id><![CDATA[3]]></id>
+  <name><![CDATA[Nikon Z5 II 24-200mm f/4-6.3 Lensli Fotoğraf Makinesi]]></name>
+  <brand><![CDATA[Nikon]]></brand>
+  <sku><![CDATA[FE-NKN-13481]]></sku>
+  <barcode/>
+  <price><![CDATA[154325]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[XML - Klas]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Nikon Z5 II 24-200mm f/4-6.3 Lensli Fotoğraf Makinesi Resmi Türkiye Garantili (Nikon Türkiye Garantili)</strong></div>
+<div>&nbsp;</div>
+<div>Nikon Z5 II 24-200mm kiti, full frame Z5 II gövdesini geniş açıdan telefotoya uzanan NIKKOR Z 24-200mm f/4-6.3 VR lensle buluşturur. Tek lensle manzara, portre, etkinlik ve uzak konuları çekebileceğiniz bu set, özellikle seyahat edenler ve lens değiştirmek istemeyenler için hepsi bir arada bir çözümdür.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Kutuda 24-200mm f/4-6.3 VR süper zoom lens</div>
+<div>24.5 MP full frame (FX) BSI CMOS sensör</div>
+<div>EXPEED 7 görüntü işlemcisi</div>
+<div>30 fps'ye kadar seri çekim</div>
+<div>60p'ye kadar 4K UHD, 120p Full HD video</div>
+<div>9 konu tipini tanıyan yapay zekâ destekli AF</div>
+<div>5 eksenli gövde içi titreşim azaltma</div>
+<div>3,69 milyon noktalı OLED vizör, 3,2 inç döner dokunmatik ekran</div>
+<div>Çift UHS-II SD kart yuvası, Wi-Fi ve Bluetooth</div>
+<div>&nbsp;</div>
+<div><strong>Tek Lensle Her Kadraj</strong></div>
+<div>24mm geniş açı ile manzara ve iç mekânları, 200mm telefoto ile uzaktaki detayları, sahnedeki sanatçıları veya doğadaki hayvanları yakalayabilirsiniz. Lensteki VR sabitleme, gövdedeki titreşim azaltmayla birlikte uzun odakta da net kareler sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Full Frame Kalitesi, Yeni Nesil Hız</strong></div>
+<div>24.5 MP arkadan aydınlatmalı full frame sensör, Nikon'un üst seviye modellerinde kullanılan EXPEED 7 işlemciyle birleşiyor. ISO 100-64000 aralığı (50-204800'e genişletilebilir) gece çekimlerinden iç mekânlara kadar temiz, düşük gürültülü kareler sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Konuyu Kendisi Bulan Otomatik Odak</strong></div>
+<div>Z9'dan gelen derin öğrenme algoritmaları insan, hayvan, kuş, araç ve uçak dahil 9 farklı konu tipini tanır. Otomatik alan modunda konu kadrajda hareket etse bile odak üzerinde kalır; ayrı kuş algılama modu da bulunur.</div>
+<div>&nbsp;</div>
+<div><strong>Video İçin Hazır</strong></div>
+<div>60p'ye kadar 4K UHD ve 120p Full HD kayıt, iki saate kadar kesintisiz çekim, elektronik VR ve HDMI üzerinden harici kayıt desteği sunar. Kamera içinde 4K zaman atlamalı video da üretilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Elde Çekimde Sabit Görüntü</strong></div>
+<div>5 eksenli gövde içi titreşim azaltma tüm lenslerde 5 durağa, uyumlu lenslerde 7,5 durağa kadar sabitleme sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Renkleri Tek Tuşla Yönetin</strong></div>
+<div>Gövdedeki Picture Control tuşu, 31 dahili renk profiline otomatik modda bile hızlı erişim sağlar. Nikon Imaging Cloud üzerinden yeni renk tarifleri indirilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kullanışlı Gövde ve Bağlantı</strong></div>
+<div>Döner 3,2 inç dokunmatik ekran, parlak OLED vizör, çift UHS-II SD yuvası, USB-C ile şarj ve güç, mikro HDMI ve kulaklık çıkışı bulunur. SnapBridge ile fotoğraflarınızı telefona aktarabilir, kamerayı uzaktan kontrol edebilirsiniz. EN-EL15c batarya ile yaklaşık 380 kare çekim yapılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>Nikon Z5 II gövde</div>
+<div>NIKKOR Z 24-200mm f/4-6.3 VR lens</div>
+<div>EN-EL15c batarya</div>
+<div>UC-E25 USB kablosu</div>
+<div>AN-DC26 askı</div>
+<div>BF-N1 gövde kapağı</div>
+<div>DK-29 göz lastiği</div>
+<div>LC-67B ön lens kapağı</div>
+<div>LF-N1 arka lens kapağı</div>
+<div>HB-93 parasoley</div>
+<div>CL-C1 lens kılıfı</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kit lens: NIKKOR Z 24-200mm f/4-6.3 VR</div>
+<div>Sensör: 24.5 MP FX formatlı BSI CMOS</div>
+<div>İşlemci: EXPEED 7</div>
+<div>ISO: 100-64000 (50-204800 genişletilmiş)</div>
+<div>Seri çekim: 30 fps'ye kadar</div>
+<div>Video: 4K UHD 60p, Full HD 120p</div>
+<div>Sabitleme: 5 eksenli sensör kaydırmalı VR (7,5 durağa kadar)</div>
+<div>Vizör: 3,69 milyon nokta OLED</div>
+<div>Ekran: 3,2 inç, 2,1 milyon nokta, döner dokunmatik</div>
+<div>Kart yuvası: 2x SD (UHS-II)</div>
+<div>Bağlantı: Wi-Fi, Bluetooth, USB-C, mikro HDMI, kulaklık</div>
+<div>Batarya: EN-EL15c (yaklaşık 380 çekim)</div>
+<div>Lens yuvası: Nikon Z</div>
+</div>]]></description>
+  <warranty><![CDATA[24]]></warranty>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/367/nikon-z5-ii-24-200mm-f-4-6-3-lensli-fotograf-makinesi.jpg?revision=1775804250]]></image1>
+  <image2><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/367/nikon-z5-ii-24-200mm-f-4-6-3-lensli-fotograf-makinesi-2.jpg?revision=1775804250]]></image2>
+  <image3><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/367/nikon-z5-ii-24-200mm-f-4-6-3-lensli-fotograf-makinesi-3.jpg?revision=1775804250]]></image3>
+  <image4><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/367/nikon-z5-ii-24-200mm-f-4-6-3-lensli-fotograf-makinesi-4.jpg?revision=1775804250]]></image4>
+  <image5><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/367/nikon-z5-ii-24-200mm-f-4-6-3-lensli-fotograf-makinesi-5.jpg?revision=1775804251]]></image5>
+  <image6><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/367/nikon-z5-ii-24-200mm-f-4-6-3-lensli-fotograf-makinesi-7.jpg?revision=1775804251]]></image6>
+ </product>
+ <product>
+  <id><![CDATA[4]]></id>
+  <name><![CDATA[Nikon NIKKOR Z 35mm f/1.4 Lens]]></name>
+  <brand><![CDATA[Nikon]]></brand>
+  <sku><![CDATA[FE-NKN-13482]]></sku>
+  <barcode/>
+  <price><![CDATA[38759]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[XML - Klas]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Nikon NIKKOR Z 35mm f/1.4 Lens Resmi Türkiye Garantili (Nikon Türkiye Garantili)</strong></div>
+<div>&nbsp;</div>
+<div>Nikon NIKKOR Z 35mm f/1.4, Z serisi aynasız makineler için geliştirilmiş, parlak diyaframlı ve hafif bir sabit lenstir. Doğal görüş açısıyla sokak, belgesel, iç mekân ve çevresel portre çekimlerinde gün boyu takılı kalabilecek çok yönlü bir objektiftir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>35mm odak, f/1.4 maksimum diyafram</div>
+<div>Full frame (FX) uyumlu, Nikon Z yuvası</div>
+<div>Sessiz ve hızlı STM odak motoru</div>
+<div>9 bıçaklı diyafram ile yumuşak bokeh</div>
+<div>2 asferik eleman</div>
+<div>Tıklamasız, özelleştirilebilir kontrol halkası</div>
+<div>Toza ve neme dayanıklı yapı</div>
+<div>27 cm minimum odak mesafesi</div>
+<div>&nbsp;</div>
+<div><strong>Düşük Işıkta Özgürlük</strong></div>
+<div>f/1.4 diyafram, karanlık ortamlarda daha hızlı enstantane kullanmanızı sağlar ve konuyu arka plandan ayıran yumuşak bir bokeh oluşturur. 9 bıçaklı diyafram ışık noktalarını yuvarlak ve doğal gösterir.</div>
+<div>&nbsp;</div>
+<div><strong>Videoya Uygun Tasarım</strong></div>
+<div>STM step motoru sessiz ve akıcı odaklama yapar, odak nefesini bastırır. Hafif ve dengeli gövde gimbal ve kafes kurulumlarında kolay kullanılır. Kontrol halkası kayıt sırasında diyafram veya ISO'yu sessizce ayarlamak için atanabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kompakt ve Dayanıklı</strong></div>
+<div>Yaklaşık 9 cm uzunluğundaki hafif gövde, kauçuk kaplı odak halkası ve toza, neme karşı korumalı yapısıyla sahada güvenle kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>NIKKOR Z 35mm f/1.4 lens</div>
+<div>Ön ve arka lens kapağı</div>
+<div>HB-115 parasoley</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Odak uzaklığı: 35mm</div>
+<div>Maksimum diyafram: f/1.4</div>
+<div>Minimum diyafram: f/16</div>
+<div>Lens yuvası: Nikon Z</div>
+<div>Format: Full frame (FX)</div>
+<div>Odak: Otomatik (STM)</div>
+<div>Görüntü sabitleme: Yok (gövde VR ile uyumlu)</div>
+<div>Diyafram bıçakları: 9</div>
+<div>Filtre çapı: 62 mm</div>
+</div>]]></description>
+  <warranty><![CDATA[24]]></warranty>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/414/nikon-nikkor-z-35mm-f-1-4-lens.jpg?revision=1784213314]]></image1>
+  <image2><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/414/nikon-nikkor-z-35mm-f-1-4-lens-2.jpg?revision=1784213314]]></image2>
+  <image3><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/414/nikon-nikkor-z-35mm-f-1-4-lens-3.jpg?revision=1784213314]]></image3>
+  <image4><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/414/nikon-nikkor-z-35mm-f-1-4-lens-4.jpg?revision=1784213314]]></image4>
+  <image5><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/414/nikon-nikkor-z-35mm-f-1-4-lens-5.jpg?revision=1784213314]]></image5>
+  <image6><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/414/nikon-nikkor-z-35mm-f-1-4-lens-6.jpg?revision=1784213314]]></image6>
+ </product>
+ <product>
+  <id><![CDATA[5]]></id>
+  <name><![CDATA[Telesin Ace Pro & Ace Pro 2 ND Filtre Seti]]></name>
+  <brand><![CDATA[Telesin]]></brand>
+  <sku><![CDATA[FE-TLS-13483]]></sku>
+  <barcode><![CDATA[176370800511]]></barcode>
+  <price><![CDATA[2904]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[XML - Fotokolik]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Telesin Ace Pro & Ace Pro 2 ND Filtre Seti Resmi Türkiye Garantili</strong></div>
+<div>&nbsp;</div>
+<div>Telesin Ace Pro & Ace Pro 2 ND Filtre Seti, Insta360 Ace Pro ve Ace Pro 2 aksiyon kameralar için hazırlanmış CPL ve ND filtrelerden oluşan bir settir. Güneşli havalarda aşırı pozlamayı engeller, yansımaları azaltır ve videolarınıza sinematik bir hareket akışı kazandırır.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Ace Pro ve Ace Pro 2 ile uyumlu</div>
+<div>3 adet ND filtre: ND8, ND16, ND32</div>
+<div>1 adet CPL (dairesel polarize) filtre</div>
+<div>Çizilmeye ve suya dayanıklı optik cam</div>
+<div>Mıknatıslı, hızlı tak-çıkar montaj</div>
+<div>Koruyucu saklama kutusu ile birlikte</div>
+<div>&nbsp;</div>
+<div><strong>Sinematik Hareket İçin ND</strong></div>
+<div>ND filtreler kameraya giren ışığı azaltarak gün ışığında daha yavaş enstantane kullanmanızı sağlar. Böylece bisiklet, kayak, koşu ve sürüş videolarında doğal hareket bulanıklığı elde edilir, görüntü daha akıcı görünür.</div>
+<div>&nbsp;</div>
+<div><strong>Yansımaya Son: CPL</strong></div>
+<div>Dairesel polarize filtre su, kar ve cam yüzeylerdeki parlamaları azaltır, gökyüzünün ve yeşilin rengini derinleştirir. Deniz ve doğa çekimlerinde su altını daha net görmenize yardımcı olur.</div>
+<div>&nbsp;</div>
+<div><strong>Saniyeler İçinde Değiştirin</strong></div>
+<div>Mıknatıslı yapı sayesinde filtreleri çekim arasında hızla değiştirebilirsiniz. Set, taşıma ve saklama için koruyucu bir kutuyla gelir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>1x CPL filtre</div>
+<div>3x ND filtre (ND8, ND16, ND32)</div>
+<div>1x saklama kutusu</div>
+<div>1x temizleme bezi</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Uyumlu kameralar: Insta360 Ace Pro, Ace Pro 2</div>
+<div>Filtreler: CPL, ND8, ND16, ND32</div>
+<div>Malzeme: Optik cam</div>
+<div>Montaj: Mıknatıslı</div>
+</div>]]></description>
+  <warranty><![CDATA[24]]></warranty>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/telesin-ace-pro-ace-pro-2-nd-filtre-se-942a67.png]]></image1>
+  <image2><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/telesin-ace-pro-ace-pro-2-nd-filtre-se-6f7c68.png]]></image2>
+  <image3><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/telesin-ace-pro-ace-pro-2-nd-filtre-se-9b2c0-.png]]></image3>
+  <image4><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/telesin-ace-pro-ace-pro-2-nd-filtre-se-2b1790.png]]></image4>
+  <image5><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/telesin-ace-pro-ace-pro-2-nd-filtre-se-d-f1e6.png]]></image5>
+  <image6><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/telesin-ace-pro-ace-pro-2-nd-filtre-se-811655.png]]></image6>
+ </product>
+ <product>
+  <id><![CDATA[6]]></id>
   <name><![CDATA[Nikon Monarch M5 12x50 Dürbün]]></name>
   <brand><![CDATA[Nikon]]></brand>
   <sku><![CDATA[FE-NKN-13478]]></sku>
@@ -11,55 +393,57 @@
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
-  <category><![CDATA[Dürbünler]]></category>
-  <description><![CDATA[<p><strong>Nikon Monarch M5 12x50 Dürbün</strong>, 12x büyütme gücü ve 50 mm geniş objektif çapıyla uzaktaki detayları parlak ve net şekilde yakınlaştırmak isteyenler için tasarlandı. ED camlı optik yapısı, suya ve buğulanmaya dayanıklı gövdesiyle doğa gözleminden kuş gözlemine, açık hava gezilerinden gökyüzü izlemeye kadar her koşulda güvenle kullanabileceğiniz bir dürbün.</p>
-<p><strong>Öne Çıkan Özellikler</strong></p>
-<ul>
-<li>12x büyütme, 50 mm objektif çapı</li>
-<li>Renk saçılmasını azaltan ED (ekstra düşük dağılımlı) cam</li>
-<li>Tüm lens ve prizmalarda çok katmanlı kaplama, dielektrik ve faz düzeltme kaplamalı roof prizma</li>
-<li>Azot dolgulu, O-ring contalı gövde: buğulanmaya karşı koruma, 1 m derinlikte 10 dakika suya dayanıklılık</li>
-<li>16,4 mm göz mesafesi ve kademeli göz lastikleri ile gözlükle rahat kullanım</li>
-<li>Cam elyaf takviyeli polikarbonat gövde, kaymaz kauçuk kaplama</li>
-<li>Ayrı satılan Nikon TRA-3 adaptörü ile tripoda bağlanabilme</li>
-</ul>
-<p><strong>Uzaktaki Detaylar Gözünüzün Önünde</strong></p>
-<p>12 kat büyütme, uzak mesafedeki kuşları, yaban hayatını ve manzaradaki ince ayrıntıları yakından incelemenizi sağlar. 1.000 metrede 98 metrelik görüş alanı, hedefinizi hızlıca bulmanıza yardımcı olur.</p>
-<p><strong>Parlak ve Doğal Renkler</strong></p>
-<p>ED cam elemanlar renk kaymasını en aza indirir; çok katmanlı kaplamalar ise ışık geçirgenliğini artırarak alacakaranlıkta bile kontrastlı, canlı görüntüler sunar.</p>
-<p><strong>Her Havaya Hazır</strong></p>
-<p>Azot dolgulu ve contalı yapı sayesinde ani sıcaklık değişimlerinde iç buğulanma yaşanmaz, yağmurda da gönül rahatlığıyla kullanılabilir. Not: Ürün su altında kullanım için tasarlanmamıştır.</p>
-<p><strong>Uzun Gözlemlerde Konfor</strong></p>
-<p>650 gramlık dengeli gövde ve kauçuk kaplama sağlam bir tutuş sunar. Uzun süreli ve titreşimsiz gözlem için tripod kullanımı önerilir.</p>
-<p><strong>Neden Foto Ekspres?</strong></p>
-<ul>
-<li>Resmi Türkiye Garantili ürün</li>
-<li>14 gün içinde ücretsiz iade ve değişim</li>
-<li>İstanbul içi kurye ile aynı gün teslimat imkânı</li>
-<li>Sirkeci mağazamızda uzman destek</li>
-</ul>
-<p><strong>Teknik Özellikler</strong></p>
-<ul>
-<li>Büyütme: 12x</li>
-<li>Objektif çapı: 50 mm</li>
-<li>Prizma tipi: Roof (çatı)</li>
-<li>Netleme: Merkezi netleme</li>
-<li>Gerçek görüş açısı: 5,6°</li>
-<li>Görünür görüş açısı: 60,8°</li>
-<li>1.000 m'de görüş alanı: 98 m</li>
-<li>Çıkış göz bebeği: 4,2 mm</li>
-<li>Bağıl parlaklık: 17,6</li>
-<li>Göz mesafesi: 16,4 mm</li>
-<li>Minimum netleme mesafesi: 4,5 m</li>
-<li>Gözler arası mesafe ayarı: 58–72 mm</li>
-<li>Boyutlar: 166 × 133 × 58 mm</li>
-<li>Ağırlık: 650 g</li>
-<li>Suya dayanıklılık: 1 m derinlikte 10 dakika</li>
-</ul>]]></description>
-  <short_description><![CDATA[12x büyütme, 50 mm objektif, ED cam, suya ve buğulanmaya dayanıklı gövde. Resmi Türkiye Garantili.]]></short_description>
-  <seo_title><![CDATA[Nikon Monarch M5 12x50 Dürbün | Foto Ekspres]]></seo_title>
-  <seo_description><![CDATA[Nikon Monarch M5 12x50 Dürbün Resmi Türkiye Garantili Foto Ekspres'te. Nikon ürünlerinde hızlı kargo, güvenli ödeme ve uzman destek.]]></seo_description>
-  <seo_keywords><![CDATA[Nikon Monarch M5 12x50, Nikon, Dürbün]]></seo_keywords>
+  <category><![CDATA[XML - Klas]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Nikon Monarch M5 12x50 Dürbün Resmi Türkiye Garantili</strong></div>
+<div>&nbsp;</div>
+<div>Nikon Monarch M5 12x50, 12 kat büyütme ve 50 mm geniş objektif çapıyla uzaktaki detayları parlak ve net şekilde yakınlaştırmak isteyenler için tasarlanmış bir dürbündür. ED camlı optik yapısı ile renkleri doğal, görüntüyü keskin tutar. Suya ve buğulanmaya dayanıklı gövdesi sayesinde doğa yürüyüşünden kuş gözlemine, kamp ve tekne gezilerinden gökyüzü izlemeye kadar her koşulda güvenle kullanılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>12x büyütme, 50 mm objektif çapı</div>
+<div>Renk saçılmasını azaltan ED (ekstra düşük dağılımlı) cam</div>
+<div>Çok katmanlı kaplamalı lens ve prizmalar</div>
+<div>Dielektrik ve faz düzeltme kaplamalı roof prizma</div>
+<div>Azot dolgulu, O-ring contalı, buğulanmaz gövde</div>
+<div>1 metre derinlikte 10 dakika suya dayanıklılık</div>
+<div>Gözlükle rahat kullanım için 16,4 mm göz mesafesi</div>
+<div>&nbsp;</div>
+<div><strong>Uzaktaki Detaylar Gözünüzün Önünde</strong></div>
+<div>12 kat büyütme, uzak mesafedeki kuşları, yaban hayatını ve manzaradaki ince ayrıntıları yakından incelemenizi sağlar. 1.000 metrede 98 metrelik görüş alanı sayesinde hedefinizi hızlıca bulur, hareket eden konuyu kolayca takip edersiniz.</div>
+<div>&nbsp;</div>
+<div><strong>Parlak ve Doğal Renkler</strong></div>
+<div>ED cam elemanlar renk kaymasını en aza indirir. Tüm optik yüzeylerdeki çok katmanlı kaplamalar ışık geçirgenliğini artırır; 50 mm objektif çapı ise sabah erken saatlerde ve alacakaranlıkta bile parlak, kontrastlı görüntüler sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Her Havaya Hazır</strong></div>
+<div>Azot dolgulu ve contalı yapı, ani sıcaklık değişimlerinde iç buğulanmayı önler ve yağmurda gönül rahatlığıyla kullanmanızı sağlar. Cam elyaf takviyeli polikarbonat gövde ve kaymaz kauçuk kaplama, sahada darbelere karşı ek koruma sağlar. Ürün su altında kullanım için tasarlanmamıştır.</div>
+<div>&nbsp;</div>
+<div><strong>Uzun Gözlemlerde Konfor</strong></div>
+<div>650 gramlık dengeli gövde elde rahat tutulur. Kademeli göz lastikleri gözlüklü ve gözlüksüz kullanıma göre ayarlanabilir. Daha uzun ve titreşimsiz gözlemler için ayrı satılan Nikon TRA-3 adaptörü ile dürbünü tripoda bağlayabilirsiniz.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Büyütme: 12x</div>
+<div>Objektif çapı: 50 mm</div>
+<div>Prizma tipi: Roof (çatı)</div>
+<div>Netleme sistemi: Merkezi netleme</div>
+<div>Gerçek görüş açısı: 5,6°</div>
+<div>Görünür görüş açısı: 60,8°</div>
+<div>1.000 m'de görüş alanı: 98 m</div>
+<div>Çıkış göz bebeği çapı: 4,2 mm</div>
+<div>Bağıl parlaklık: 17,6</div>
+<div>Göz mesafesi: 16,4 mm</div>
+<div>Minimum netleme mesafesi: 4,5 m</div>
+<div>Gözler arası mesafe ayarı: 58–72 mm</div>
+<div>Boyutlar: 166 × 133 × 58 mm</div>
+<div>Ağırlık: 650 g</div>
+<div>Suya dayanıklılık: 1 m derinlikte 10 dakika</div>
+</div>]]></description>
+  <warranty><![CDATA[24]]></warranty>
   <status><![CDATA[in_stock]]></status>
   <image1><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/975/monarch-m5-12x50-front.webp?revision=1791882415]]></image1>
   <image2><![CDATA[https://www.klasfoto.com.tr/shop/rc/57/myassets/products/975/monarch-m5-12x50-front-left.webp?revision=1791882415]]></image2>
