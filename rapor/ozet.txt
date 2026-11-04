@@ -1,4 +1,5 @@
-2026-11-04 13:37 UTC
-KLAS NİKON: kaynakta 142 ürün, bizde 135, eşleşen 135, değişen 2, stoğu sıfırlanan 0
+2026-11-04 13:44 UTC
+KLAS NİKON: kaynakta 142 ürün, bizde 135, eşleşen 135, değişen 0, stoğu sıfırlanan 0
 NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 0, stoğu sıfırlanan 0
-FOTOKOLİK TELESİN: UYARI eşleşme oranı düşük (%0, kaynakta 3 kart), grup güncellenmedi
+FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 217, değişen 8, stoğu sıfırlanan 8
+  stokta olmayan/bulunamayan: FE-TLS-13785, FE-TLS-13796, FE-TLS-13797, FE-TLS-13799, FE-TLS-13807, FE-TLS-13808, FE-TLS-13809, FE-TLS-13815
