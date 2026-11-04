@@ -104,7 +104,7 @@ def ticimax_liste(url):
         parcalar = re.split(r'<div[^>]+class="[^"]*\bproductItem\b[^"]*"', h)[1:]
         yeni = 0
         for p in parcalar:
-            m = re.search(r'productName.*?<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', p, re.S)
+            m = re.search(r'productName.*?<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', p, re.S)
             if not m:
                 continue
             u = m.group(1)
