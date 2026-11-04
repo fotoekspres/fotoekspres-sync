@@ -22,6 +22,8 @@ FEED = os.path.join(KOK, "feed", "fotoekspres.xml")
 ANA = os.path.join(KOK, "data", "urunler.xml")
 GRUP = os.path.join(KOK, "gruplar.csv")
 ESLESME = os.path.join(KOK, "eslesme.csv")
+KAYNAK = os.path.join(KOK, "data", "kaynak.csv")
+HARIC = os.path.join(KOK, "haric.csv")
 RAPOR = os.path.join(KOK, "rapor")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 STOK_VAR = 5
@@ -75,7 +77,7 @@ def ideasoft_liste(url):
         yeni = 0
         for p in parcalar:
             m = re.search(r'showcase-title.*?<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', p, re.S)
-            sirali = [dosya_adi(x) for x in re.findall(r"/shop/\w+/\d+/myassets/products/\d+/([^\"'\s)]+)", p)]
+            sirali = [dosya_adi(x) for x in re.findall(r"/shop/\w+/\d+/(myassets/products/\d+/[^\"'\s)]+)", p)]
             dosyalar = set(sirali)
             if not m or not dosyalar:
                 continue
@@ -124,9 +126,15 @@ def ticimax_liste(url):
     return kartlar
 
 
+def slug(u):
+    return re.sub(r"[?#].*$", "", u or "").rstrip("/").rsplit("/", 1)[-1].lower()
+
+
 def dosya_adi(u):
     """Görsel dosya adını karşılaştırılabilir hale getirir (küçük harf, ?revision ve _min eki yok)."""
-    a = re.sub(r"[?#].*$", "", u).rsplit("/", 1)[-1].lower()
+    u = re.sub(r"[?#].*$", "", u)
+    k = re.search(r"myassets/products/(\d+/[^/]+)$", u)  # İdeaSoft: klasör/dosya
+    a = (k.group(1) if k else u.rsplit("/", 1)[-1]).lower()
     return re.sub(r"_min(?=\.[a-z]+$)", "", a)
 
 
@@ -197,7 +205,15 @@ def main():
     elle = {}
     if os.path.exists(ESLESME):
         for r in csv.DictReader(open(ESLESME, encoding="utf-8")):
-            elle[r["sku"].strip()] = r["url"].strip().rstrip("/").rsplit("/", 1)[-1]
+            elle[r["sku"].strip()] = slug(r["url"])
+    ogrenilen = {}
+    if os.path.exists(KAYNAK):
+        for r in csv.DictReader(open(KAYNAK, encoding="utf-8")):
+            ogrenilen[r["sku"].strip()] = slug(r["url"])
+    haric = set()
+    if os.path.exists(HARIC):
+        haric = {slug(r["url"]) for r in csv.DictReader(open(HARIC, encoding="utf-8")) if r.get("url")}
+    yeni_kaynak = {}
     ozet, yeniler = [], []
     for g in gruplar:
         ad, url, tip, alt = g["grup"], g["url"], g["tip"], float(g.get("min_fiyat") or 0)
@@ -219,8 +235,11 @@ def main():
                 # Kart ana görseli bizim ana görselimizse en güçlü eşleşme; sonra ortak görsel; en son fiyat yakınlığı
                 return (c["ilk"] == ilk, c["ilk"] in k, len(c["anahtar"] & k), -abs(c["fiyat"] - eski_kaynak))
             kart = max(adaylar, key=puan) if adaylar else None
-            if u["sku"] in elle:
-                kart = next((c for c in kartlar if c["url"].rstrip("/").rsplit("/", 1)[-1] == elle[u["sku"]]), None)
+            hedef = elle.get(u["sku"]) or ogrenilen.get(u["sku"])
+            if hedef:
+                kart = next((c for c in kartlar if slug(c["url"]) == hedef), None) or (None if u["sku"] in elle else kart)
+            if kart:
+                yeni_kaynak[u["sku"]] = kart["url"]
             if kart:
                 eslesen.add(id(kart))
             if kart and kart["stok"] and kart["fiyat"] > 0:
@@ -244,11 +263,21 @@ def main():
                     sifirlanan += 1
                 u["price"], u["stock"] = yeni
         for c in kartlar:
-            if id(c) not in eslesen and c["stok"] and c["fiyat"] > 0 and c["fiyat"] >= alt:
+            if id(c) not in eslesen and c["stok"] and c["fiyat"] > 0 and c["fiyat"] >= alt and slug(c["url"]) not in haric:
                 yeniler.append([ad, c["ad"], f"{c['fiyat']:.2f}", c["url"]])
         ozet.append(f"{ad}: kaynakta {len(kartlar)} ürün, bizde {len(bizim)}, eşleşen {len(eslesen)}, "
                     f"değişen {degisen}, stoğu sıfırlanan {sifirlanan}"
                     + (f"\n  stokta olmayan/bulunamayan: {', '.join(bulunamayan)}" if bulunamayan else ""))
+    eski = {}
+    if os.path.exists(KAYNAK):
+        eski = {r["sku"]: r["url"] for r in csv.DictReader(open(KAYNAK, encoding="utf-8"))}
+    eski.update(yeni_kaynak)
+    os.makedirs(os.path.dirname(KAYNAK), exist_ok=True)
+    with open(KAYNAK, "w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["sku", "url"])
+        for k in sorted(eski):
+            w.writerow([k, eski[k]])
     yaz(urunler, ANA)
     yaz(urunler, FEED)
     os.makedirs(RAPOR, exist_ok=True)
