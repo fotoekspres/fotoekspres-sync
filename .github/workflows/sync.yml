@@ -1,0 +1,27 @@
+name: Gunluk fiyat-stok
+on:
+  schedule:
+    - cron: "17 0 * * *"   # her gün 03:17 (Türkiye saati)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Kaynaklari tara, feed'i guncelle
+        run: python sync.py
+      - name: Degisiklikleri kaydet
+        run: |
+          git config user.name "fotoekspres-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add feed data rapor
+          git diff --cached --quiet || git commit -m "Gunluk fiyat/stok: $(date -u +%F)"
+          git push
