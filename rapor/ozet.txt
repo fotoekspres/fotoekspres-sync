@@ -1,4 +1,5 @@
-2026-11-04 13:23 UTC
-KLAS NİKON: kaynakta 132 ürün, bizde 135, eşleşen 127, değişen 8, stoğu sıfırlanan 0
-NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 1, stoğu sıfırlanan 0
+2026-11-04 13:31 UTC
+KLAS NİKON: kaynakta 142 ürün, bizde 135, eşleşen 133, değişen 10, stoğu sıfırlanan 2
+  stokta olmayan/bulunamayan: FE-NKN-13509, FE-NKN-13517
+NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 0, stoğu sıfırlanan 0
 FOTOKOLİK TELESİN: UYARI eşleşme oranı düşük (%0), grup güncellenmedi
