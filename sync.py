@@ -74,17 +74,18 @@ def ideasoft_liste(url):
         yeni = 0
         for p in parcalar:
             m = re.search(r'showcase-title.*?<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', p, re.S)
-            k = re.search(r"/shop/(\w+)/(\d+)/myassets/products/(\d+)/", p)
-            if not m or not k:
+            sirali = [dosya_adi(x) for x in re.findall(r"/shop/\w+/\d+/myassets/products/\d+/([^\"'\s)]+)", p)]
+            dosyalar = set(sirali)
+            if not m or not dosyalar:
                 continue
-            anahtar = f"{k.group(1)}{k.group(2)}:{k.group(3)}"
-            if anahtar in gorulen:
+            anahtar = dosyalar
+            if m.group(1) in gorulen:
                 continue
-            gorulen.add(anahtar)
+            gorulen.add(m.group(1))
             yeni += 1
             f = re.search(r'showcase-price-new[^>]*>(.*?)</div>', p, re.S)
             stok_yok = bool(re.search(r"stokta yok|tükendi|no-stock", p, re.I))
-            kartlar.append(dict(anahtar=anahtar, ad=temiz(m.group(2)), url=m.group(1),
+            kartlar.append(dict(anahtar=anahtar, ilk=sirali[0], ad=temiz(m.group(2)), url=m.group(1),
                                 fiyat=para(temiz(f.group(1))) if f else 0.0, stok=not stok_yok))
         if yeni == 0:
             break
@@ -110,10 +111,11 @@ def ticimax_liste(url):
                 continue
             gorulen.add(u)
             yeni += 1
-            imgs = set(re.findall(r"urunresimleri/[a-z]+/([^\"'?\s)]+)", p))
+            sirali = [dosya_adi(x) for x in re.findall(r"urunresimleri/[a-z]+/([^\"'?\s)]+)", p, re.I)]
+            imgs = set(sirali)
             f = re.search(r'discountPriceSpan[^>]*>(.*?)<', p, re.S) or re.search(r'productPrice[^>]*>.*?(₺[\d\.,]+|[\d\.,]+\s*TL)', p, re.S)
             stok_yok = bool(re.search(r"stokta yok|tükendi", temiz(p), re.I))
-            kartlar.append(dict(anahtar=imgs, ad=temiz(m.group(2)), url=u if u.startswith("http") else "https://www.fotokolik.com" + u,
+            kartlar.append(dict(anahtar=imgs, ilk=sirali[0] if sirali else "", ad=temiz(m.group(2)), url=u if u.startswith("http") else "https://www.fotokolik.com" + u,
                                 fiyat=para(temiz(f.group(1))) if f else 0.0, stok=not stok_yok))
         if yeni == 0:
             break
@@ -121,13 +123,14 @@ def ticimax_liste(url):
     return kartlar
 
 
+def dosya_adi(u):
+    """Görsel dosya adını karşılaştırılabilir hale getirir (küçük harf, ?revision ve _min eki yok)."""
+    a = re.sub(r"[?#].*$", "", u).rsplit("/", 1)[-1].lower()
+    return re.sub(r"_min(?=\.[a-z]+$)", "", a)
+
+
 def urun_anahtari(urun):
-    for g in urun["imgs"]:
-        k = re.search(r"/shop/(\w+)/(\d+)/myassets/products/(\d+)/", g)
-        if k:
-            return "ideasoft", f"{k.group(1)}{k.group(2)}:{k.group(3)}"
-    adlar = {re.sub(r"\?.*$", "", g.rsplit("/", 1)[-1]) for g in urun["imgs"] if "urunresimleri" in g}
-    return "ticimax", adlar
+    return {dosya_adi(g) for g in urun["imgs"]}
 
 
 # ---------------------------------------------------------------- ana liste
@@ -202,12 +205,15 @@ def main():
         eslesen = set()
         plan = {}
         for u in bizim:
-            tur, k = urun_anahtari(u)
-            kart = None
-            for c in kartlar:
-                if (tur == "ideasoft" and c["anahtar"] == k) or (tur == "ticimax" and isinstance(c["anahtar"], set) and c["anahtar"] & k):
-                    kart = c
-                    break
+            k = urun_anahtari(u)
+            ilk = dosya_adi(u["imgs"][0]) if u["imgs"] else ""
+            eski_kaynak = float(u["price"] or 0) / 1.02
+            adaylar = [c for c in kartlar if c["anahtar"] & k]
+
+            def puan(c):
+                # Kart ana görseli bizim ana görselimizse en güçlü eşleşme; sonra ortak görsel; en son fiyat yakınlığı
+                return (c["ilk"] == ilk, c["ilk"] in k, len(c["anahtar"] & k), -abs(c["fiyat"] - eski_kaynak))
+            kart = max(adaylar, key=puan) if adaylar else None
             if kart:
                 eslesen.add(id(kart))
             if kart and kart["stok"] and kart["fiyat"] > 0:
@@ -219,6 +225,7 @@ def main():
             # Kaynak sitenin yapısı değişmiş olabilir: güvenlik için bu grup bugün değiştirilmez
             ozet.append(f"{ad}: UYARI eşleşme oranı düşük (%{oran*100:.0f}), grup güncellenmedi")
             continue
+        bulunamayan = [u["sku"] for u in bizim if plan[u["sku"]][1] == "0"]
         degisen = sifirlanan = 0
         for u in bizim:
             yeni = plan[u["sku"]]
@@ -231,7 +238,8 @@ def main():
             if id(c) not in eslesen and c["stok"] and c["fiyat"] > 0 and c["fiyat"] >= alt:
                 yeniler.append([ad, c["ad"], f"{c['fiyat']:.2f}", c["url"]])
         ozet.append(f"{ad}: kaynakta {len(kartlar)} ürün, bizde {len(bizim)}, eşleşen {len(eslesen)}, "
-                    f"değişen {degisen}, stoğu sıfırlanan {sifirlanan}")
+                    f"değişen {degisen}, stoğu sıfırlanan {sifirlanan}"
+                    + (f"\n  stokta olmayan/bulunamayan: {', '.join(bulunamayan)}" if bulunamayan else ""))
     yaz(urunler, ANA)
     yaz(urunler, FEED)
     os.makedirs(RAPOR, exist_ok=True)
