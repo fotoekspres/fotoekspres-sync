@@ -2127,7 +2127,7 @@
   <barcode/>
   <price><![CDATA[79967]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[0]]></stock>
+  <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[KLAS NİKON]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -2684,7 +2684,7 @@
   <barcode/>
   <price><![CDATA[317209]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[0]]></stock>
+  <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[KLAS NİKON]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
