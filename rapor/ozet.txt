@@ -1,5 +1,9 @@
-2026-11-06 01:26 UTC
+2026-11-06 12:23 UTC
 KLAS NİKON: kaynakta 143 ürün, bizde 135, eşleşen 135, değişen 0, stoğu sıfırlanan 0
-NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 2, stoğu sıfırlanan 0
-FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 225, değişen 4, stoğu sıfırlanan 2
+NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 0, stoğu sıfırlanan 0
+FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 225, değişen 0, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-TLS-13687, FE-TLS-13719
+KLAS DJI: kaynakta 75 ürün, bizde 2, eşleşen 1, değişen 0, stoğu sıfırlanan 0
+  stokta olmayan/bulunamayan: FE-DJI-12996
+KLAS CANON: kaynakta 182 ürün, bizde 2, eşleşen 2, değişen 1, stoğu sıfırlanan 0
+KLAS SONY: kaynakta 166 ürün, bizde 1, eşleşen 1, değişen 1, stoğu sıfırlanan 0
