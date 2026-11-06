@@ -357,7 +357,7 @@
   <brand><![CDATA[Benro]]></brand>
   <sku><![CDATA[FE-BNR-13484]]></sku>
   <barcode><![CDATA[6931747312856]]></barcode>
-  <price><![CDATA[23776]]></price>
+  <price><![CDATA[23871]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -528,7 +528,7 @@
   <brand><![CDATA[Benro]]></brand>
   <sku><![CDATA[FE-BNR-13487]]></sku>
   <barcode><![CDATA[6931747312863]]></barcode>
-  <price><![CDATA[29137]]></price>
+  <price><![CDATA[29254]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -10079,7 +10079,7 @@
   <barcode><![CDATA[755794082267]]></barcode>
   <price><![CDATA[1678]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -10994,7 +10994,7 @@
   <brand><![CDATA[Telesin]]></brand>
   <sku><![CDATA[FE-TLS-13715]]></sku>
   <barcode/>
-  <price><![CDATA[983]]></price>
+  <price><![CDATA[1035]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -11121,7 +11121,7 @@
   <barcode/>
   <price><![CDATA[2498]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -15465,7 +15465,7 @@
   <brand><![CDATA[Telesin]]></brand>
   <sku><![CDATA[FE-TLS-13836]]></sku>
   <barcode><![CDATA[176370799412]]></barcode>
-  <price><![CDATA[1181]]></price>
+  <price><![CDATA[1244]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
