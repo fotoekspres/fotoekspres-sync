@@ -1,5 +1,7 @@
-2026-11-11 01:21 UTC
-KLAS NİKON: kaynakta 143 ürün, bizde 135, eşleşen 135, değişen 0, stoğu sıfırlanan 0
-NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 1, stoğu sıfırlanan 0
-FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 225, değişen 2, stoğu sıfırlanan 0
-  stokta olmayan/bulunamayan: FE-TLS-13649, FE-TLS-13653, FE-TLS-13687, FE-TLS-13724
+2026-11-11 21:47 UTC
+KLAS NİKON: kaynakta 143 ürün, bizde 135, eşleşen 134, değişen 3, stoğu sıfırlanan 1
+  stokta olmayan/bulunamayan: FE-NKN-13589
+NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 0, stoğu sıfırlanan 0
+FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 225, değişen 3, stoğu sıfırlanan 2
+  stokta olmayan/bulunamayan: FE-TLS-13649, FE-TLS-13653, FE-TLS-13687, FE-TLS-13707, FE-TLS-13724, FE-TLS-13725
+FOTOKOLİK RODE: kaynakta 259 ürün, bizde 89, eşleşen 89, değişen 0, stoğu sıfırlanan 0
