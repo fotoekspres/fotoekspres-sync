@@ -2,7 +2,8 @@
 """Foto Ekspres - günlük fiyat/stok senkronizasyonu.
 
 - data/urunler.xml : sitedeki tüm FE- ürünlerinin ana listesi (yoksa git geçmişinden kurulur)
-- gruplar.csv      : grup adı, kaynak liste sayfası, site tipi, minimum fiyat
+- gruplar.csv      : grup adı, kaynak liste sayfası, site tipi, minimum fiyat, marj, filtre (ürün adı için regex, boşsa hepsi)
+- data/yeni/*.xml  : elle hazırlanan yeni ürünler; ana listede olmayan stok kodları bir kez eklenir
 - feed/fotoekspres.xml : İdeaSoft'un çektiği güncel dosya (tüm ürünler, güncel fiyat/stok)
 - rapor/ozet.txt, rapor/yeni-urunler.csv : günlük rapor
 """
@@ -25,6 +26,7 @@ ESLESME = os.path.join(KOK, "eslesme.csv")
 KAYNAK = os.path.join(KOK, "data", "kaynak.csv")
 HARIC = os.path.join(KOK, "haric.csv")
 RAPOR = os.path.join(KOK, "rapor")
+YENI = os.path.join(KOK, "data", "yeni")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 STOK_VAR = 5
 ALANLAR = ["id", "name", "brand", "sku", "barcode", "price", "currency", "stock", "availability",
@@ -202,6 +204,19 @@ def main():
     if not urunler:
         print("Ürün listesi boş, çıkılıyor.")
         return 1
+    if os.path.isdir(YENI):
+        mevcut = {u["sku"] for u in urunler}
+        for ad_ in sorted(os.listdir(YENI)):
+            if not ad_.endswith(".xml"):
+                continue
+            eklenen = 0
+            for u in oku(open(os.path.join(YENI, ad_), encoding="utf-8").read()):
+                if u["sku"] and u["sku"] not in mevcut:
+                    urunler.append(u)
+                    mevcut.add(u["sku"])
+                    eklenen += 1
+            if eklenen:
+                print(f"{ad_}: {eklenen} yeni ürün ana listeye eklendi")
     gruplar = list(csv.DictReader(open(GRUP, encoding="utf-8")))
     elle = {}
     if os.path.exists(ESLESME):
@@ -221,6 +236,9 @@ def main():
         marj = float(g.get("marj") or 2)
         print(f"== {ad}: {url}")
         kartlar = ideasoft_liste(url) if tip == "ideasoft" else ticimax_liste(url)
+        filtre = (g.get("filtre") or "").strip()
+        if kartlar and filtre:
+            kartlar = [c for c in kartlar if re.search(filtre, c["ad"], re.I)]
         bizim = [u for u in urunler if u["category"] == ad]
         if not kartlar:
             ozet.append(f"{ad}: KAYNAK OKUNAMADI, bu grup bugün güncellenmedi ({len(bizim)} ürün)")

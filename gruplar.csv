@@ -1,4 +1,5 @@
-grup,url,tip,min_fiyat,marj
-KLAS NİKON,https://www.klasfoto.com.tr/marka/nikon?stoktakiler=1,ideasoft,1000,4.5
-NOVA GİMBAL,https://www.novafotograf.com/kategori/gimbal-ve-sabitleyiciler?stoktakiler=1,ideasoft,1000,4.5
-FOTOKOLİK TELESİN,https://www.fotokolik.com/telesin-217,ticimax,0,4.5
+grup,url,tip,min_fiyat,marj,filtre
+KLAS NİKON,https://www.klasfoto.com.tr/marka/nikon?stoktakiler=1,ideasoft,1000,4.5,
+NOVA GİMBAL,https://www.novafotograf.com/kategori/gimbal-ve-sabitleyiciler?stoktakiler=1,ideasoft,1000,4.5,
+FOTOKOLİK TELESİN,https://www.fotokolik.com/telesin-217,ticimax,0,4.5,
+FOTOKOLİK RODE,https://www.fotokolik.com/ses-sistemi,ticimax,1000,4.5,^\s*r[oø]de\b
