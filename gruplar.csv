@@ -5,3 +5,9 @@ FOTOKOLİK TELESİN,https://www.fotokolik.com/telesin-217,ticimax,0,4.5,
 FOTOKOLİK RODE,https://www.fotokolik.com/ses-sistemi,ticimax,1000,4.5,^\s*r[oø]de\b
 FOTOGRAFIUM SARAMONİC,https://fotografium.com/saramonic?stock=1,tsoft,1000,6,
 FOTOKOLİK SARAMONİC,https://www.fotokolik.com/ses-sistemi,ticimax,1000,6,witalk
+FOTOKOLİK SES,https://www.fotokolik.com/ses-sistemi,ticimax,1000,7,^(?!\s*(r[oø]de|saramonic|boya))
+FOTOKOLİK BOYA,https://www.fotokolik.com/ses-sistemi,ticimax,1000,5,^\s*boya
+FOTOGRAFIUM SES,https://fotografium.com/pro-audio?stock=1,tsoft,1000,7,
+KLAS SES,https://www.klasfoto.com.tr/kategori/pro-audio-ses?stoktakiler=1,ideasoft,1000,7,
+NOVA SES,https://www.novafotograf.com/kategori/ses-cihazlari?stoktakiler=1,ideasoft,1000,7,
+FOTOÇARŞI SES,https://fotocarsi.com/products.php?category=ses&stock=in,fotocarsi,1000,7,
