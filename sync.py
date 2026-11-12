@@ -27,6 +27,7 @@ KAYNAK = os.path.join(KOK, "data", "kaynak.csv")
 HARIC = os.path.join(KOK, "haric.csv")
 RAPOR = os.path.join(KOK, "rapor")
 YENI = os.path.join(KOK, "data", "yeni")
+TASIMA = os.path.join(KOK, "data", "tasima.csv")  # sku,grup: grubu değiştirir; grup SİLİNDİ ise feed'e yazılmaz (id sırası korunur)
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 STOK_VAR = 5
 ALANLAR = ["id", "name", "brand", "sku", "barcode", "price", "currency", "stock", "availability",
@@ -242,11 +243,25 @@ def cdata(s):
     return "<![CDATA[" + str(s).replace("]]>", "]]]]><![CDATA[>") + "]]>"
 
 
-def yaz(urunler, yol, sadece=None):
-    """sadece: verilirse yalnızca bu stok kodlu ürünler yazılır (id'ler tam listedeki sırayla aynı kalır)."""
+def tasima_oku():
+    if not os.path.exists(TASIMA):
+        return {}
+    return {r["sku"].strip(): r["grup"].strip() for r in csv.DictReader(open(TASIMA, encoding="utf-8")) if r.get("sku")}
+
+
+def silinenler():
+    return {k for k, v in tasima_oku().items() if v == "SİLİNDİ"}
+
+
+def yaz(urunler, yol, sadece=None, tumu=False):
+    """sadece: verilirse yalnızca bu stok kodlu ürünler yazılır (id'ler tam listedeki sırayla aynı kalır).
+    tumu=False iken data/tasima.csv'de grubu SİLİNDİ olan ürünler atlanır; id'ler yine değişmez."""
+    sil = set() if tumu else silinenler()
     satir = ['<?xml version="1.0" encoding="UTF-8"?>', '<products source_id="1" source_name="fotoekspres-sync">']
     for i, u in enumerate(urunler, 1):
         if sadece is not None and u["sku"] not in sadece:
+            continue
+        if u["sku"] in sil:
             continue
         satir.append(" <product>")
         for a in ALANLAR:
@@ -285,6 +300,11 @@ def main():
                     eklenen += 1
             if eklenen:
                 print(f"{ad_}: {eklenen} yeni ürün ana listeye eklendi")
+    # data/tasima.csv (sku,grup): ürünün takip edildiği grubu (kaynak siteyi) değiştirir
+    tasima = tasima_oku()
+    for u in urunler:
+        if u["sku"] in tasima:
+            u["category"] = tasima[u["sku"]]
     gruplar = list(csv.DictReader(open(GRUP, encoding="utf-8")))
     elle = {}
     if os.path.exists(ESLESME):
@@ -371,7 +391,7 @@ def main():
         w.writerow(["sku", "url"])
         for k in sorted(eski):
             w.writerow([k, eski[k]])
-    yaz(urunler, ANA)
+    yaz(urunler, ANA, tumu=True)
     yaz(urunler, FEED)
     # İlk yükleme dosyası: data/ilk_yukleme.txt içinde adı yazan data/yeni dosyalarındaki ürünler (İdeaSoft'a güvenli ilk aktarım için)
     ilk = os.path.join(KOK, "data", "ilk_yukleme.txt")
