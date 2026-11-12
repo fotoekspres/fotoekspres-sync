@@ -357,7 +357,7 @@
   <brand><![CDATA[Benro]]></brand>
   <sku><![CDATA[FE-BNR-13484]]></sku>
   <barcode><![CDATA[6931747312856]]></barcode>
-  <price><![CDATA[23871]]></price>
+  <price><![CDATA[24014]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -528,7 +528,7 @@
   <brand><![CDATA[Benro]]></brand>
   <sku><![CDATA[FE-BNR-13487]]></sku>
   <barcode><![CDATA[6931747312863]]></barcode>
-  <price><![CDATA[29254]]></price>
+  <price><![CDATA[29429]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -7411,7 +7411,7 @@
   <brand><![CDATA[Nikon]]></brand>
   <sku><![CDATA[FE-NKN-13615]]></sku>
   <barcode/>
-  <price><![CDATA[9283]]></price>
+  <price><![CDATA[9297]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -7653,7 +7653,7 @@
   <brand><![CDATA[Nikon]]></brand>
   <sku><![CDATA[FE-NKN-13622]]></sku>
   <barcode/>
-  <price><![CDATA[1189]]></price>
+  <price><![CDATA[1191]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -8679,7 +8679,7 @@
   <barcode><![CDATA[5440217724002]]></barcode>
   <price><![CDATA[3424]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[0]]></stock>
+  <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -8841,7 +8841,7 @@
   <barcode><![CDATA[176370800112]]></barcode>
   <price><![CDATA[784]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[0]]></stock>
+  <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -10079,7 +10079,7 @@
   <barcode><![CDATA[755794082267]]></barcode>
   <price><![CDATA[1678]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[0]]></stock>
+  <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -11300,7 +11300,7 @@
   <barcode/>
   <price><![CDATA[6849]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[0]]></stock>
+  <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -11333,9 +11333,9 @@
   <brand><![CDATA[Telesin]]></brand>
   <sku><![CDATA[FE-TLS-13725]]></sku>
   <barcode/>
-  <price><![CDATA[1976]]></price>
+  <price><![CDATA[2080]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[0]]></stock>
+  <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -20703,5 +20703,2381 @@
   <image1><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/rode-ws14-podmic-ve-podmic-usb-mikrofo-0ce533.jpg]]></image1>
   <image2><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/rode-ws14-podmic-ve-podmic-usb-mikrofo-6e7-ae.jpg]]></image2>
   <image3><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/rode-ws14-podmic-ve-podmic-usb-mikrofo-468-ca.jpg]]></image3>
+ </product>
+ <product>
+  <id><![CDATA[460]]></id>
+  <name><![CDATA[Saramonic SR-M3 Kamera Üstü Mini Shotgun Mikrofon]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13937]]></sku>
+  <barcode><![CDATA[615068639736]]></barcode>
+  <price><![CDATA[1483]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic SR-M3 Kamera Üstü Mini Shotgun Mikrofon</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic SR-M3, fotoğraf makineleri ve video kameralar için tasarlanmış, entegre şok emicili mini bir süperkardioid shotgun mikrofondur. Doğrulttuğunuz yöndeki sesi öne çıkararak vlog, röportaj ve konuşma kayıtlarında kameranın dahili mikrofonuna göre çok daha net bir ses sunar.</div>
+<div>&nbsp;</div>
+<div>Üzerindeki harici mikrofon girişi ve kulaklık çıkışı, onu benzerlerinden ayıran en önemli özelliklerdir: Bir yaka mikrofonu ekleyerek iki ses kaynağını aynı anda kaydedebilir, kayda giden sesi kulaklıktan dinleyebilirsiniz.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Süperkardioid yönlü mini shotgun yapı</div>
+<div>75 Hz - 18 kHz frekans aralığı</div>
+<div>Entegre şok emici</div>
+<div>Harici mikrofon girişi ile ikinci bir mikrofon ekleyebilme</div>
+<div>Kayıt sırasında dinleme için kulaklık çıkışı</div>
+<div>Düşük frekans gürültüsü için low-cut filtre</div>
+<div>Düşük sinyalde +10 dB kazanç anahtarı</div>
+<div>Sadece 32 gram</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Kamera kızağına (hot-shoe) takılır; 3.5 mm mikrofon girişli fotoğraf makineleri, video kameralar ve kayıt cihazlarıyla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Vlog çekenler, aynasız veya DSLR makineyle röportaj yapan içerik üreticileri ve kameraya pratik bir ses yükseltmesi isteyenler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Tip: Kondenser mini shotgun</div>
+<div>Yön karakteristiği: Süperkardioid</div>
+<div>Frekans aralığı: 75 Hz - 18 kHz</div>
+<div>Kazanç: +10 dB anahtar</div>
+<div>Ağırlık: 32 g</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>İki mikrofon aynı anda kullanılabilir mi?</strong></div>
+<div>Evet. SR-M3 üzerindeki harici girişe bir yaka mikrofonu bağlayarak iki ses kaynağını birlikte kameraya gönderebilirsiniz.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-sr-m3-ekstra-mikrofon-girisli-ve-kulaklik-cikisli-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-saramonic-mart-2024-kampanya-40188-13-B.png]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-sr-m3-ekstra-mikrofon-girisli-ve-kulaklik-cikisli-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-saramonic-mart-2024-kampanya-40189-13-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-sr-m3-ekstra-mikrofon-girisli-ve-kulaklik-cikisli-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-saramonic-mart-2024-kampanya-40190-13-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-sr-m3-ekstra-mikrofon-girisli-ve-kulaklik-cikisli-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-saramonic-mart-2024-kampanya-40191-13-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-sr-m3-ekstra-mikrofon-girisli-ve-kulaklik-cikisli-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-saramonic-mart-2024-kampanya-40192-13-B.jpg]]></image5>
+ </product>
+ <product>
+  <id><![CDATA[461]]></id>
+  <name><![CDATA[Saramonic Ultra 01 2 Kişilik Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13938]]></sku>
+  <barcode><![CDATA[6977490710228]]></barcode>
+  <price><![CDATA[10017]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Ultra 01 2 Kişilik Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Ultra, içerik üretimi, gazetecilik ve film yapımı için geliştirilmiş, dahili kayıt özellikli iki vericiden oluşan kablosuz yaka mikrofonu sistemidir. Tak-çalıştır alıcısı akıllı telefon, kamera ve bilgisayarlarla kolayca çalışır.</div>
+<div>&nbsp;</div>
+<div>32-bit float kayıt, otomatik kazanç ve ClearVoice gürültü engelleme sayesinde çok az uğraşla profesyonel ve temiz bir ses elde edersiniz.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki verici ve bir alıcı</div>
+<div>Vericilerde 32-bit float dahili kayıt</div>
+<div>Otomatik kazanç ve ClearVoice AGC gürültü engelleme</div>
+<div>130 dB yüksek maksimum SPL</div>
+<div>Her ışıkta kolay okunan AMOLED dokunmatik ekran</div>
+<div>Şarj kutusu ile toplam 18 saate kadar kullanım</div>
+<div>Saramonic uygulaması ile kontrol</div>
+<div>Gizli kullanım için iki adet omni yaka mikrofonu</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>USB-C ve Lightning adaptörleri ile Android telefonlar, iPhone ve bilgisayarlara bağlanır.</div>
+<div>Sarmal 3.5 mm TRS kablo ile kameralar ve harici kayıt cihazlarıyla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Telefonla ve kamerayla iki kişilik röportaj, vlog ve kurumsal video çeken içerik üreticileri ve gazeteciler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>2 adet verici, 1 adet alıcı</div>
+<div>USB-C ve Lightning çıkış adaptörü</div>
+<div>Sarmal 3.5 mm TRS kablo</div>
+<div>Harici anten</div>
+<div>2 adet klipsli omni yaka mikrofonu</div>
+<div>2 adet manyetik verici montajı</div>
+<div>2 adet tüylü rüzgarlık</div>
+<div>USB-C kablo</div>
+<div>Taşıma çantası</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Dahili kayıt: 32-bit float</div>
+<div>Maks. SPL: 130 dB</div>
+<div>Kullanım süresi: Şarj kutusu ile 18 saate kadar</div>
+<div>Ekran: AMOLED dokunmatik</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>iPhone ile uyumlu mu?</strong></div>
+<div>Evet. Kutudan çıkan Lightning adaptörü ile Lightning girişli iPhone'lara, USB-C adaptörü ile USB-C girişli iPhone ve Android telefonlara bağlanır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-ultra-01-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-93927-24-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-ultra-01-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-93930-24-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-ultra-01-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-93917-24-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-ultra-01-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-93918-24-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-ultra-01-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-93919-24-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-ultra-01-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-93920-24-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-ultra-01-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-93921-24-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-ultra-01-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-93922-24-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[462]]></id>
+  <name><![CDATA[Saramonic K9 Digital DUO UHF Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13939]]></sku>
+  <barcode><![CDATA[6977490710594]]></barcode>
+  <price><![CDATA[44519]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic K9 Digital DUO UHF Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic K9 Digital DUO, mobil gazeteciler ve sahada doğrudan kamera ya da ses kayıt cihazına kayıt yapan profesyoneller için tasarlanmış iki kişilik dijital UHF kablosuz mikrofon sistemidir.</div>
+<div>&nbsp;</div>
+<div>UHF frekanslarında çalıştığı için yoğun kablosuz sinyal bulunan ortamlarda bile net ve kararlı ses iletimi sağlar; aynı anda 20 sisteme kadar birlikte çalışabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Kamera üstü alıcı, iki bel tipi verici ve iki mini yaka mikrofonu</div>
+<div>550 - 960 MHz arası geniş UHF frekans aralığı</div>
+<div>GPS tabanlı frekans güncellemesi ve otomatik tarama</div>
+<div>Aynı anda 20 sisteme kadar çakışmasız çalışma</div>
+<div>Vericilerde 10 / 25 / 50 / 100 mW seçilebilir RF gücü</div>
+<div>Vericilerde kilitli 3.5 mm TRS giriş (mikrofon veya hat seviyesi)</div>
+<div>130 dB dinamik aralık</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>3.5 mm TRS ve USB-C çıkışlar ile kameralar, mikserler, kayıt cihazları, mobil cihazlar ve bilgisayarlarla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Etkinlik, haber, belgesel ve kalabalık RF ortamlarında güvenilir kablosuz ses isteyen profesyonel ekipler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Sistem: 1 alıcı + 2 bel tipi verici + 2 yaka mikrofonu</div>
+<div>Frekans: 550 - 960 MHz UHF</div>
+<div>RF gücü: 10 / 25 / 50 / 100 mW</div>
+<div>Dinamik aralık: 130 dB</div>
+<div>Çıkış: 3.5 mm TRS ve USB-C</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>2.4 GHz sistemlerden farkı nedir?</strong></div>
+<div>UHF sistemler Wi-Fi ve Bluetooth yoğunluğunun olduğu ortamlarda daha az etkilenir; kalabalık etkinliklerde daha güvenilir bağlantı sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-k9-digital-duo-uhf-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-106960-27-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-k9-digital-duo-uhf-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-106961-27-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-k9-digital-duo-uhf-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-106962-27-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-k9-digital-duo-uhf-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-106967-27-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-k9-digital-duo-uhf-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-106966-27-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-k9-digital-duo-uhf-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-106968-27-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-k9-digital-duo-uhf-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-106963-27-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-k9-digital-duo-uhf-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-106969-27-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[463]]></id>
+  <name><![CDATA[Saramonic Blink 500 ProX RXDi iPhone Kablosuz Mikrofon Alıcısı (Lightning)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13940]]></sku>
+  <barcode><![CDATA[6974700653801]]></barcode>
+  <price><![CDATA[3815]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink 500 ProX RXDi iPhone Kablosuz Mikrofon Alıcısı (Lightning)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink 500 ProX RXDi, iki adet Blink 500 ProX vericiden aynı anda kablosuz ses alabilen, iPhone ve iPad için kompakt bir Lightning alıcıdır. Cihazın Lightning girişine doğrudan takılır, ayrı güç veya kablo gerektirmez.</div>
+<div>&nbsp;</div>
+<div>Mevcut Blink 500 ProX sistemlerine ek alıcı olarak ya da B3 ve B4 setlerinde yedek alıcı olarak kullanılabilir. Verici kutuda yoktur, ayrı satılır.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Lightning girişe doğrudan takılan alıcı</div>
+<div>İki vericiden aynı anda ses alımı</div>
+<div>100 metreye kadar menzil</div>
+<div>16-bit / 48 kHz dijital ses</div>
+<div>Dinleme için 3.5 mm kulaklık çıkışı</div>
+<div>Mono / stereo çıkış seçimi</div>
+<div>Aynı anda 18 sisteme kadar birlikte çalışma</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Lightning girişli iPhone ve iPad modelleriyle uyumludur.</div>
+<div>Blink 500 ProX vericileriyle (B1, B2, B3, B4, B5, B6 setleri) kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Blink 500 ProX vericisi olan ve iPhone ile kayıt yapmak isteyen içerik üreticileri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Bağlantı: Lightning</div>
+<div>Kanal: 2</div>
+<div>Menzil: 100 m</div>
+<div>Ses: 16-bit / 48 kHz</div>
+<div>Kablosuz: 2.4 GHz dijital</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Verici kutudan çıkıyor mu?</strong></div>
+<div>Hayır. RXDi sadece alıcıdır; Blink 500 ProX vericileri ayrı satılır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink-500-prox-rxdi-iphone-icin-kablosuz-mikrofon-alici-unite-kablosuz-yaka-mikrofonlari-saramonic-113710-27-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink-500-prox-rxdi-iphone-icin-kablosuz-mikrofon-alici-unite-kablosuz-yaka-mikrofonlari-saramonic-113711-27-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink-500-prox-rxdi-iphone-icin-kablosuz-mikrofon-alici-unite-kablosuz-yaka-mikrofonlari-saramonic-113712-27-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink-500-prox-rxdi-iphone-icin-kablosuz-mikrofon-alici-unite-kablosuz-yaka-mikrofonlari-saramonic-113713-27-B.jpg]]></image4>
+ </product>
+ <product>
+  <id><![CDATA[464]]></id>
+  <name><![CDATA[Saramonic SoundBird V1 Shotgun Mikrofon]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13941]]></sku>
+  <barcode><![CDATA[6971008024852]]></barcode>
+  <price><![CDATA[7949]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic SoundBird V1 Shotgun Mikrofon</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic SoundBird V1, iç ve dış mekânda net ve doğal konuşma ile diyalog kaydı için tasarlanmış bir XLR shotgun mikrofondur. Kısa film, belgesel, web videosu ve düğün çekimlerine hemen başlamanız için gereken aksesuarlarla birlikte gelir.</div>
+<div>&nbsp;</div>
+<div>Tek bir AA pil veya kameranın ya da kayıt cihazının 48 V phantom gücü ile çalışabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Süperkardioid elektret kondenser kapsül</div>
+<div>AA pil veya 48 V phantom power ile çalışma</div>
+<div>Yüksek geçiren filtre ve ped kontrolleri</div>
+<div>50 Hz - 20 kHz frekans aralığı</div>
+<div>132 dB maksimum SPL</div>
+<div>Kamera kızağı, boom pole veya stant üzerine montaj</div>
+<div>27,2 cm uzunluk</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>XLR girişli kameralar, ses kayıt cihazları ve mikserlerle kullanılır.</div>
+<div>Pil ile çalışabildiği için phantom power vermeyen cihazlarda da kullanılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Kısa film, belgesel ve düğün videosu çeken videograflar ile boom kullanan ses ekipleri için ekonomik bir çözümdür.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>SoundBird V1 mikrofon</div>
+<div>SR-SMC2 ayarlanabilir şok emici</div>
+<div>4 adet yedek şok emici lastiği</div>
+<div>Köpük rüzgarlık</div>
+<div>60 cm XLR kablo</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Tip: Elektret kondenser shotgun</div>
+<div>Yön karakteristiği: Süperkardioid</div>
+<div>Frekans aralığı: 50 Hz - 20 kHz</div>
+<div>Maks. SPL: 132 dB</div>
+<div>Hassasiyet: -32 dB (1 kHz)</div>
+<div>Çıkış: 3 pin XLR</div>
+<div>Uzunluk: 27,2 cm</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Fotoğraf makinesiyle kullanılır mı?</strong></div>
+<div>SoundBird V1 XLR çıkışlıdır; XLR girişi olmayan fotoğraf makinelerinde XLR - 3.5 mm adaptör kablo gerekir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-soundbird-v1-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-71193-20-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-soundbird-v1-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-71194-20-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-soundbird-v1-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-71195-20-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-soundbird-v1-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-71196-20-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-soundbird-v1-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-71197-20-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-soundbird-v1-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-71198-20-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-soundbird-v1-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-71199-20-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-soundbird-v1-shotgun-mikrofon-shotgun-kamera-ustu-mikrofonlar-saramonic-71200-20-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[465]]></id>
+  <name><![CDATA[Saramonic Blink500 ProX B2R 2 Kişilik Kayıtlı Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13942]]></sku>
+  <barcode><![CDATA[6974700653122]]></barcode>
+  <price><![CDATA[9539]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink500 ProX B2R 2 Kişilik Kayıtlı Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink500 ProX B2R, iki kişi için tasarlanmış son derece hafif ve kullanımı kolay bir kablosuz mikrofon sistemidir. Vericilerinde 8 GB dahili hafıza bulunur ve 24 saate kadar kayıt yapabilir; bağlantıda bir sorun olsa bile sesiniz güvende kalır.</div>
+<div>&nbsp;</div>
+<div>Akıllı telefon, tablet, bilgisayar, fotoğraf makinesi ve kayıt cihazlarına yayın kalitesinde ses sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki klipsli verici ve OLED ekranlı alıcı</div>
+<div>Vericilerde 8 GB dahili kayıt, 24 saate kadar kayıt</div>
+<div>Vericide dahili çok yönlü (omni) mikrofon</div>
+<div>Daha gizli kullanım için iki adet yaka mikrofonu</div>
+<div>100 metreye kadar menzil</div>
+<div>Düşük gecikme</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Akıllı telefonlar, tabletler, bilgisayarlar, fotoğraf makineleri, video kameralar ve ses kayıt cihazlarıyla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Vlog, röportaj, canlı yayın ve mobil gazetecilik yapan, kaydını kaybetmek istemeyen içerik üreticileri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Dahili kayıt: 8 GB, 24 saat</div>
+<div>Menzil: 100 m</div>
+<div>Alıcı ekranı: OLED</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Dahili kayıt ne işe yarar?</strong></div>
+<div>Kablosuz bağlantıda kesinti olsa bile verici sesi kendi hafızasına da kaydettiği için kaydınız kaybolmaz.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink500-prox-b2r-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-86735-23-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink500-prox-b2r-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-86736-23-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink500-prox-b2r-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-86737-23-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink500-prox-b2r-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-86738-23-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink500-prox-b2r-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-86739-23-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink500-prox-b2r-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-86740-23-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blink500-prox-b2r-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-86741-23-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blink500-prox-b2r-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-86742-23-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[466]]></id>
+  <name><![CDATA[Saramonic Blink 500 B2+ 2 Kişilik Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13943]]></sku>
+  <barcode><![CDATA[6974700654686]]></barcode>
+  <price><![CDATA[5935]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink 500 B2+ 2 Kişilik Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink 500 B2+, iki kişilik çekimler için tasarlanmış taşınabilir 2.4 GHz kablosuz mikrofon sistemidir. Yüksek performanslı gürültü azaltma özelliği sayesinde gürültülü ortamlarda bile konuşmayı öne çıkarır.</div>
+<div>&nbsp;</div>
+<div>Low-cut filtresi kayda giren düşük frekanslı uğultuyu keser; canlı yayın, vlog ve mobil gazetecilik için pratik bir çözümdür.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki verici ve bir alıcı</div>
+<div>150 metreye kadar kablosuz menzil</div>
+<div>Ayrı kontrol edilebilen gürültü azaltma</div>
+<div>20 Hz - 20 kHz frekans aralığı, 48 kHz HD ses</div>
+<div>Low-cut filtre (75 Hz / 150 Hz)</div>
+<div>Vericide 20 saat, alıcıda 16 saat kullanım</div>
+<div>Rüzgarlıklar ile birlikte gelir</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Fotoğraf makineleri, video kameralar, akıllı telefonlar ve bilgisayarlarla uygun kablolarla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>İki kişilik röportaj, vlog ve canlı yayın yapan, uygun fiyatlı ve uzun pil ömürlü bir kablosuz sistem arayan içerik üreticileri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Frekans: 2.4 GHz</div>
+<div>Menzil: 150 m</div>
+<div>Frekans aralığı: 20 Hz - 20 kHz</div>
+<div>Low-cut: 75 / 150 Hz</div>
+<div>Pil: Verici 20 saat, alıcı 16 saat</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Gürültülü ortamda işe yarar mı?</strong></div>
+<div>Evet. Ayrı açılıp kapatılabilen gürültü azaltma özelliği ortam gürültüsünü düşürür ve konuşmayı öne çıkarır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink-500-b2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-saramonic-mart-2024-kampanya-75936-21-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink-500-b2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-saramonic-mart-2024-kampanya-75937-21-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink-500-b2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-saramonic-mart-2024-kampanya-75938-21-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink-500-b2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-saramonic-mart-2024-kampanya-75939-21-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink-500-b2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-saramonic-mart-2024-kampanya-75940-21-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink-500-b2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-saramonic-mart-2024-kampanya-75942-21-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blink-500-b2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-saramonic-mart-2024-kampanya-75943-21-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blink-500-b2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-saramonic-mart-2024-kampanya-75944-21-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[467]]></id>
+  <name><![CDATA[Saramonic SoundBird V6 Profesyonel Shotgun Mikrofon]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13944]]></sku>
+  <barcode><![CDATA[6971008028201]]></barcode>
+  <price><![CDATA[14828]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic SoundBird V6 Profesyonel Shotgun Mikrofon</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic SoundBird V6, saha kayıtçıları, ses tasarımcıları ve film yapımcıları için eksiksiz bir mikrofon çözümü olarak tasarlanmış XLR shotgun mikrofondur. İç ve dış mekânda konuşma, diyalog, foley ve ses efektlerini net ve doğal şekilde kaydeder.</div>
+<div>&nbsp;</div>
+<div>Kısa XLR kablosundan su geçirmez kılıfa kadar ihtiyaç duyacağınız aksesuarlarla birlikte gelir; kutudan çıkar çıkmaz çekime hazırdır.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Profesyonel XLR shotgun mikrofon</div>
+<div>48 V phantom power ile çalışma</div>
+<div>Boom pole, stant veya kamera kızağına montaj</div>
+<div>Titreşimi azaltan şok emici dahil</div>
+<div>Su geçirmez kılıf ve aksesuar seti</div>
+<div>25 cm uzunluk</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>XLR girişli ve phantom power verebilen kameralar, ses kayıt cihazları, preamp'ler ve mikserlerle kullanılır. Orta hassasiyetli olduğu için yüksek kazançlı preamp'lerle en iyi sonucu verir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Kısa film, belgesel, saha kaydı ve ses tasarımı yapan profesyoneller için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Tip: Kondenser shotgun</div>
+<div>Güç: 48 V phantom power</div>
+<div>Çıkış: XLR</div>
+<div>Uzunluk: 25 cm</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Pil ile çalışır mı?</strong></div>
+<div>Hayır. SoundBird V6 48 V phantom power ile çalışır; pil ile çalışan model SoundBird V1'dir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-soundbird-v6-shotgun-mikrofon-boom-mikrofonlar-saramonic-71223-20-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-soundbird-v6-shotgun-mikrofon-boom-mikrofonlar-saramonic-71224-20-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-soundbird-v6-shotgun-mikrofon-boom-mikrofonlar-saramonic-71225-20-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-soundbird-v6-shotgun-mikrofon-boom-mikrofonlar-saramonic-71226-20-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-soundbird-v6-shotgun-mikrofon-boom-mikrofonlar-saramonic-71228-20-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-soundbird-v6-shotgun-mikrofon-boom-mikrofonlar-saramonic-71227-20-B.jpg]]></image6>
+ </product>
+ <product>
+  <id><![CDATA[468]]></id>
+  <name><![CDATA[Saramonic Blink500 ProX B8 4 Kişilik Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13945]]></sku>
+  <barcode><![CDATA[6974700654709]]></barcode>
+  <price><![CDATA[26499]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink500 ProX B8 4 Kişilik Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink500 ProX B8, dört kişinin aynı anda konuşmasını destekleyen kablosuz dijital mikrofon sistemidir. Podcast, panel, grup röportajı ve çok kişili çekimlerde fotoğraf makinesi, kayıt cihazı, mikser veya mobil cihaza net ses kaydı yapar.</div>
+<div>&nbsp;</div>
+<div>Blink 500 Pro'nun yeni nesil versiyonudur; vericileri kayıpsız WAV formatında dahili kayıt yapabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Dört klipsli verici, her birinde dahili çok yönlü mikrofon</div>
+<div>Vericilerde kayıpsız WAV formatında dahili kayıt</div>
+<div>Daha gizli kullanım için dört adet yaka mikrofonu</div>
+<div>Aynı anda dört konuşmacıyı kaydetme</div>
+<div>Kamera, kayıt cihazı, mikser ve mobil cihazlarla uyumluluk</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Aynasız ve DSLR fotoğraf makineleri, video kameralar, ses kayıt cihazları, mikserler ve mobil cihazlarla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Dört kişilik podcast, panel, grup röportajı ve canlı yayın yapan içerik üreticileri ve videograflar için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 4 verici</div>
+<div>Dahili kayıt: WAV</div>
+<div>Mikrofon: Dahili çok yönlü + harici yaka mikrofonu</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kaç kişiyi aynı anda kaydeder?</strong></div>
+<div>Blink500 ProX B8 dört vericisiyle dört kişiyi aynı anda kaydedebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink500-prox-b8-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-100690-25-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink500-prox-b8-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-100691-25-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink500-prox-b8-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-100692-25-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink500-prox-b8-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-100694-25-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink500-prox-b8-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-100695-25-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink500-prox-b8-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-100696-25-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blink500-prox-b8-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-100697-25-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blink500-prox-b8-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-100693-25-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[469]]></id>
+  <name><![CDATA[Saramonic BlinkMe U2 2 Kişilik Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13946]]></sku>
+  <barcode><![CDATA[6974700654631]]></barcode>
+  <price><![CDATA[8479]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic BlinkMe U2 2 Kişilik Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic BlinkMe U2, USB-C ve Lightning girişli mobil cihazlara doğrudan kayıt yapan içerik üreticileri için tasarlanmış, iki kişilik gerçek kablosuz dijital mikrofon sistemidir.</div>
+<div>&nbsp;</div>
+<div>Tek tıkla eşleşir, kutudan çıkar çıkmaz kullanıma hazırdır ve görüş hattında 100 metreye kadar kesintisiz ses aktarımı sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki klipsli verici, her birinde dahili çok yönlü mikrofon</div>
+<div>USB-C ve Lightning konnektörlü iki çift kanallı alıcı</div>
+<div>Tek tıkla hızlı eşleştirme</div>
+<div>100 metreye kadar menzil</div>
+<div>Vericilerde 8 saate kadar kullanım</div>
+<div>Şarj kutusu ile taşıma ve şarj</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>USB-C girişli Android telefonlar, USB-C girişli iPhone'lar ve Lightning girişli iPhone ve iPad'lerle doğrudan çalışır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Telefonla vlog, röportaj ve sosyal medya içeriği çeken, hem iPhone hem Android kullanan içerik üreticileri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 2 verici</div>
+<div>Alıcı: USB-C ve Lightning</div>
+<div>Menzil: 100 m</div>
+<div>Pil: Vericide 8 saat</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Hem iPhone hem Android ile kullanılır mı?</strong></div>
+<div>Evet. Kutuda USB-C ve Lightning alıcılar bulunduğu için iki tür cihazla da doğrudan kullanılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blinkme-u2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-76372-21-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blinkme-u2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-76366-21-B.png]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blinkme-u2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-76369-21-B.png]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blinkme-u2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-76367-21-B.png]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blinkme-u2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-76371-21-B.png]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blinkme-u2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-76364-21-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blinkme-u2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-76362-21-B.webp]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blinkme-u2-2-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-76363-21-B.webp]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[470]]></id>
+  <name><![CDATA[Saramonic WiTalk5 SRH Tek Kulaklı Kablosuz İnterkom Kulaklığı]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13947]]></sku>
+  <barcode><![CDATA[6974700650701]]></barcode>
+  <price><![CDATA[7949]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk5 SRH Tek Kulaklı Kablosuz İnterkom Kulaklığı</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk5 SRH, Saramonic WiTalk5 interkom sisteminize eklenebilen tek kulaklı kablosuz uzak kulaklıktır. Ana Saramonic WiTalk5 kulaklığı ile çalışarak ekibinize yeni bir kişi eklemenizi sağlar (ana kulaklık ayrı satılır).</div>
+<div>&nbsp;</div>
+<div>Tek kulaklı tasarım, diğer kulağınızın çevreyi duymasına imkân verir; bel paketi gerektirmeyen yapısıyla gün boyu rahat kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Saramonic WiTalk5 sistemine eklenen tek kulaklı uzak kulaklık</div>
+<div>Bel paketi gerektirmeyen gerçek kablosuz tasarım</div>
+<div>Çevreyi duymaya imkân veren tek kulak yapısı</div>
+<div>Şarj edilebilir lityum iyon pil</div>
+<div>USB şarj kablosu ve kapaklı kutu dahil</div>
+<div>Görüş hattında yaklaşık 400 metreye kadar menzil</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk5 serisi ana kulaklık veya Saramonic WiTalk5 HUB ile kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Mevcut Saramonic WiTalk5 interkom sistemini büyütmek isteyen film, etkinlik ve sahne ekipleri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>Saramonic WiTalk5 SRH kulaklık</div>
+<div>Şarj edilebilir lityum iyon pil</div>
+<div>USB şarj kablosu</div>
+<div>Kapaklı kutu</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk5 SRH</div>
+<div>Tip: Tek kulaklı kablosuz uzak kulaklık</div>
+<div>Pil: Şarj edilebilir lityum iyon</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Tek başına çalışır mı?</strong></div>
+<div>Hayır. Saramonic WiTalk5 SRH bir uzak kulaklıktır; Saramonic WiTalk5 ana kulaklığı veya HUB ile birlikte çalışır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-witalk5-srh-interkom-kulaklik-intercom-sistemleri-saramonic-76206-21-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-witalk5-srh-interkom-kulaklik-intercom-sistemleri-saramonic-76208-21-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-witalk5-srh-interkom-kulaklik-intercom-sistemleri-saramonic-76207-21-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-witalk5-srh-interkom-kulaklik-intercom-sistemleri-saramonic-76209-21-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-witalk5-srh-interkom-kulaklik-intercom-sistemleri-saramonic-76210-21-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-witalk5-srh-interkom-kulaklik-intercom-sistemleri-saramonic-76215-21-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-witalk5-srh-interkom-kulaklik-intercom-sistemleri-saramonic-76211-21-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-witalk5-srh-interkom-kulaklik-intercom-sistemleri-saramonic-76212-21-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[471]]></id>
+  <name><![CDATA[Saramonic WiTalk5 DRH Çift Kulaklı Kablosuz İnterkom Kulaklığı]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13948]]></sku>
+  <barcode><![CDATA[6971008029970]]></barcode>
+  <price><![CDATA[10599]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk5 DRH Çift Kulaklı Kablosuz İnterkom Kulaklığı</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk5 DRH, Saramonic WiTalk5 interkom sisteminize eklenebilen çift kulaklı, tam çift yönlü kablosuz uzak kulaklıktır. Ana Saramonic WiTalk5 kulaklığı ile birlikte çalışır (ayrı satılır).</div>
+<div>&nbsp;</div>
+<div>Çift kulak tasarımı, konser, stadyum ve set gibi gürültülü ortamlarda bile ekibinizi net duymanızı sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Çift kulaklı, gürültülü ortamlar için uygun tasarım</div>
+<div>Tam çift yönlü iletişim</div>
+<div>Bel paketi gerektirmeyen gerçek kablosuz yapı</div>
+<div>Görüş hattında 400 metreye kadar menzil</div>
+<div>Şarj edilebilir lityum iyon pil</div>
+<div>USB şarj kablosu ve kapaklı kutu dahil</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk5 serisi ana kulaklık veya Saramonic WiTalk5 HUB ile kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Konser, spor, canlı yayın ve gürültülü set ortamlarında çalışan ekipler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>Saramonic WiTalk5 DRH kulaklık</div>
+<div>Şarj edilebilir lityum iyon pil</div>
+<div>USB şarj kablosu</div>
+<div>Kapaklı kutu</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk5 DRH</div>
+<div>Tip: Çift kulaklı kablosuz uzak kulaklık</div>
+<div>Menzil: 400 m (görüş hattı)</div>
+<div>Pil: Şarj edilebilir lityum iyon</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>SRH'den farkı nedir?</strong></div>
+<div>Saramonic WiTalk5 DRH çift kulaklıdır ve gürültülü ortamlarda daha iyi duyma sağlar; SRH ise tek kulaklıdır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-witalk5-drh-tam-cift-yonlu-kablosuz-cift-kulakli-interkom-kulakligi-intercom-sistemleri-saramonic-76178-21-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-witalk5-drh-tam-cift-yonlu-kablosuz-cift-kulakli-interkom-kulakligi-intercom-sistemleri-saramonic-76181-21-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-witalk5-drh-tam-cift-yonlu-kablosuz-cift-kulakli-interkom-kulakligi-intercom-sistemleri-saramonic-76180-21-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-witalk5-drh-tam-cift-yonlu-kablosuz-cift-kulakli-interkom-kulakligi-intercom-sistemleri-saramonic-76182-21-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-witalk5-drh-tam-cift-yonlu-kablosuz-cift-kulakli-interkom-kulakligi-intercom-sistemleri-saramonic-76184-21-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-witalk5-drh-tam-cift-yonlu-kablosuz-cift-kulakli-interkom-kulakligi-intercom-sistemleri-saramonic-76179-21-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-witalk5-drh-tam-cift-yonlu-kablosuz-cift-kulakli-interkom-kulakligi-intercom-sistemleri-saramonic-76185-21-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-witalk5-drh-tam-cift-yonlu-kablosuz-cift-kulakli-interkom-kulakligi-intercom-sistemleri-saramonic-76183-21-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[472]]></id>
+  <name><![CDATA[Saramonic Blink Go-D2 Kit 2 Kişilik Kablosuz Mikrofon (iPhone, Lightning)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13949]]></sku>
+  <barcode><![CDATA[6974700652354]]></barcode>
+  <price><![CDATA[6571]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink Go-D2 Kit 2 Kişilik Kablosuz Mikrofon (iPhone, Lightning)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink Go-D2, Lightning girişli iPhone ve iPad'ler için tasarlanmış, bir alıcı ve iki vericiden oluşan ultra kompakt 2.4 GHz kablosuz mikrofon sistemidir.</div>
+<div>&nbsp;</div>
+<div>Otomatik eşleştirme ve seçilebilir gürültü engelleme özellikleriyle canlı yayın ve vlog için pratik bir çözümdür; hafifliği sayesinde gimbal üzerinde de rahatça kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Bir alıcı ve iki verici (iki konuşmacı)</div>
+<div>Lightning girişe doğrudan takılan alıcı</div>
+<div>Dijital 2.4 GHz iletim, 50 metre menzil</div>
+<div>Otomatik eşleştirme</div>
+<div>Güç tuşuna çift tıklayarak açılıp kapanan gürültü engelleme</div>
+<div>Ultra kompakt ve hafif yapı</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Lightning girişli iPhone ve iPad modelleriyle uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>iPhone ile vlog, canlı yayın ve iki kişilik sosyal medya içeriği çekenler için ekonomik bir çözümdür.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Bağlantı: Lightning</div>
+<div>Frekans: 2.4 GHz</div>
+<div>Menzil: 50 m</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>USB-C girişli iPhone ile çalışır mı?</strong></div>
+<div>Hayır. Blink Go-D2 Lightning girişlidir; USB-C girişli cihazlar için Blink Go-U2 tercih edilmelidir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink-go-d2-kit-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink-go-53577-17-B.png]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink-go-d2-kit-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink-go-53607-17-B.png]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink-go-d2-kit-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink-go-53608-17-B.png]]></image3>
+ </product>
+ <product>
+  <id><![CDATA[473]]></id>
+  <name><![CDATA[Saramonic VWS Rüzgarlık ve Süspansiyon Sistemi (Blimp)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13950]]></sku>
+  <barcode><![CDATA[6971008021028]]></barcode>
+  <price><![CDATA[9539]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic VWS Rüzgarlık ve Süspansiyon Sistemi (Blimp)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic VWS, shotgun ve kalem mikrofonlar için geliştirilmiş rüzgarlık ve süspansiyon sistemidir (blimp). Dahili şok emicisi titreşimi azaltır, akustik olarak şeffaf tüylü kılıfı ise zorlu hava koşullarında bile temiz ses kaydetmenizi sağlar.</div>
+<div>&nbsp;</div>
+<div>Tabanca kabzası sayesinde elde kullanılabilir ya da boom pole veya stant üzerine takılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Ultra hafif blimp gövde</div>
+<div>Titreşimi azaltan dahili şok emici</div>
+<div>Akustik olarak şeffaf tüylü rüzgarlık</div>
+<div>Entegre spiral XLR kablo</div>
+<div>Elde kullanım için tabanca kabza</div>
+<div>Boom pole veya stant montajı</div>
+<div>Sökülebilir yapı ve taşıma çantası</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>38 cm uzunluğa ve 1,91 - 2,31 cm çapa kadar shotgun ve kalem mikrofonlarla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Rüzgarlı dış mekânlarda çekim yapan film ekipleri, belgeselciler ve saha ses kayıtçıları için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Tip: Blimp rüzgarlık ve süspansiyon</div>
+<div>Uyumlu mikrofon uzunluğu: 38 cm'ye kadar</div>
+<div>Uyumlu çap: 1,91 - 2,31 cm</div>
+<div>Kablo: Entegre spiral XLR</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Hangi mikrofonlara uyar?</strong></div>
+<div>38 cm'ye kadar uzunlukta ve 1,91 - 2,31 cm çapındaki shotgun ve kalem mikrofonlara uyar; Rode NTG ve Saramonic SoundBird serisi gibi.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-vws-windshield-mikrofon-ruzgar-onleyici-deadcat-ve-mikrofon-ruzgarliklari-saramonic-40588-14-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-vws-windshield-mikrofon-ruzgar-onleyici-deadcat-ve-mikrofon-ruzgarliklari-saramonic-40589-14-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-vws-windshield-mikrofon-ruzgar-onleyici-deadcat-ve-mikrofon-ruzgarliklari-saramonic-40590-14-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-vws-windshield-mikrofon-ruzgar-onleyici-deadcat-ve-mikrofon-ruzgarliklari-saramonic-40591-14-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-vws-windshield-mikrofon-ruzgar-onleyici-deadcat-ve-mikrofon-ruzgarliklari-saramonic-40592-14-B.jpg]]></image5>
+ </product>
+ <product>
+  <id><![CDATA[474]]></id>
+  <name><![CDATA[Saramonic Blink500 T4 4 Kişilik Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13951]]></sku>
+  <barcode><![CDATA[6974700655638]]></barcode>
+  <price><![CDATA[19079]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink500 T4 4 Kişilik Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink500 T4, çok kanallı kayıt için tasarlanmış profesyonel bir kablosuz mikrofon sistemidir. Aynı anda dört ses kanalını destekler; dört kanalı ayrı ayrı veya karışık olarak çıkış verebildiği için kurgu aşamasında büyük esneklik sağlar.</div>
+<div>&nbsp;</div>
+<div>Yayın kalitesinde ses sunar ve farklı marka ve işlevdeki cihazlarla sorunsuz çalışır.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Dört kanal için bağımsız veya karışık çıkış</div>
+<div>48 kHz / 24-bit ses, 120 dB maksimum SPL</div>
+<div>360 derece ses alan dahili kondenser mikrofonlar</div>
+<div>7 kademeli kazanç kontrolü ve gerçek zamanlı dinleme</div>
+<div>Algoritma tabanlı gürültü azaltma ve insan sesi tanıma</div>
+<div>2.4 GHz iletim, 100 metreye kadar menzil</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Fotoğraf makineleri, video kameralar, kayıt cihazları, bilgisayarlar ve mobil cihazlarla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Dört kişilik podcast, panel, grup röportajı ve çok kameralı çekimler yapan profesyonel içerik üreticileri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 4</div>
+<div>Ses: 48 kHz / 24-bit</div>
+<div>Maks. SPL: 120 dB</div>
+<div>Kazanç: 7 kademe</div>
+<div>Frekans: 2.4 GHz</div>
+<div>Menzil: 100 m</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Dört kişinin sesi ayrı kaydedilir mi?</strong></div>
+<div>Evet. Blink500 T4 dört kanalı bağımsız çıkış olarak verebilir; kurguda her kişinin sesini ayrı düzenleyebilirsiniz.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink500-t4-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-78809-22-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink500-t4-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-78801-22-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink500-t4-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-78803-22-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink500-t4-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-78802-22-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink500-t4-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-78805-22-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink500-t4-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-78806-22-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blink500-t4-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-78807-22-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blink500-t4-4-kisilik-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-78808-22-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[475]]></id>
+  <name><![CDATA[Saramonic WiTalk5 LBH Kablolu Tek Kulaklı Kulaklık (WiTalk5 HUB İçin)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13952]]></sku>
+  <barcode><![CDATA[6974700650220]]></barcode>
+  <price><![CDATA[3179]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk5 LBH Kablolu Tek Kulaklı Kulaklık (WiTalk5 HUB İçin)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk5 LBH, Saramonic WiTalk5 HUB baz istasyonunun 3.5 mm girişine doğrudan takılan kablolu, tek kulaklı bir kulaklıktır. Rejide veya yönetmen masasında oturan kişinin ekiple konuşmasını sağlar.</div>
+<div>&nbsp;</div>
+<div>HUB ile birlikte (ayrı satılır) 8 adede kadar kablosuz uzak kulaklıkla eşleşerek esnek ve güvenilir bir interkom sistemi kurar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Saramonic WiTalk5 HUB'a 3.5 mm ile bağlanan kablolu kulaklık</div>
+<div>Ayarlanabilir boom mikrofon kolu</div>
+<div>Mikrofonu susturma özelliği</div>
+<div>Hafif ve rahat tek kulak tasarımı</div>
+<div>Sistem genelinde 400 metreye kadar kablosuz menzil</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk5 HUB baz istasyonu ile kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Reji, yönetmen masası veya kontrol noktasından ekibi yöneten kişiler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk5 LBH</div>
+<div>Bağlantı: Kablolu, 3.5 mm</div>
+<div>Tip: Tek kulaklı, boom mikrofonlu</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kablosuz mu?</strong></div>
+<div>Hayır. Saramonic WiTalk5 LBH, Saramonic WiTalk5 HUB'a kabloyla bağlanır; ekibin diğer üyeleri kablosuz kulaklık kullanır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-witalk5-lbh-kablolu-tek-kulakli-kulaklik-witalk5-hub-icin-intercom-sistemleri-saramonic-76199-21-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-witalk5-lbh-kablolu-tek-kulakli-kulaklik-witalk5-hub-icin-intercom-sistemleri-saramonic-76200-21-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-witalk5-lbh-kablolu-tek-kulakli-kulaklik-witalk5-hub-icin-intercom-sistemleri-saramonic-76198-21-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-witalk5-lbh-kablolu-tek-kulakli-kulaklik-witalk5-hub-icin-intercom-sistemleri-saramonic-76201-21-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-witalk5-lbh-kablolu-tek-kulakli-kulaklik-witalk5-hub-icin-intercom-sistemleri-saramonic-76202-21-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-witalk5-lbh-kablolu-tek-kulakli-kulaklik-witalk5-hub-icin-intercom-sistemleri-saramonic-76203-21-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-witalk5-lbh-kablolu-tek-kulakli-kulaklik-witalk5-hub-icin-intercom-sistemleri-saramonic-76204-21-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-witalk5-lbh-kablolu-tek-kulakli-kulaklik-witalk5-hub-icin-intercom-sistemleri-saramonic-76205-21-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[476]]></id>
+  <name><![CDATA[Saramonic WiTalk5 HUB Baz İstasyonu (İnterkom Genişletme Ünitesi)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13953]]></sku>
+  <barcode><![CDATA[6971008029864]]></barcode>
+  <price><![CDATA[15899]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk5 HUB Baz İstasyonu (İnterkom Genişletme Ünitesi)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk5 HUB, Saramonic WiTalk5 interkom sisteminizi büyütmek için geliştirilmiş baz istasyonudur. HUB olmadan Saramonic WiTalk5 sistemi 5 kulaklığa kadar çalışır; ana kulaklığın yerine HUB kullandığınızda aynı anda 1 kablolu kulaklık ve 8 uzak kulaklık (kulaklıklar ayrı satılır) kullanabilirsiniz.</div>
+<div>&nbsp;</div>
+<div>İkinci bir HUB ile basamaklandırıldığında sistem toplam 17 kullanıcıya kadar genişler. 1.9 GHz bandında iletim yapan sistem, görüş hattında 400 metreye kadar güvenli bağlantı sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>1 kablolu + 8 kablosuz uzak kulaklık desteği</div>
+<div>İkinci HUB ile 17 kullanıcıya kadar genişleme</div>
+<div>1.9 GHz DECT bandında güvenli iletim</div>
+<div>Görüş hattında 400 metreye kadar menzil</div>
+<div>Kablolu kulaklık için 3.5 mm giriş (Saramonic WiTalk5 LBH ile uyumlu)</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk5 SRH ve Saramonic WiTalk5 DRH uzak kulaklıklar ile Saramonic WiTalk5 LBH kablolu kulaklık ile kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Film ve dizi setleri, konserler, canlı yayınlar ve büyük etkinliklerde kalabalık ekipleri tek sistemde toplamak isteyenler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk5 HUB</div>
+<div>Kapasite: 1 kablolu + 8 kablosuz kulaklık</div>
+<div>Genişleme: 17 kullanıcıya kadar</div>
+<div>Frekans: 1.9 GHz</div>
+<div>Menzil: 400 m (görüş hattı)</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kulaklıklar kutuda var mı?</strong></div>
+<div>Hayır. Saramonic WiTalk5 HUB yalnızca baz istasyonudur; kulaklıklar ayrı satılır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-witalk5-hub-base-station-intercom-sistemleri-saramonic-76193-21-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-witalk5-hub-base-station-intercom-sistemleri-saramonic-76196-21-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-witalk5-hub-base-station-intercom-sistemleri-saramonic-76192-21-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-witalk5-hub-base-station-intercom-sistemleri-saramonic-76194-21-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-witalk5-hub-base-station-intercom-sistemleri-saramonic-76195-21-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-witalk5-hub-base-station-intercom-sistemleri-saramonic-76197-21-B.jpg]]></image6>
+ </product>
+ <product>
+  <id><![CDATA[477]]></id>
+  <name><![CDATA[Saramonic BlinkMe B2 2 Kişilik Ekranlı Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13954]]></sku>
+  <barcode><![CDATA[6974700653337]]></barcode>
+  <price><![CDATA[7620]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic BlinkMe B2 2 Kişilik Ekranlı Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic BlinkMe B2, kameralar, akıllı telefonlar, bilgisayarlar, kayıt cihazları ve mikserler için yüksek kaliteli ses sağlayan yeni nesil, iki kişilik akıllı kablosuz mikrofon sistemidir.</div>
+<div>&nbsp;</div>
+<div>Dokunmatik ekranlı vericileri, dahili kayıt, aktif gürültü önleme ve özelleştirilebilir arayüz gibi özellikleriyle kendi sınıfında öne çıkar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki adet dokunmatik ekranlı verici, dahili çok yönlü mikrofon</div>
+<div>Vericilerde yüksek çözünürlüklü dahili kayıt</div>
+<div>Aktif gürültü önleme</div>
+<div>3.5 mm TRS/TRRS ve USB-C çıkış</div>
+<div>Özelleştirilebilir ekran ve ayar kontrolü</div>
+<div>Şarj kutusu ile taşıma ve şarj</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>3.5 mm girişli kameralar, kayıt cihazları ve mikserler ile USB-C girişli telefon ve bilgisayarlarla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Hem kamerayla hem telefonla çekim yapan, kayıt güvenliği için dahili kayıt isteyen içerik üreticileri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Çıkış: 3.5 mm ve USB-C</div>
+<div>Dahili kayıt: Var</div>
+<div>Gürültü önleme: Aktif</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kamera ve telefonla birlikte kullanılabilir mi?</strong></div>
+<div>Evet. Alıcı 3.5 mm ve USB-C bağlantı ile kamera, telefon ve bilgisayarla çalışır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blinkme-b2-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-64963-18-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blinkme-b2-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-64969-18-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blinkme-b2-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-64964-18-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blinkme-b2-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-64965-18-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blinkme-b2-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-64966-18-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blinkme-b2-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-64967-18-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blinkme-b2-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-74628-18-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blinkme-b2-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-74629-18-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[478]]></id>
+  <name><![CDATA[Saramonic Blink500 ProX B5 USB-C Girişli 2 Kişilik Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13955]]></sku>
+  <barcode><![CDATA[6974700652804]]></barcode>
+  <price><![CDATA[8309]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink500 ProX B5 USB-C Girişli 2 Kişilik Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink500 ProX B5, usb-c girişli 2 kişilik alıcı ile gelen kablosuz mikrofon setidir. Blink500 ProX serisi, 2.4 GHz iletim teknolojisi, büyük OLED ekran ve uzun çalışma süresi sunan ultra kompakt çift kanallı kablosuz mikrofon sistemidir. Kutudan çıkar çıkmaz kullanılabilir; yayıncılar, podcast yapımcıları, vlogger'lar ve film yapımcıları için idealdir.</div>
+<div>&nbsp;</div>
+<div>Vericiler klipsli tasarımlıdır; dahili mikrofonla doğrudan ya da birlikte gelen yaka mikrofonu ile bodypack olarak kullanılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>2.4 GHz dijital iletim</div>
+<div>Bilgileri net gösteren büyük OLED ekran</div>
+<div>Çift kanallı alıcı</div>
+<div>Dahili mikrofonlu klipsli vericiler</div>
+<div>Yaka mikrofonu ile gizli kullanım</div>
+<div>Uzun çalışma süresi ve şarj kutusu</div>
+<div>Kutudan çıkar çıkmaz kullanım</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>USB-C girişli Android telefonlar, tabletler, USB-C iPhone'lar ve bilgisayarlarla doğrudan çalışır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Telefonla iki kişilik röportaj, vlog ve canlı yayın yapanlar için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Model: Saramonic Blink500 ProX B5</div>
+<div>Frekans: 2.4 GHz</div>
+<div>Alıcı: Çift kanallı</div>
+<div>Ekran: OLED</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kaç kişi kullanabilir?</strong></div>
+<div>Saramonic Blink500 ProX B5 iki vericisiyle iki kişiyi aynı anda kaydeder.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink500-prox-b5-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55585-18-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink500-prox-b5-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55664-18-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink500-prox-b5-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55665-18-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink500-prox-b5-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55666-18-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink500-prox-b5-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55667-18-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink500-prox-b5-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55668-18-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blink500-prox-b5-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55669-18-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blink500-prox-b5-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55670-18-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[479]]></id>
+  <name><![CDATA[Saramonic Blink500 ProX B4 Lightning Girişli 2 Kişilik Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13956]]></sku>
+  <barcode><![CDATA[6974700652798]]></barcode>
+  <price><![CDATA[9645]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink500 ProX B4 Lightning Girişli 2 Kişilik Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink500 ProX B4, lightning girişli 2 kişilik alıcı ile gelen kablosuz mikrofon setidir. Blink500 ProX serisi, 2.4 GHz iletim teknolojisi, büyük OLED ekran ve uzun çalışma süresi sunan ultra kompakt çift kanallı kablosuz mikrofon sistemidir. Kutudan çıkar çıkmaz kullanılabilir; yayıncılar, podcast yapımcıları, vlogger'lar ve film yapımcıları için idealdir.</div>
+<div>&nbsp;</div>
+<div>Vericiler klipsli tasarımlıdır; dahili mikrofonla doğrudan ya da birlikte gelen yaka mikrofonu ile bodypack olarak kullanılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>2.4 GHz dijital iletim</div>
+<div>Bilgileri net gösteren büyük OLED ekran</div>
+<div>Çift kanallı alıcı</div>
+<div>Dahili mikrofonlu klipsli vericiler</div>
+<div>Yaka mikrofonu ile gizli kullanım</div>
+<div>Uzun çalışma süresi ve şarj kutusu</div>
+<div>Kutudan çıkar çıkmaz kullanım</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Lightning girişli iPhone ve iPad modelleriyle doğrudan çalışır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>iPhone ile iki kişilik röportaj, vlog ve canlı yayın yapanlar için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Model: Saramonic Blink500 ProX B4</div>
+<div>Frekans: 2.4 GHz</div>
+<div>Alıcı: Çift kanallı</div>
+<div>Ekran: OLED</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kaç kişi kullanabilir?</strong></div>
+<div>Saramonic Blink500 ProX B4 iki vericisiyle iki kişiyi aynı anda kaydeder.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink500-prox-b4-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55584-18-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink500-prox-b4-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55655-18-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink500-prox-b4-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55656-18-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink500-prox-b4-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55657-18-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink500-prox-b4-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55658-18-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink500-prox-b4-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55659-18-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blink500-prox-b4-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55660-18-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blink500-prox-b4-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55661-18-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[480]]></id>
+  <name><![CDATA[Saramonic Blink500 ProX B1 3.5 mm Çıkışlı 1 Kişilik Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13957]]></sku>
+  <barcode><![CDATA[6974700651203]]></barcode>
+  <price><![CDATA[7419]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink500 ProX B1 3.5 mm Çıkışlı 1 Kişilik Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink500 ProX B1, 3.5 mm çıkışlı 1 kişilik alıcı ile gelen kablosuz mikrofon setidir. Blink500 ProX serisi, 2.4 GHz iletim teknolojisi, büyük OLED ekran ve uzun çalışma süresi sunan ultra kompakt çift kanallı kablosuz mikrofon sistemidir. Kutudan çıkar çıkmaz kullanılabilir; yayıncılar, podcast yapımcıları, vlogger'lar ve film yapımcıları için idealdir.</div>
+<div>&nbsp;</div>
+<div>Vericiler klipsli tasarımlıdır; dahili mikrofonla doğrudan ya da birlikte gelen yaka mikrofonu ile bodypack olarak kullanılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>2.4 GHz dijital iletim</div>
+<div>Bilgileri net gösteren büyük OLED ekran</div>
+<div>Çift kanallı alıcı</div>
+<div>Dahili mikrofonlu klipsli vericiler</div>
+<div>Yaka mikrofonu ile gizli kullanım</div>
+<div>Uzun çalışma süresi ve şarj kutusu</div>
+<div>Kutudan çıkar çıkmaz kullanım</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>3.5 mm girişli fotoğraf makineleri, video kameralar, kayıt cihazları ve uygun kabloyla telefonlarla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Tek konuşmacıyla kameraya kayıt yapan vlogger'lar ve içerik üreticileri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Model: Saramonic Blink500 ProX B1</div>
+<div>Frekans: 2.4 GHz</div>
+<div>Alıcı: Çift kanallı</div>
+<div>Ekran: OLED</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kaç kişi kullanabilir?</strong></div>
+<div>Saramonic Blink500 ProX B1 bir vericisiyle bir kişiyi aynı anda kaydeder.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink500-prox-b1-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55581-18-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink500-prox-b1-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55595-18-B.png]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink500-prox-b1-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55596-18-B.png]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink500-prox-b1-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55597-18-B.png]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink500-prox-b1-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55598-18-B.png]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink500-prox-b1-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55616-18-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blink500-prox-b1-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55617-18-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blink500-prox-b1-kablosuz-yaka-mikrofonlari-saramonic-saramonic-blink500-prox-55618-18-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[481]]></id>
+  <name><![CDATA[Saramonic Vlink2 Kit2 2.4 GHz Talkback Özellikli Kablosuz Mikrofon (2 Verici + 1 Alıcı)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13958]]></sku>
+  <barcode><![CDATA[6971008026917]]></barcode>
+  <price><![CDATA[15899]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Vlink2 Kit2 2.4 GHz Talkback Özellikli Kablosuz Mikrofon (2 Verici + 1 Alıcı)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Vlink2, haber yayını, röportaj ve saha kaydı için geliştirilmiş, çok yönlü ve kullanımı kolay 2.4 GHz kablosuz mikrofon sistemidir. Kit2 iki verici ve bir alıcıdan oluşur.</div>
+<div>&nbsp;</div>
+<div>Gerçek zamanlı talkback özelliği sayesinde verici ve alıcı arasında iki yönlü iletişim kurulur: kayıt sırasında operatör ve konuşmacı birbirini duyup konuşabilir, kayıt ise yalnızca vericiden gelen sesi alır.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki verici + bir alıcı</div>
+<div>Verici ile alıcı arasında gerçek zamanlı talkback</div>
+<div>Gerçek zamanlı dinleme ile kayıt güvenliği</div>
+<div>2.4 GHz dijital iletim</div>
+<div>3.5 mm çıkış ile kamera ve kayıt cihazı uyumu</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>DSLR ve aynasız fotoğraf makineleri, video kameralar, taşınabilir ses kayıt cihazları ve 3.5 mm mikrofon girişli akıllı telefonlarla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Haber ekipleri, röportaj yapanlar ve kameraman ile muhabir arasında iletişim gereken saha çekimleri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Frekans: 2.4 GHz</div>
+<div>Talkback: Var</div>
+<div>Çıkış: 3.5 mm</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Talkback kayda girer mi?</strong></div>
+<div>Hayır. Talkback iletişimi verici ve alıcı arasında olur; kayda yalnızca vericiden gelen ses alınır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-vlink2-kit2-tx-tx-rx-24-ghz-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-51438-17-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-vlink2-kit2-tx-tx-rx-24-ghz-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-51440-17-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-vlink2-kit2-tx-tx-rx-24-ghz-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-51441-17-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-vlink2-kit2-tx-tx-rx-24-ghz-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-51442-17-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-vlink2-kit2-tx-tx-rx-24-ghz-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-51439-17-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-vlink2-kit2-tx-tx-rx-24-ghz-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-51443-17-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-vlink2-kit2-tx-tx-rx-24-ghz-kablosuz-mikrofon-sistemi-kablosuz-yaka-mikrofonlari-saramonic-51444-17-B.jpg]]></image7>
+ </product>
+ <product>
+  <id><![CDATA[482]]></id>
+  <name><![CDATA[Saramonic UwMic9 RX9 + TX9 1 Kişilik UHF Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13959]]></sku>
+  <barcode><![CDATA[6971008024081]]></barcode>
+  <price><![CDATA[14839]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic UwMic9 RX9 + TX9 1 Kişilik UHF Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic UwMic9 (RX9 + TX9), bir alıcı ve bir vericiden oluşan, 100 metreye kadar menzil sunan profesyonel UHF kablosuz yaka mikrofonu setidir. Saramonic UwMic9, UHF bandında çalışan, yüksek ses kalitesi ve kolay kullanımıyla sınıfının öncü kablosuz yaka mikrofonu sistemlerindendir. RX9 alıcı kameraya monte edilir; geniş anahtarlamalı bant, kolay okunan LCD ekran ve verici ile alıcı arasında kablosuz senkronizasyon özelliği sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>1 adet RX9 alıcı + 1 adet TX9 verici</div>
+<div>UHF bandında güvenilir iletim</div>
+<div>100 metreye kadar menzil</div>
+<div>LCD ekran ve kablosuz senkronizasyon</div>
+<div>Kameraya monte edilebilen alıcı</div>
+<div>Yaka mikrofonu dahil</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Fotoğraf makineleri, video kameralar ve ses kayıt cihazlarıyla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Röportaj, toplantı, ürün tanıtımı ve profesyonel video prodüksiyonları için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Set: RX9 alıcı + TX9 verici</div>
+<div>Bant: UHF</div>
+<div>Menzil: 100 m</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>İkinci verici eklenebilir mi?</strong></div>
+<div>Evet. RX9 alıcı çift kanallıdır; ikinci bir TX9 verici ile iki kişiyi ayrı ayrı kaydedebilirsiniz.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-uwmic9-rx9-tx9-1-verici-1-alici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-77127-14-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-uwmic9-rx9-tx9-1-verici-1-alici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-77126-14-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-uwmic9-rx9-tx9-1-verici-1-alici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-77125-14-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-uwmic9-rx9-tx9-1-verici-1-alici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-77128-14-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-uwmic9-rx9-tx9-1-verici-1-alici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-77129-14-B.jpg]]></image5>
+ </product>
+ <product>
+  <id><![CDATA[483]]></id>
+  <name><![CDATA[Saramonic Blink 500 B5 USB-C Girişli Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13960]]></sku>
+  <barcode><![CDATA[6971008024555]]></barcode>
+  <price><![CDATA[7419]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink 500 B5 USB-C Girişli Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink 500 B5, Android cihazlara ve USB-C girişli Mac/Windows bilgisayarlara kayıt için uygun maliyetli, her şey dahil, ultra kompakt bir gerçek kablosuz mikrofon sistemidir.</div>
+<div>&nbsp;</div>
+<div>Çift kanallı alıcı doğrudan cihazın USB-C girişine takılır; klipsli verici dahili mikrofonla ya da birlikte gelen yaka mikrofonuyla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Doğrudan USB-C girişe takılan alıcı</div>
+<div>Dahili mikrofonlu klipsli verici</div>
+<div>Yaka mikrofonu ile bodypack kullanım</div>
+<div>2.4 GHz dijital iletim</div>
+<div>Ultra kompakt ve kolay kullanım</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>USB-C girişli Android telefonlar, tabletler ve USB-C girişli bilgisayarlarla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Telefonla tek kişilik vlog, eğitim videosu ve canlı yayın yapanlar için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Set: 1 verici + 1 alıcı</div>
+<div>Bağlantı: USB-C</div>
+<div>Frekans: 2.4 GHz</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>iPhone ile çalışır mı?</strong></div>
+<div>USB-C girişli iPhone modelleriyle kullanılabilir; Lightning girişli modeller için Blink 500 B3/B4 tercih edilmelidir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink-500-b5-kablosuz-yaka-mikrofonu-sistemi-telefon-mikrofonlari-saramonic-40990-14-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink-500-b5-kablosuz-yaka-mikrofonu-sistemi-telefon-mikrofonlari-saramonic-40991-14-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink-500-b5-kablosuz-yaka-mikrofonu-sistemi-telefon-mikrofonlari-saramonic-40992-14-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink-500-b5-kablosuz-yaka-mikrofonu-sistemi-telefon-mikrofonlari-saramonic-40993-14-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink-500-b5-kablosuz-yaka-mikrofonu-sistemi-telefon-mikrofonlari-saramonic-40994-14-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink-500-b5-kablosuz-yaka-mikrofonu-sistemi-telefon-mikrofonlari-saramonic-40995-14-B.jpg]]></image6>
+ </product>
+ <product>
+  <id><![CDATA[484]]></id>
+  <name><![CDATA[Saramonic Blink 500 Pro B5 2 Kişilik Kablosuz Yaka Mikrofonu (USB-C)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13961]]></sku>
+  <barcode><![CDATA[6971008027853]]></barcode>
+  <price><![CDATA[8666]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink 500 Pro B5 2 Kişilik Kablosuz Yaka Mikrofonu (USB-C)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink 500 Pro B5, iki kişi için kullanılabilen, son derece hafif, ultra kompakt ve kullanımı kolay kablosuz mikrofon sistemidir. USB-C girişli cihazlara yayın kalitesinde ses sağlar.</div>
+<div>&nbsp;</div>
+<div>Verici ve alıcı tek şarjla 8 saate kadar çalışır ve hızlı şarj destekler. Birlikte gelen şarj kutusu sayesinde set her yerde şarj edilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki verici + bir alıcı</div>
+<div>Doğrudan USB-C girişe takılan alıcı</div>
+<div>8 saate kadar çalışma süresi</div>
+<div>Hızlı şarj</div>
+<div>USB-C ile şarj edilen şarj kutusu</div>
+<div>Dahili mikrofonlu klipsli vericiler</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>USB-C girişli akıllı telefonlar ve tabletlerle uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Android veya USB-C iPhone ile iki kişilik röportaj ve vlog çekenler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Model: Saramonic Blink 500 Pro B5</div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Bağlantı: USB-C</div>
+<div>Pil: 8 saat</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Şarj kutusu nasıl şarj edilir?</strong></div>
+<div>Şarj kutusu USB-C girişi üzerinden 5 V ile şarj edilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b5-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41189-14-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b5-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41190-14-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b5-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41191-14-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b5-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41192-14-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b5-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41193-14-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b5-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41194-14-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b5-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41195-14-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b5-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41196-14-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[485]]></id>
+  <name><![CDATA[Saramonic WiTalk9 WT9S 9 Kişilik Tam Çift Yönlü Kablosuz İnterkom Sistemi]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13962]]></sku>
+  <barcode><![CDATA[6974700659452]]></barcode>
+  <price><![CDATA[95399]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk9 WT9S 9 Kişilik Tam Çift Yönlü Kablosuz İnterkom Sistemi</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 WT9S, 9 kişilik tam çift yönlü (full duplex) kablosuz interkom sistemidir. DECT tabanlı yapısıyla HUB veya bel paketi gerektirmeden canlı etkinlik ve prodüksiyonlarda güvenilir, net iletişim sağlar.</div>
+<div>&nbsp;</div>
+<div>Set; 1 adet tek kulaklı ana (master) kulaklık, 8 adet tek kulaklı uzak kulaklık, 18 adet şarj edilebilir pil ve 10 yuvalı şarj istasyonu içerir. Görüş hattında yaklaşık 500 metreye kadar menzil sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>9 kişiye kadar eşzamanlı konuşma</div>
+<div>Eller serbest kullanım, bas-konuş gerekmez</div>
+<div>HUB ve bel paketi gerektirmez</div>
+<div>1.9 GHz DECT bandında güvenli iletim</div>
+<div>Görüş hattında yaklaşık 500 m menzil</div>
+<div>18 yedek pil ve 10 yuvalı şarj istasyonu</div>
+<div>Genişletilebilir sistem yapısı</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk9 serisi kulaklıklarla genişletilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Film setleri, konserler, spor yayınları, kilise ve sahne prodüksiyonları gibi ekip koordinasyonu gereken her ortam için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>1 adet tek kulaklı ana kulaklık</div>
+<div>8 adet tek kulaklı uzak kulaklık</div>
+<div>18 adet şarj edilebilir pil</div>
+<div>10 yuvalı şarj istasyonu</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk9 WT9S</div>
+<div>Kapasite: 9 kişi</div>
+<div>İletişim: Tam çift yönlü (full duplex)</div>
+<div>Frekans: 1.9 GHz DECT</div>
+<div>Menzil: ~500 m (görüş hattı)</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Bas-konuş tuşuna basmak gerekir mi?</strong></div>
+<div>Hayır. Saramonic WiTalk9 WT9S tam çift yönlüdür; herkes aynı anda eller serbest konuşabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-witalk9-wt9s-9-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94538-24-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-witalk9-wt9s-9-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94536-24-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-witalk9-wt9s-9-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94537-24-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-witalk9-wt9s-9-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94539-24-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-witalk9-wt9s-9-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94540-24-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-witalk9-wt9s-9-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94541-24-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-witalk9-wt9s-9-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94542-24-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-witalk9-wt9s-9-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94543-24-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[486]]></id>
+  <name><![CDATA[Saramonic WiTalk9 WT6S 6 Kişilik Tam Çift Yönlü Kablosuz İnterkom Sistemi]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13963]]></sku>
+  <barcode><![CDATA[6974700659834]]></barcode>
+  <price><![CDATA[67839]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk9 WT6S 6 Kişilik Tam Çift Yönlü Kablosuz İnterkom Sistemi</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 WT6S, 6 kişilik tam çift yönlü (full duplex) kablosuz interkom sistemidir. DECT tabanlı yapısıyla HUB veya bel paketi gerektirmeden canlı etkinlik ve prodüksiyonlarda güvenilir, net iletişim sağlar.</div>
+<div>&nbsp;</div>
+<div>Set; 1 adet tek kulaklı ana (master) kulaklık, 5 adet tek kulaklı uzak kulaklık, 12 adet şarj edilebilir pil ve 10 yuvalı şarj istasyonu içerir. Görüş hattında yaklaşık 500 metreye kadar menzil sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>6 kişiye kadar eşzamanlı konuşma</div>
+<div>Eller serbest kullanım, bas-konuş gerekmez</div>
+<div>HUB ve bel paketi gerektirmez</div>
+<div>1.9 GHz DECT bandında güvenli iletim</div>
+<div>Görüş hattında yaklaşık 500 m menzil</div>
+<div>12 yedek pil ve 10 yuvalı şarj istasyonu</div>
+<div>Genişletilebilir sistem yapısı</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk9 serisi kulaklıklarla genişletilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Film setleri, konserler, spor yayınları, kilise ve sahne prodüksiyonları gibi ekip koordinasyonu gereken her ortam için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>1 adet tek kulaklı ana kulaklık</div>
+<div>5 adet tek kulaklı uzak kulaklık</div>
+<div>12 adet şarj edilebilir pil</div>
+<div>10 yuvalı şarj istasyonu</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk9 WT6S</div>
+<div>Kapasite: 6 kişi</div>
+<div>İletişim: Tam çift yönlü (full duplex)</div>
+<div>Frekans: 1.9 GHz DECT</div>
+<div>Menzil: ~500 m (görüş hattı)</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Bas-konuş tuşuna basmak gerekir mi?</strong></div>
+<div>Hayır. Saramonic WiTalk9 WT6S tam çift yönlüdür; herkes aynı anda eller serbest konuşabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-witalk9-wt6s-6-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94499-24-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-witalk9-wt6s-6-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94497-24-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-witalk9-wt6s-6-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94498-24-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-witalk9-wt6s-6-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94500-24-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-witalk9-wt6s-6-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94501-24-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-witalk9-wt6s-6-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94502-24-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-witalk9-wt6s-6-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94503-24-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-witalk9-wt6s-6-kisilik-interkom-sistemi-intercom-sistemleri-saramonic-94504-24-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[487]]></id>
+  <name><![CDATA[Saramonic SmartMic UC Mini USB-C Girişli Telefon Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13964]]></sku>
+  <barcode><![CDATA[6971008026665]]></barcode>
+  <price><![CDATA[1907]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic SmartMic UC Mini USB-C Girişli Telefon Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic SmartMic UC Mini, USB-C girişli Android telefon, tablet ve bilgisayarlara doğrudan takılan ultra kompakt, çok yönlü kondenser mikrofondur. Kablosuz bağlantı derdini ortadan kaldırır.</div>
+<div>&nbsp;</div>
+<div>Tak-çalıştır tasarımı sayesinde pil veya şarj gerektirmez; cihazınıza takın, kayıt uygulamanızı açın ve başlayın. Ön ya da arka kameraya göre yönlendirilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Doğrudan USB-C girişe takılır</div>
+<div>Pil veya şarj gerektirmez</div>
+<div>Ön ve arka kameraya göre yönlendirilebilir gövde</div>
+<div>Konuşmaya uygun 50 Hz - 18 kHz frekans aralığı</div>
+<div>Ultra hafif ve kompakt</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>USB-C girişli Android telefonlar, tabletler, USB-C iPhone'lar ve bilgisayarlarla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Telefonla vlog, canlı yayın ve sosyal medya videosu çekenler için pratik bir çözümdür.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Tip: Kondenser</div>
+<div>Bağlantı: USB-C</div>
+<div>Frekans aralığı: 50 Hz - 18 kHz</div>
+<div>Güç: Cihazdan</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Şarj etmek gerekir mi?</strong></div>
+<div>Hayır. SmartMic UC Mini gücünü takıldığı cihazdan alır.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-smartmic-uc-mini-type-c-girisli-mikrofon-telefon-mikrofonlari-saramonic-86773-23-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-smartmic-uc-mini-type-c-girisli-mikrofon-telefon-mikrofonlari-saramonic-86774-23-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-smartmic-uc-mini-type-c-girisli-mikrofon-telefon-mikrofonlari-saramonic-86775-23-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-smartmic-uc-mini-type-c-girisli-mikrofon-telefon-mikrofonlari-saramonic-86776-23-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-smartmic-uc-mini-type-c-girisli-mikrofon-telefon-mikrofonlari-saramonic-86777-23-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-smartmic-uc-mini-type-c-girisli-mikrofon-telefon-mikrofonlari-saramonic-86778-23-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-smartmic-uc-mini-type-c-girisli-mikrofon-telefon-mikrofonlari-saramonic-86779-23-B.jpg]]></image7>
+ </product>
+ <product>
+  <id><![CDATA[488]]></id>
+  <name><![CDATA[Saramonic UwMic9 RX9 + 2x TX9 2 Kişilik UHF Kablosuz Yaka Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13965]]></sku>
+  <barcode><![CDATA[6971008024098]]></barcode>
+  <price><![CDATA[21199]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic UwMic9 RX9 + 2x TX9 2 Kişilik UHF Kablosuz Yaka Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic UwMic9 (TX9 + TX9 + RX9), bir alıcı ve iki vericiden oluşan, 100 metreye kadar menzil sunan profesyonel UHF kablosuz yaka mikrofonu setidir. İki konuşmacıyı tek kamera veya kayıt cihazı üzerinden ayrı ayrı kaydedebilirsiniz.</div>
+<div>&nbsp;</div>
+<div>Saramonic UwMic9, UHF bandında çalışan, yüksek ses kalitesi ve kolay kullanımıyla sınıfının öncü kablosuz yaka mikrofonu sistemlerindendir. RX9 alıcı kameraya monte edilir; geniş anahtarlamalı bant, kolay okunan LCD ekran ve verici ile alıcı arasında kablosuz senkronizasyon özelliği sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>1 adet RX9 alıcı + 2 adet TX9 verici</div>
+<div>İki konuşmacıyı ayrı kanallarda kayıt</div>
+<div>UHF bandında güvenilir iletim</div>
+<div>100 metreye kadar menzil</div>
+<div>LCD ekran ve kablosuz senkronizasyon</div>
+<div>Yaka mikrofonları dahil</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Fotoğraf makineleri, video kameralar ve ses kayıt cihazlarıyla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>İki kişilik röportaj, panel, toplantı ve profesyonel video prodüksiyonları için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Set: RX9 alıcı + 2x TX9 verici</div>
+<div>Bant: UHF</div>
+<div>Menzil: 100 m</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>İki kişinin sesi ayrı kaydedilir mi?</strong></div>
+<div>Evet. Çift kanallı RX9 alıcı iki vericinin sesini ayrı kanallara verebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-uwmic9-tx9-tx9-rx9-1-alici-2-verici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-74664-14-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-uwmic9-tx9-tx9-rx9-1-alici-2-verici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-51546-14-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-uwmic9-tx9-tx9-rx9-1-alici-2-verici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-74658-14-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-uwmic9-tx9-tx9-rx9-1-alici-2-verici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-74659-14-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-uwmic9-tx9-tx9-rx9-1-alici-2-verici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-74660-14-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/saramonic-uwmic9-tx9-tx9-rx9-1-alici-2-verici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-74661-14-B.jpg]]></image6>
+  <image7><![CDATA[https://fotografium.com/saramonic-uwmic9-tx9-tx9-rx9-1-alici-2-verici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-74662-14-B.jpg]]></image7>
+  <image8><![CDATA[https://fotografium.com/saramonic-uwmic9-tx9-tx9-rx9-1-alici-2-verici-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-74663-14-B.jpg]]></image8>
+ </product>
+ <product>
+  <id><![CDATA[489]]></id>
+  <name><![CDATA[Saramonic Blink 500 Pro B4 2 Kişilik Kablosuz Yaka Mikrofonu (Lightning)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13966]]></sku>
+  <barcode><![CDATA[6971008027860]]></barcode>
+  <price><![CDATA[10116]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Blink 500 Pro B4 2 Kişilik Kablosuz Yaka Mikrofonu (Lightning)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Blink 500 Pro B4, iki kişi için kullanılabilen, son derece hafif, ultra kompakt ve kullanımı kolay kablosuz mikrofon sistemidir. Lightning girişli cihazlara yayın kalitesinde ses sağlar.</div>
+<div>&nbsp;</div>
+<div>Verici ve alıcı tek şarjla 8 saate kadar çalışır ve hızlı şarj destekler. Birlikte gelen şarj kutusu sayesinde set her yerde şarj edilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki verici + bir alıcı</div>
+<div>Doğrudan Lightning girişe takılan alıcı</div>
+<div>8 saate kadar çalışma süresi</div>
+<div>Hızlı şarj</div>
+<div>USB-C ile şarj edilen şarj kutusu</div>
+<div>Dahili mikrofonlu klipsli vericiler</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Lightning girişli iPhone ve iPad modelleriyle uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Lightning girişli iPhone ile iki kişilik röportaj ve vlog çekenler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Model: Saramonic Blink 500 Pro B4</div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Bağlantı: Lightning</div>
+<div>Pil: 8 saat</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Şarj kutusu nasıl şarj edilir?</strong></div>
+<div>Şarj kutusu USB-C girişi üzerinden 5 V ile şarj edilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b4-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41161-14-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b4-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41162-14-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b4-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41163-14-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b4-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41164-14-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-blink-500-pro-b4-kablosuz-yaka-mikrofon-sistemi-telefon-mikrofonlari-saramonic-41165-14-B.jpg]]></image5>
+ </product>
+ <product>
+  <id><![CDATA[490]]></id>
+  <name><![CDATA[Saramonic UwMic9S Kit1 1 Kişilik UHF Kablosuz Yaka Mikrofonu (TX + RX)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13967]]></sku>
+  <barcode><![CDATA[6971008027815]]></barcode>
+  <price><![CDATA[14309]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic UwMic9S Kit1 1 Kişilik UHF Kablosuz Yaka Mikrofonu (TX + RX)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic UwMic9S Kit1, bir verici ve bir alıcıdan oluşan, UwMic9 serisinin yenilenmiş UHF kablosuz yaka mikrofonu setidir. Video çekimlerinde net ve kesintisiz ses kaydı için tasarlanmıştır.</div>
+<div>&nbsp;</div>
+<div>Kompakt alıcı kameraya monte edilir; verici yaka mikrofonu ile kullanılarak konuşmacının sesini doğrudan kameraya iletir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>1 verici + 1 alıcı</div>
+<div>UHF bandında güvenilir iletim</div>
+<div>Ekranlı verici ve alıcı</div>
+<div>Kameraya monte edilebilen alıcı</div>
+<div>Yaka mikrofonu dahil</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Fotoğraf makineleri, video kameralar ve ses kayıt cihazlarıyla kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Röportaj, belgesel, kurumsal video ve tek konuşmacılı profesyonel çekimler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Set: 1 verici + 1 alıcı</div>
+<div>Bant: UHF</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>UwMic9 ile farkı nedir?</strong></div>
+<div>UwMic9S, UwMic9 serisinin yenilenmiş versiyonudur; daha kompakt yapı ve güncel özellikler sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/uwmic9s-kit1txrx-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-41166-14-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/uwmic9s-kit1txrx-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-41167-14-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/uwmic9s-kit1txrx-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-41168-14-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/uwmic9s-kit1txrx-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-41169-14-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/uwmic9s-kit1txrx-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-41170-14-B.jpg]]></image5>
+  <image6><![CDATA[https://fotografium.com/uwmic9s-kit1txrx-kablosuz-yaka-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-41171-14-B.jpg]]></image6>
+ </product>
+ <product>
+  <id><![CDATA[491]]></id>
+  <name><![CDATA[Saramonic WiTalk9 X-5D 5 Kişilik Çift Kulaklı Modüler Kablosuz İnterkom Sistemi (1.9 GHz DECT)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13968]]></sku>
+  <barcode/>
+  <price><![CDATA[82525]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk9 X-5D 5 Kişilik Çift Kulaklı Modüler Kablosuz İnterkom Sistemi (1.9 GHz DECT)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 X-5D, 5 kişiye kadar eşzamanlı ve tam çift yönlü (full duplex) konuşma sağlayan kablosuz interkom sistemidir. HUB gerektirmez; kulaklıklar doğrudan birbirine bağlanır. Pakette 1 ana (master) ve 4 uzak (remote) kulaklık bulunur.</div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 X serisinin en belirgin yeniliği modüler kulaklık yapısıdır: aynı gövde tek kulaklı, çift kulaklı ve kask uyumlu yapılandırmalar arasında dönüştürülebilir. Bu set çift kulaklı yapılandırmayla gelir ve gürültülü ortamlarda net duyma sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>5 kişiye kadar tam çift yönlü konuşma</div>
+<div>Modüler kulaklık: tek kulak, çift kulak ve kask uyumlu</div>
+<div>Çift kulaklı yapılandırma ile gürültülü ortamda net ses</div>
+<div>HUB gerektirmeyen doğrudan bağlantı</div>
+<div>1.9 GHz DECT bandında güvenli iletim</div>
+<div>Eller serbest kullanım</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk9 X serisi kulaklıklar ve modüllerle genişletilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Konser, stadyum, canlı yayın ve büyük setler gibi gürültülü ortamlarda çalışan profesyonel ekipler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>1 adet ana kulaklık (çift kulaklı)</div>
+<div>4 adet uzak kulaklık (çift kulaklı)</div>
+<div>Şarj edilebilir piller ve şarj ekipmanı</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk9 X-5D</div>
+<div>Kapasite: 5 kişi</div>
+<div>Kulaklık: Çift kulaklı, modüler</div>
+<div>Frekans: 1.9 GHz DECT</div>
+<div>İletişim: Full duplex</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kulaklıklar tek kulaklıya çevrilebilir mi?</strong></div>
+<div>Evet. Saramonic WiTalk9 X-5D modüler yapıdadır; uygun modüllerle tek kulaklı veya kask uyumlu kullanıma dönüştürülebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-witalk9-x-5d-5-kisilik-cift-kulakli-moduler-kablosuz-interkom-sistemi-19-ghz-dect-31777-intercom-sistemleri-saramonic-saramonic-witalk9-x-5d-5-kisilik-cift-kulakli-modu-132754-31-B.jpg]]></image1>
+ </product>
+ <product>
+  <id><![CDATA[492]]></id>
+  <name><![CDATA[Saramonic WiTalk9 X-9D 9 Kişilik Çift Kulaklı Modüler Kablosuz İnterkom Sistemi (1.9 GHz DECT)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13969]]></sku>
+  <barcode/>
+  <price><![CDATA[149077]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk9 X-9D 9 Kişilik Çift Kulaklı Modüler Kablosuz İnterkom Sistemi (1.9 GHz DECT)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 X-9D, 9 kişiye kadar eşzamanlı ve tam çift yönlü (full duplex) konuşma sağlayan kablosuz interkom sistemidir. HUB gerektirmez; kulaklıklar doğrudan birbirine bağlanır. Pakette 1 ana (master) ve 8 uzak (remote) kulaklık bulunur.</div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 X serisinin en belirgin yeniliği modüler kulaklık yapısıdır: aynı gövde tek kulaklı, çift kulaklı ve kask uyumlu yapılandırmalar arasında dönüştürülebilir. Bu set çift kulaklı yapılandırmayla gelir ve gürültülü ortamlarda net duyma sağlar.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>9 kişiye kadar tam çift yönlü konuşma</div>
+<div>Modüler kulaklık: tek kulak, çift kulak ve kask uyumlu</div>
+<div>Çift kulaklı yapılandırma ile gürültülü ortamda net ses</div>
+<div>HUB gerektirmeyen doğrudan bağlantı</div>
+<div>1.9 GHz DECT bandında güvenli iletim</div>
+<div>Eller serbest kullanım</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk9 X serisi kulaklıklar ve modüllerle genişletilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Konser, stadyum, canlı yayın ve büyük setler gibi gürültülü ortamlarda çalışan profesyonel ekipler için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>1 adet ana kulaklık (çift kulaklı)</div>
+<div>8 adet uzak kulaklık (çift kulaklı)</div>
+<div>Şarj edilebilir piller ve şarj ekipmanı</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk9 X-9D</div>
+<div>Kapasite: 9 kişi</div>
+<div>Kulaklık: Çift kulaklı, modüler</div>
+<div>Frekans: 1.9 GHz DECT</div>
+<div>İletişim: Full duplex</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Kulaklıklar tek kulaklıya çevrilebilir mi?</strong></div>
+<div>Evet. Saramonic WiTalk9 X-9D modüler yapıdadır; uygun modüllerle tek kulaklı veya kask uyumlu kullanıma dönüştürülebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-witalk9-x-9d-9-kisilik-cift-kulakli-moduler-kablosuz-interkom-sistemi-19-ghz-dect-31776-intercom-sistemleri-saramonic-saramonic-witalk9-x-9d-9-kisilik-cift-kulakli-modu-132753-31-B.jpg]]></image1>
+ </product>
+ <product>
+  <id><![CDATA[493]]></id>
+  <name><![CDATA[Saramonic Air SE USB-C 2 Kişilik Kablosuz Yaka ve El Mikrofonu]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13970]]></sku>
+  <barcode><![CDATA[6977490712383]]></barcode>
+  <price><![CDATA[3168]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic Air SE USB-C 2 Kişilik Kablosuz Yaka ve El Mikrofonu</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic Air SE, mobil içerik üretiminin hızına yetişen, hafif ve pratik bir kablosuz mikrofon sistemidir. Hem klipsli yaka hem de el tipi kullanıma imkân verir.</div>
+<div>&nbsp;</div>
+<div>Yalnızca 5 gram ağırlığındaki başparmak boyutundaki verici kadrajda dikkat çekmez; USB-C alıcı ile telefona tak, tut ve kaydet.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>İki kişilik kablosuz set</div>
+<div>5 gram ultra hafif verici</div>
+<div>Klipsli yaka ve el mikrofonu kullanımı</div>
+<div>USB-C alıcı ile doğrudan telefona bağlantı</div>
+<div>Kutudan çıkar çıkmaz kullanım</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>USB-C girişli Android telefonlar, USB-C iPhone'lar, tabletler ve bilgisayarlarla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Sosyal medya yayıncıları, röportaj ekipleri ve mobil video üreticileri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Kanal: 2 verici + 1 alıcı</div>
+<div>Bağlantı: USB-C</div>
+<div>Verici ağırlığı: 5 g</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>El mikrofonu olarak kullanılabilir mi?</strong></div>
+<div>Evet. Air SE hem yakaya takılarak hem de elde tutularak kullanılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-air-se-type-c-2-kisilik-kablosuz-yaka-ve-el-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-126624-30-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-air-se-type-c-2-kisilik-kablosuz-yaka-ve-el-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-126625-30-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-air-se-type-c-2-kisilik-kablosuz-yaka-ve-el-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-126626-30-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-air-se-type-c-2-kisilik-kablosuz-yaka-ve-el-mikrofonu-kablosuz-yaka-mikrofonlari-saramonic-126627-30-B.jpg]]></image4>
+ </product>
+ <product>
+  <id><![CDATA[494]]></id>
+  <name><![CDATA[Saramonic LavMicro U3A USB-C Kablolu Yaka Mikrofonu (2 m)]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13971]]></sku>
+  <barcode/>
+  <price><![CDATA[2119]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOGRAFIUM SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic LavMicro U3A USB-C Kablolu Yaka Mikrofonu (2 m)</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic LavMicro U3A, Android cihazlar ile MacBook Pro ve Chromebook gibi USB-C girişli bilgisayarlara doğrudan takılan, USB-C konektörlü ultra kompakt klipsli yaka mikrofonudur.</div>
+<div>&nbsp;</div>
+<div>2 metrelik kablosu elde vlog, kişisel röportaj ve gizli ses kaydı için ideal uzunluktadır; kablo düzenleyici ile fazlası toplanabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>Doğrudan USB-C girişe takılır</div>
+<div>2 m kablo uzunluğu</div>
+<div>Klipsli ultra kompakt yaka mikrofonu</div>
+<div>Pil gerektirmez</div>
+<div>Kablo düzenleyici</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>USB-C girişli Android telefonlar, tabletler, USB-C iPhone'lar ve bilgisayarlarla uyumludur.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Telefonla röportaj, eğitim videosu ve vlog çekenler için uygun fiyatlı bir çözümdür.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Tip: Kablolu yaka mikrofonu</div>
+<div>Bağlantı: USB-C</div>
+<div>Kablo: 2 m</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Bilgisayarda çalışır mı?</strong></div>
+<div>Evet. USB-C girişli Mac, Windows ve Chromebook bilgisayarlarla kullanılabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://fotografium.com/saramonic-lavmicro-u3a-type-c-yaka-mikrofonu-kablolu-yaka-mikrofonlari-saramonic-122893-29-B.jpg]]></image1>
+  <image2><![CDATA[https://fotografium.com/saramonic-lavmicro-u3a-type-c-yaka-mikrofonu-kablolu-yaka-mikrofonlari-saramonic-122892-29-B.jpg]]></image2>
+  <image3><![CDATA[https://fotografium.com/saramonic-lavmicro-u3a-type-c-yaka-mikrofonu-kablolu-yaka-mikrofonlari-saramonic-122889-29-B.jpg]]></image3>
+  <image4><![CDATA[https://fotografium.com/saramonic-lavmicro-u3a-type-c-yaka-mikrofonu-kablolu-yaka-mikrofonlari-saramonic-122890-29-B.jpg]]></image4>
+  <image5><![CDATA[https://fotografium.com/saramonic-lavmicro-u3a-type-c-yaka-mikrofonu-kablolu-yaka-mikrofonlari-saramonic-122891-29-B.jpg]]></image5>
+ </product>
+ <product>
+  <id><![CDATA[495]]></id>
+  <name><![CDATA[Saramonic WiTalk WT9S 9 Kişilik Çift Yönlü Kablosuz İnterkom Sistemi]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13972]]></sku>
+  <barcode><![CDATA[6974700652972]]></barcode>
+  <price><![CDATA[74199]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOKOLİK SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk WT9S 9 Kişilik Çift Yönlü Kablosuz İnterkom Sistemi</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk5 WT9S, 9 kişilik ekiplerin aynı anda, birbirini beklemeden konuşabildiği tam çift yönlü (full duplex) bir kablosuz interkom sistemidir. Bel paketi gerektirmeyen gerçek kablosuz kulaklık tasarımı sayesinde gün boyu rahat kullanım ve net ses sunar.</div>
+<div>&nbsp;</div>
+<div>Telsizlerde olduğu gibi aynı anda yalnızca bir iki kişinin konuşabilmesi sınırı yoktur: Saramonic WiTalk5 WT9S ile 9 kişilik ekibin tamamı aynı anda iletişim kurabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>9 kişiye kadar eşzamanlı, gerçek tam çift yönlü iletişim</div>
+<div>Bel paketi gerektirmeyen kablosuz kulaklık tasarımı</div>
+<div>Görüş hattında yaklaşık 400 metreye (1312 feet) kadar menzil</div>
+<div>Şarj edilebilir piller ve 10 portlu pil şarj cihazı</div>
+<div>Su geçirmez taşıma çantası</div>
+<div>Hub'a bağlanan kablolu kulaklık ile yönetmen veya rejiden bağlantı</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk5 WT9S kendi içinde eksiksiz bir sistemdir; Saramonic WiTalk5 serisi kulaklıklar ve HUB ile genişletilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Film ve video prodüksiyonu, canlı yayın, etkinlik ve spor organizasyonları, sahne ekipleri ve proje koordinasyonu için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>9 adet tek kulaklı kulaklık (1 adet hub'a bağlanan kablolu kulaklık dahil)</div>
+<div>Şarj edilebilir piller</div>
+<div>10 portlu pil şarj cihazı</div>
+<div>Su geçirmez taşıma çantası</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk5 WT9S</div>
+<div>Kullanıcı sayısı: 9 kişi</div>
+<div>İletişim: Tam çift yönlü (full duplex)</div>
+<div>Menzil: Görüş hattında yaklaşık 400 m</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Telsizden farkı nedir?</strong></div>
+<div>Telsizde aynı anda tek kişi konuşur; Saramonic WiTalk5 WT9S ile 9 kişilik ekibin tamamı aynı anda konuşabilir, bas-konuş tuşuna gerek yoktur.</div>
+<div><strong>Hangi seriye ait?</strong></div>
+<div>Bu ürün Saramonic WiTalk5 serisidir. Model adı Saramonic WiTalk5 WT9S'dir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt9s-cift-yonlu-kablo-17fc-4.png]]></image1>
+  <image2><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt9s-cift-yonlu-kablo-4e49-8.png]]></image2>
+  <image3><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt9s-cift-yonlu-kablo-a-4425.png]]></image3>
+  <image4><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt9s-cift-yonlu-kablo--4bdb-.png]]></image4>
+ </product>
+ <product>
+  <id><![CDATA[496]]></id>
+  <name><![CDATA[Saramonic WiTalk WT6S 6 Kişilik Çift Yönlü Kablosuz İnterkom Sistemi]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13973]]></sku>
+  <barcode><![CDATA[6974700653429]]></barcode>
+  <price><![CDATA[52999]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOKOLİK SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk WT6S 6 Kişilik Çift Yönlü Kablosuz İnterkom Sistemi</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk5 WT6S, 6 kişilik ekiplerin aynı anda, birbirini beklemeden konuşabildiği tam çift yönlü (full duplex) bir kablosuz interkom sistemidir. Bel paketi gerektirmeyen gerçek kablosuz kulaklık tasarımı sayesinde gün boyu rahat kullanım ve net ses sunar.</div>
+<div>&nbsp;</div>
+<div>Telsizlerde olduğu gibi aynı anda yalnızca bir iki kişinin konuşabilmesi sınırı yoktur: Saramonic WiTalk5 WT6S ile 6 kişilik ekibin tamamı aynı anda iletişim kurabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>6 kişiye kadar eşzamanlı, gerçek tam çift yönlü iletişim</div>
+<div>Bel paketi gerektirmeyen kablosuz kulaklık tasarımı</div>
+<div>Görüş hattında yaklaşık 400 metreye (1312 feet) kadar menzil</div>
+<div>Şarj edilebilir piller ve 10 portlu pil şarj cihazı</div>
+<div>Su geçirmez taşıma çantası</div>
+<div>Hub'a bağlanan kablolu kulaklık ile yönetmen veya rejiden bağlantı</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk5 WT6S kendi içinde eksiksiz bir sistemdir; Saramonic WiTalk5 serisi kulaklıklar ve HUB ile genişletilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Film ve video prodüksiyonu, canlı yayın, etkinlik ve spor organizasyonları, sahne ekipleri ve proje koordinasyonu için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>6 adet tek kulaklı kulaklık (1 adet hub'a bağlanan kablolu kulaklık dahil)</div>
+<div>Şarj edilebilir piller</div>
+<div>10 portlu pil şarj cihazı</div>
+<div>Su geçirmez taşıma çantası</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk5 WT6S</div>
+<div>Kullanıcı sayısı: 6 kişi</div>
+<div>İletişim: Tam çift yönlü (full duplex)</div>
+<div>Menzil: Görüş hattında yaklaşık 400 m</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Telsizden farkı nedir?</strong></div>
+<div>Telsizde aynı anda tek kişi konuşur; Saramonic WiTalk5 WT6S ile 6 kişilik ekibin tamamı aynı anda konuşabilir, bas-konuş tuşuna gerek yoktur.</div>
+<div><strong>Hangi seriye ait?</strong></div>
+<div>Bu ürün Saramonic WiTalk5 serisidir. Model adı Saramonic WiTalk5 WT6S'dir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt6s-cift-yonlu-kablo-f0b2b3.png]]></image1>
+  <image2><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt6s-cift-yonlu-kablo-ba45b-.png]]></image2>
+  <image3><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt6s-cift-yonlu-kablo-c-19e6.png]]></image3>
+  <image4><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt6s-cift-yonlu-kablo-bee9de.png]]></image4>
+ </product>
+ <product>
+  <id><![CDATA[497]]></id>
+  <name><![CDATA[Saramonic WiTalk WT6D 6 Kişilik Çift Kulaklı Çift Yönlü Kablosuz İnterkom Sistemi]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13974]]></sku>
+  <barcode><![CDATA[6974700653412]]></barcode>
+  <price><![CDATA[67839]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOKOLİK SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk WT6D 6 Kişilik Çift Kulaklı Çift Yönlü Kablosuz İnterkom Sistemi</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk5 WT6D, 6 kişilik ekiplerin aynı anda, birbirini beklemeden konuşabildiği tam çift yönlü (full duplex) bir kablosuz interkom sistemidir. Bel paketi gerektirmeyen gerçek kablosuz kulaklık tasarımı sayesinde gün boyu rahat kullanım ve net ses sunar.</div>
+<div>&nbsp;</div>
+<div>Telsizlerde olduğu gibi aynı anda yalnızca bir iki kişinin konuşabilmesi sınırı yoktur: Saramonic WiTalk5 WT6D ile 6 kişilik ekibin tamamı aynı anda iletişim kurabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>6 kişiye kadar eşzamanlı, gerçek tam çift yönlü iletişim</div>
+<div>Bel paketi gerektirmeyen kablosuz kulaklık tasarımı</div>
+<div>Görüş hattında yaklaşık 400 metreye (1312 feet) kadar menzil</div>
+<div>Şarj edilebilir piller ve 10 portlu pil şarj cihazı</div>
+<div>Su geçirmez taşıma çantası</div>
+<div>Hub'a bağlanan kablolu kulaklık ile yönetmen veya rejiden bağlantı</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk5 WT6D kendi içinde eksiksiz bir sistemdir; Saramonic WiTalk5 serisi kulaklıklar ve HUB ile genişletilebilir.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Film ve video prodüksiyonu, canlı yayın, etkinlik ve spor organizasyonları, sahne ekipleri ve proje koordinasyonu için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Kutu İçeriği</strong></div>
+<div>6 adet çift kulaklı kulaklık (1 adet hub'a bağlanan kablolu kulaklık dahil)</div>
+<div>Şarj edilebilir piller</div>
+<div>10 portlu pil şarj cihazı</div>
+<div>Su geçirmez taşıma çantası</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk5 WT6D</div>
+<div>Kullanıcı sayısı: 6 kişi</div>
+<div>İletişim: Tam çift yönlü (full duplex)</div>
+<div>Menzil: Görüş hattında yaklaşık 400 m</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Telsizden farkı nedir?</strong></div>
+<div>Telsizde aynı anda tek kişi konuşur; Saramonic WiTalk5 WT6D ile 6 kişilik ekibin tamamı aynı anda konuşabilir, bas-konuş tuşuna gerek yoktur.</div>
+<div><strong>Hangi seriye ait?</strong></div>
+<div>Bu ürün Saramonic WiTalk5 serisidir. Model adı Saramonic WiTalk5 WT6D'dir.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt6d-cift-yonlu-kablo--aee6-.png]]></image1>
+  <image2><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt6d-cift-yonlu-kablo-a95eda.png]]></image2>
+  <image3><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt6d-cift-yonlu-kablo-f8db-b.png]]></image3>
+  <image4><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk-wt6d-cift-yonlu-kablo-023-ae.png]]></image4>
+ </product>
+ <product>
+  <id><![CDATA[498]]></id>
+  <name><![CDATA[Saramonic WiTalk9 WT7S 7 Kişilik Kablosuz İnterkom Sistemi]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13975]]></sku>
+  <barcode><![CDATA[6974700659841]]></barcode>
+  <price><![CDATA[75715]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOKOLİK SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk9 WT7S 7 Kişilik Kablosuz İnterkom Sistemi</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 WT7S, 7 kişilik ekipler için geliştirilmiş, yeni nesil tam çift yönlü kablosuz interkom sistemidir. Çift anten yapısı sayesinde gürültülü ve kalabalık ortamlarda paraziti en aza indirir.</div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 WT7S ile ekibinizin tamamı aynı anda, bas-konuş tuşuna gerek kalmadan konuşabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>7 kişiye kadar eşzamanlı tam çift yönlü iletişim</div>
+<div>Çift anten ile parazite karşı daha güçlü bağlantı</div>
+<div>500 metreye kadar kesintisiz konuşma menzili</div>
+<div>Gürültülü ortamlarda net ses</div>
+<div>Bel paketi gerektirmeyen kablosuz kulaklıklar</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk9 WT7S kendi içinde eksiksiz bir sistemdir; Saramonic WiTalk9 serisi ürünlerle kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Film setleri, canlı yayın ve televizyon prodüksiyonları, konser ve etkinlik organizasyonları, spor ve büyük sahne ekipleri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk9 WT7S</div>
+<div>Kullanıcı sayısı: 7 kişi</div>
+<div>İletişim: Tam çift yönlü</div>
+<div>Menzil: 500 m'ye kadar</div>
+<div>Anten: Çift anten</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Saramonic WiTalk5 serisinden farkı nedir?</strong></div>
+<div>Saramonic WiTalk9 WT7S yeni nesildir; çift anten yapısı ve 500 metreye kadar menzil ile kalabalık ve gürültülü ortamlarda daha güçlü bağlantı sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk9-wt7s-0ece6c.png]]></image1>
+  <image2><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk9-wt7s-566-42.png]]></image2>
+  <image3><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk9-wt7s--4dbcd.png]]></image3>
+  <image4><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk9-wt7s-fccb49.png]]></image4>
+ </product>
+ <product>
+  <id><![CDATA[499]]></id>
+  <name><![CDATA[Saramonic WiTalk9 WT8S 8 Kişilik Kablosuz İnterkom Sistemi]]></name>
+  <brand><![CDATA[Saramonic]]></brand>
+  <sku><![CDATA[FE-SRM-13976]]></sku>
+  <barcode><![CDATA[6974700659858]]></barcode>
+  <price><![CDATA[90099]]></price>
+  <currency><![CDATA[TRY]]></currency>
+  <stock><![CDATA[5]]></stock>
+  <availability><![CDATA[https://schema.org/InStock]]></availability>
+  <category><![CDATA[FOTOKOLİK SARAMONİC]]></category>
+  <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
+<div><strong>Saramonic WiTalk9 WT8S 8 Kişilik Kablosuz İnterkom Sistemi</strong></div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 WT8S, 8 kişilik ekipler için geliştirilmiş, yeni nesil tam çift yönlü kablosuz interkom sistemidir. Çift anten yapısı sayesinde gürültülü ve kalabalık ortamlarda paraziti en aza indirir.</div>
+<div>&nbsp;</div>
+<div>Saramonic WiTalk9 WT8S ile ekibinizin tamamı aynı anda, bas-konuş tuşuna gerek kalmadan konuşabilir.</div>
+<div>&nbsp;</div>
+<div><strong>Öne Çıkan Özellikler</strong></div>
+<div>8 kişiye kadar eşzamanlı tam çift yönlü iletişim</div>
+<div>Çift anten ile parazite karşı daha güçlü bağlantı</div>
+<div>500 metreye kadar kesintisiz konuşma menzili</div>
+<div>Gürültülü ortamlarda net ses</div>
+<div>Bel paketi gerektirmeyen kablosuz kulaklıklar</div>
+<div>&nbsp;</div>
+<div><strong>Uyumluluk ve Bağlantı</strong></div>
+<div>Saramonic WiTalk9 WT8S kendi içinde eksiksiz bir sistemdir; Saramonic WiTalk9 serisi ürünlerle kullanılır.</div>
+<div>&nbsp;</div>
+<div><strong>Kimler İçin Uygun?</strong></div>
+<div>Film setleri, canlı yayın ve televizyon prodüksiyonları, konser ve etkinlik organizasyonları, spor ve büyük sahne ekipleri için idealdir.</div>
+<div>&nbsp;</div>
+<div><strong>Teknik Özellikler</strong></div>
+<div>Seri ve model: Saramonic WiTalk9 WT8S</div>
+<div>Kullanıcı sayısı: 8 kişi</div>
+<div>İletişim: Tam çift yönlü</div>
+<div>Menzil: 500 m'ye kadar</div>
+<div>Anten: Çift anten</div>
+<div>&nbsp;</div>
+<div><strong>Sık Sorulan Sorular</strong></div>
+<div><strong>Saramonic WiTalk5 serisinden farkı nedir?</strong></div>
+<div>Saramonic WiTalk9 WT8S yeni nesildir; çift anten yapısı ve 500 metreye kadar menzil ile kalabalık ve gürültülü ortamlarda daha güçlü bağlantı sunar.</div>
+<div>&nbsp;</div>
+<div><strong>Neden Foto Ekspres?</strong></div>
+<div>Resmi Türkiye Garantili ürün</div>
+<div>14 gün içinde ücretsiz iade ve değişim</div>
+<div>İstanbul içi kurye ile aynı gün teslimat imkânı</div>
+<div>Sirkeci mağazamızda uzman destek</div>
+<div>Havale/EFT ile ödeme seçeneği</div>
+</div>]]></description>
+  <status><![CDATA[in_stock]]></status>
+  <image1><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk9-wt8s-4efc-b.png]]></image1>
+  <image2><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk9-wt8s-9-4cf9.png]]></image2>
+  <image3><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk9-wt8s-2e30-f.png]]></image3>
+  <image4><![CDATA[https://static.ticimax.cloud/43515/uploads/urunresimleri/buyuk/saramonic-witalk9-wt8s-8-db45.png]]></image4>
  </product>
 </products>
