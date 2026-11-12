@@ -52,12 +52,18 @@ def para(s):
         return 0.0
 
 
+_ONBELLEK = {}
+
+
 def getir(url, deneme=3):
+    if url in _ONBELLEK:
+        return _ONBELLEK[url]
     for i in range(deneme):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "tr-TR,tr;q=0.9"})
             with urllib.request.urlopen(req, timeout=40) as r:
-                return r.read().decode("utf-8", "replace")
+                _ONBELLEK[url] = r.read().decode("utf-8", "replace")
+                return _ONBELLEK[url]
         except Exception as e:  # noqa: BLE001
             print(f"  ! {url} -> {e}")
             time.sleep(3 * (i + 1))
@@ -158,7 +164,37 @@ def tsoft_liste(url):
     return kartlar
 
 
+
+def fotocarsi_liste(url):
+    """Fotoçarşı liste sayfaları (&p=N). Eşleştirme kaynak linkiyle (data/yeni/*.csv) yapılır."""
+    kartlar, gorulen = [], set()
+    for sayfa in range(1, 60):
+        h = getir(url + ("&" if "?" in url else "?") + f"p={sayfa}")
+        if h is None:
+            return None
+        yeni = 0
+        for p in re.split(r'<article class="product', h)[1:]:
+            m = re.search(r'<h3[^>]*>\s*<a href="([^"]+)"[^>]*>(.*?)</a>', p, re.S)
+            if not m:
+                continue
+            u = html.unescape(m.group(1))
+            if u in gorulen:
+                continue
+            gorulen.add(u)
+            yeni += 1
+            f = re.search(r'class="price[^"]*".*?<strong>(.*?)</strong>', p, re.S)
+            stok = bool(re.search(r'class="badge[^"]*"[^>]*>\s*Stokta', p))
+            kartlar.append(dict(anahtar=set(), ilk="", ad=temiz(m.group(2)), url=u if u.startswith("http") else "https://fotocarsi.com" + u,
+                                fiyat=para(temiz(f.group(1))) if f else 0.0, stok=stok))
+        if yeni == 0:
+            break
+        time.sleep(1)
+    return kartlar
+
 def slug(u):
+    m = re.search(r"[?&]slug=([^&#]+)", u or "")
+    if m:
+        return m.group(1).lower()
     return re.sub(r"[?#].*$", "", u or "").rstrip("/").rsplit("/", 1)[-1].lower()
 
 
@@ -206,9 +242,12 @@ def cdata(s):
     return "<![CDATA[" + str(s).replace("]]>", "]]]]><![CDATA[>") + "]]>"
 
 
-def yaz(urunler, yol):
+def yaz(urunler, yol, sadece=None):
+    """sadece: verilirse yalnızca bu stok kodlu ürünler yazılır (id'ler tam listedeki sırayla aynı kalır)."""
     satir = ['<?xml version="1.0" encoding="UTF-8"?>', '<products source_id="1" source_name="fotoekspres-sync">']
     for i, u in enumerate(urunler, 1):
+        if sadece is not None and u["sku"] not in sadece:
+            continue
         satir.append(" <product>")
         for a in ALANLAR:
             v = str(i) if a == "id" else u.get(a, "")
@@ -269,7 +308,7 @@ def main():
         ad, url, tip, alt = g["grup"], g["url"], g["tip"], float(g.get("min_fiyat") or 0)
         marj = float(g.get("marj") or 2)
         print(f"== {ad}: {url}")
-        kartlar = ideasoft_liste(url) if tip == "ideasoft" else tsoft_liste(url) if tip == "tsoft" else ticimax_liste(url)
+        kartlar = ideasoft_liste(url) if tip == "ideasoft" else tsoft_liste(url) if tip == "tsoft" else fotocarsi_liste(url) if tip == "fotocarsi" else ticimax_liste(url)
         filtre = (g.get("filtre") or "").strip()
         if kartlar and filtre:
             kartlar = [c for c in kartlar if re.search(filtre, c["ad"], re.I)]
@@ -334,6 +373,18 @@ def main():
             w.writerow([k, eski[k]])
     yaz(urunler, ANA)
     yaz(urunler, FEED)
+    # İlk yükleme dosyası: data/ilk_yukleme.txt içinde adı yazan data/yeni dosyalarındaki ürünler (İdeaSoft'a güvenli ilk aktarım için)
+    ilk = os.path.join(KOK, "data", "ilk_yukleme.txt")
+    if os.path.exists(ilk):
+        dosyalar = [x.strip() for x in open(ilk, encoding="utf-8") if x.strip() and not x.startswith("#")]
+        skular = set()
+        for ad_ in dosyalar:
+            yol_ = os.path.join(YENI, ad_)
+            if os.path.exists(yol_):
+                skular |= {u["sku"] for u in oku(open(yol_, encoding="utf-8").read())}
+        if skular:
+            yaz(urunler, os.path.join(KOK, "feed", "ilk_yukleme.xml"), skular)
+            print(f"feed/ilk_yukleme.xml: {len(skular)} ürün")
     os.makedirs(RAPOR, exist_ok=True)
     with open(os.path.join(RAPOR, "ozet.txt"), "w", encoding="utf-8") as f:
         f.write(time.strftime("%Y-%m-%d %H:%M UTC\n", time.gmtime()) + "\n".join(ozet) + "\n")
