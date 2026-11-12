@@ -305,6 +305,14 @@ def main():
     for u in urunler:
         if u["sku"] in tasima:
             u["category"] = tasima[u["sku"]]
+    # data/gorsel.csv (sku,gorseller): görsel listesini düzeltir; gorseller '|' ile ayrılır, en fazla 8
+    gorsel_yol = os.path.join(KOK, "data", "gorsel.csv")
+    if os.path.exists(gorsel_yol):
+        gorsel = {r["sku"].strip(): [g.strip() for g in r["gorseller"].split("|") if g.strip()][:8]
+                  for r in csv.DictReader(open(gorsel_yol, encoding="utf-8")) if r.get("sku") and r.get("gorseller")}
+        for u in urunler:
+            if u["sku"] in gorsel:
+                u["imgs"] = gorsel[u["sku"]]
     gruplar = list(csv.DictReader(open(GRUP, encoding="utf-8")))
     elle = {}
     if os.path.exists(ESLESME):
@@ -400,7 +408,11 @@ def main():
         skular = set()
         for ad_ in dosyalar:
             yol_ = os.path.join(YENI, ad_)
-            if os.path.exists(yol_):
+            if not os.path.exists(yol_):
+                yol_ = os.path.join(KOK, "data", ad_)
+            if os.path.exists(yol_) and ad_.endswith(".csv"):
+                skular |= {r["sku"].strip() for r in csv.DictReader(open(yol_, encoding="utf-8")) if r.get("sku")}
+            elif os.path.exists(yol_):
                 skular |= {u["sku"] for u in oku(open(yol_, encoding="utf-8").read())}
         if skular:
             yaz(urunler, os.path.join(KOK, "feed", "ilk_yukleme.xml"), skular)
