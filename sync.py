@@ -129,6 +129,35 @@ def ticimax_liste(url):
     return kartlar
 
 
+def tsoft_liste(url):
+    """Fotografium (T-Soft) liste sayfaları (?stock=1). Eşleştirme kaynak linkiyle (data/kaynak.csv) yapılır."""
+    kartlar, gorulen = [], set()
+    kok = re.match(r"https?://[^/]+", url).group(0)
+    for sayfa in range(1, 60):
+        h = getir(url + ("&" if "?" in url else "?") + f"pg={sayfa}")
+        if h is None:
+            return None
+        parcalar = re.split(r'<div class="fl col-12 kmpContent', h)[1:]
+        yeni = 0
+        for p in parcalar:
+            m = re.search(r'<a href="([^"]+)" title="([^"]*)" class="[^"]*listProductName', p)
+            if not m:
+                continue
+            u = m.group(1)
+            if u in gorulen:
+                continue
+            gorulen.add(u)
+            yeni += 1
+            f = re.search(r'data-price="([\d\.,]+)"', p)
+            stok = "schema.org/InStock" in p
+            kartlar.append(dict(anahtar=set(), ilk="", ad=temiz(m.group(2)), url=u if u.startswith("http") else kok + u,
+                                fiyat=para(f.group(1)) if f else 0.0, stok=stok))
+        if yeni == 0:
+            break
+        time.sleep(1)
+    return kartlar
+
+
 def slug(u):
     return re.sub(r"[?#].*$", "", u or "").rstrip("/").rsplit("/", 1)[-1].lower()
 
@@ -226,6 +255,11 @@ def main():
     if os.path.exists(KAYNAK):
         for r in csv.DictReader(open(KAYNAK, encoding="utf-8")):
             ogrenilen[r["sku"].strip()] = slug(r["url"])
+    if os.path.isdir(YENI):
+        for ad_ in sorted(os.listdir(YENI)):
+            if ad_.endswith(".csv"):
+                for r in csv.DictReader(open(os.path.join(YENI, ad_), encoding="utf-8")):
+                    ogrenilen.setdefault(r["sku"].strip(), slug(r["url"]))
     haric = set()
     if os.path.exists(HARIC):
         haric = {slug(r["url"]) for r in csv.DictReader(open(HARIC, encoding="utf-8")) if r.get("url")}
@@ -235,7 +269,7 @@ def main():
         ad, url, tip, alt = g["grup"], g["url"], g["tip"], float(g.get("min_fiyat") or 0)
         marj = float(g.get("marj") or 2)
         print(f"== {ad}: {url}")
-        kartlar = ideasoft_liste(url) if tip == "ideasoft" else ticimax_liste(url)
+        kartlar = ideasoft_liste(url) if tip == "ideasoft" else tsoft_liste(url) if tip == "tsoft" else ticimax_liste(url)
         filtre = (g.get("filtre") or "").strip()
         if kartlar and filtre:
             kartlar = [c for c in kartlar if re.search(filtre, c["ad"], re.I)]
