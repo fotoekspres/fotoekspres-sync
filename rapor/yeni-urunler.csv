@@ -255,7 +255,7 @@ FOTOGRAFIUM SES,Ultrasync One. Global Versiyon,18337.00,https://fotografium.com/
 FOTOGRAFIUM SES,SmallRig BSM2352 Mikrofon Tutucu,2883.00,https://fotografium.com/smallrig-bsm2352-mikrofon-tutucu
 FOTOGRAFIUM SES,Saramonic Blink 500 ProX RXDi iPhone İçin Kablosuz Mikrofon Alıcı Ünite,3599.00,https://fotografium.com/saramonic-blink-500-prox-rxdi-iphone-icin-kablosuz-mikrofon-alici-unite
 FOTOGRAFIUM SES,Yongnuo YN220 Rüzgarlıklı Cardioid Shotgun Mikrofon,2199.00,https://fotografium.com/yongnuo-yn220-ruzgarlikli-cardioid-shotgun-mikrofon
-FOTOGRAFIUM SES,Yongnuo YN221 Kablolu Yaka Mikrofonu,2199.00,https://fotografium.com/yongnuo-yn221-kablolu-yaka-mikrofonu
+FOTOGRAFIUM SES,Yongnuo YN221 Kablolu Yaka Mikrofonu,1099.00,https://fotografium.com/yongnuo-yn221-kablolu-yaka-mikrofonu
 FOTOGRAFIUM SES,Artstand CM215 Masaüstü El Mikrofon Standı - Döküm Taban,1249.00,https://fotografium.com/artstand-cm215-masaustu-el-mikrofon-standi-dokum-taban
 FOTOGRAFIUM SES,Rode XLR-ID Renkli Mikrofon Tanımlama Halkası,1659.00,https://fotografium.com/rode-xlr-id-renkli-mikrofon-tanimlama-halkasi
 FOTOGRAFIUM SES,RODE Wireless ME Dual Kişilik Kablosuz Yaka Mikrofonu,10554.00,https://fotografium.com/rode-wireless-me-dual-kisilik-kablosuz-yaka-mikrofonu
@@ -625,6 +625,10 @@ KLAS SES,Rode AI-1 Ses Kartı,9562.70,/urun/rode-ai-1-ses-karti
 NOVA SES,Zoom H5 studio Ses Kayıt Cihazı,25250.00,/urun/zoom-h5-studio-ses-kayit-cihazi-48850
 NOVA SES,Zoom M4 MicTrak Ses Kayıt Cihazı,24846.00,/urun/zoom-m4-mictrak-ses-kayit-cihazi
 NOVA SES,Zoom F6 Multitrack Field Recorder Ses Kayıt Cihazı,47520.50,/urun/zoom-f6-multitrack-field-recorder-ses-kayit-cihazi
+NOVA SES,Elgato 10AAD9901 Çoklu Montaj Montaj Sistemi için Ağır Taban,2777.30,/urun/elgato-10aad9901-coklu-montaj-montaj-sistemi-icin-agir-taban
+NOVA SES,Elgato 10AAH9901 Multi Mount Flex Arm S Yayıncı Ekipmanı,2525.20,/urun/elgato-10aah9901-multi-mount-flex-arm-s-yayinci-ekipmani
+NOVA SES,Elgato 10AAK9901 Wave Panels Extension Set Akustik Ses Yalıtım Köpüğü,4292.30,/urun/elgato-10aak9901-wave-panels-extension-set-akustik-ses-yalitim-kopugu
+NOVA SES,Elgato Wave Mikrofon Ses Filtresi (10MAD9901),3030.00,/urun/elgato-wave-mikrofon-ses-filtresi-10mad9901
 NOVA SES,BOYA BOYAMIC 2 Uyumlu Lightning Adaptör,1349.90,/urun/boya-boyamic-2-uyumlu-lightning-adaptor-48516
 NOVA SES,Hollyland Lark M1 Duo İkili Kablosuz Mikrofon Sistemi,5049.80,/urun/hollyland-lark-m1-duo-ikili-kablosuz-mikrofon-sistemi
 NOVA SES,Hollyland Lark C1 Duo İkili Kablosuz Mikrofon Sistemi (IOS Uyumlu),6261.80,/urun/hollyland-lark-c1-duo-ikili-kablosuz-mikrofon-sistemi-ios-uyumlu
@@ -659,6 +663,7 @@ NOVA SES,RODE SC4 3.5mm TRSS Erkek - TRS PATCH CABLE,1312.49,/urun/rode-sc4-3-5m
 NOVA SES,RODE SC6 2 x TRRS giriş / 1 stereo kulaklık çıkış breakout box,1826.08,/urun/rode-sc6-2-x-trrs-giris-1-stereo-kulaklik-cikis-breakout-box
 NOVA SES,Oem Marka AA-17 Pro Ayaklı Mikrofon Standı,1299.00,/urun/oem-marka-aa-17-pro-ayakli-mikrofon-standi-49702
 NOVA SES,Oem Marka AA-20 Pro Masa Üstü Mikrofon Standı,1728.96,/urun/oem-marka-aa-20-pro-masa-ustu-mikrofon-standi-49703
+NOVA SES,Elgato 10AAG9901 Multi Mount Solid Arm Yayıncı Ekipmanı,2019.80,/urun/elgato-10aag9901-multi-mount-solid-arm-yayinci-ekipmani
 NOVA SES,SmallRig BSM2352 Mikrofon Tutucu,2799.00,/urun/smallrig-bsm2352-mikrofon-tutucu-47808
 NOVA SES,Boya BY-BA30 Profesyonel Masa Tipi Mikrofon Standı,5999.90,/urun/boya-by-ba30-profesyonel-masa-tipi-mikrofon-standi-1
 NOVA SES,Boya BY-BA20 Masa Tipi Mikrofon Standı,2099.90,/urun/boya-by-ba20-masa-tipi-mikrofon-standi-1
@@ -717,23 +722,21 @@ NOVA SES,Boya BY-M100UC Kompakt Type-c Telefon Mikrofonu,1999.90,/urun/boya-by-m
 NOVA SES,Boya BY-M100D Kompakt Lightning Telefon Mikrofonu,1999.90,/urun/boya-by-m100d-kompakt-lightning-telefon-mikrofonu-1
 NOVA SES,Boya BY-DM200 Iphone Lightning Telefon Mikrofonu,1999.90,/urun/boya-by-dm200-iphone-lightning-telefon-mikrofonu-1
 NOVA SES,Boya BY-DM100 Type-c Girişli Telefon Mikrofonu,1999.90,/urun/boya-by-dm100-type-c-girisli-telefon-mikrofonu-1
-NOVA SES,RODE Wireless ME Dual İki Kişilik Kablosuz Mikrofon Sistemi,12089.87,/urun/rode-wireless-me-dual-iki-kisilik-kablosuz-mikrofon-sistemi
 NOVA SES,Hollyland LARK A2 Duo Type-C Kablosuz Yaka Mikrofonu Sistemi (Siyah),3990.00,/urun/hollyland-lark-a2-duo-type-c-kablosuz-yaka-mikrofonu-sistemi-siyah
 NOVA SES,DJI Mic Mini 2 Kablosuz Mikrofon ( 1 TX + 1 Mobil RX + Şarj Kutusu),4299.00,/urun/dji-mic-mini-2-kompakt-dijital-kablosuz-mikrofon-sistemi-tek-kisilik-49079
 NOVA SES,Saramonic Air SE-01 Type-C 2 Kişilik Kablosuz Yaka ve El Mikrofonu,2880.00,/urun/saramonic-air-se-01-type-c-2-kisilik-kablosuz-yaka-ve-el-mikrofonu-artikel-no-1253063-48679
-NOVA SES,Synco G1A1 Pro Kablosuz Mikrofon Sistemi,6615.50,/urun/synco-g1a1-pro-kablosuz-mikrofon-sistemi
-NOVA SES,Synco G1A2 Pro 2 Kişilik Kablosuz Mikrofon Sistemi,9039.50,/urun/synco-g1a2-pro-2-kisilik-kablosuz-mikrofon-sistemi
-NOVA SES,SmallRig 3495 Wave W1-C Kablosuz Yaka Mikrofonu,1998.96,/urun/smallrig-wave-w1-c-kablosuz-yaka-mikrofonu-3495
+NOVA SES,RODE Wireless ME Dual İki Kişilik Kablosuz Mikrofon Sistemi,12089.87,/urun/rode-wireless-me-dual-iki-kisilik-kablosuz-mikrofon-sistemi
 NOVA SES,LENSGO 518C 5 Renkli Kablosuz Yaka Mikrofonu (Type-C),5454.00,/urun/lensgo-518c-5-renkli-kablosuz-yaka-mikrofonu-type-c
 NOVA SES,LENSGO 518C 5 Renkli Kablosuz Yaka Mikrofonu (iOS),5454.00,/urun/lensgo-518c-5-renkli-kablosuz-yaka-mikrofonu-ios
 NOVA SES,Boya BY-XM6-S3 Kablosuz Yaka Mikrofonu - Lightning,5499.00,/urun/boya-by-xm6-s3-kablosuz-yaka-mikrofonu-lightning
 NOVA SES,MOZA Mirfak MC1P Akıllı Telefonlar İçin Yaka Mikrofonu (Type-C),1742.20,/urun/moza-mirfak-mc1p-akilli-telefonlar-icin-yaka-mikrofonu-type-c
 NOVA SES,"Moza Mirfak MC1P Akıllı Telefonlar için 3,5 mm Konnektörlü Yaka Mikrofonu",1405.00,/urun/moza-mirfak-mc1p-akilli-telefonlar-icin-3-5-mm-konnektorlu-yaka-mikrofonu
 NOVA SES,MOZA Mirfak MC1 Yaka Mikrofonu,1405.00,/urun/moza-mirfak-mc1-yaka-mikrofonu
-NOVA SES,Benro RAMC2 Akıllı Telefonlar İçin Mikrofon,1007.48,/urun/benro-ramc2-akilli-telefonlar-icin-mikrofon
-NOVA SES,Sennheiser MKE 400 Mobile Kit,22471.01,/urun/sennheiser-mke-400-mobile-kit
 NOVA SES,Lensgo DMM2 Kamera Üstü Shotgun Mikrofon Seti,2525.00,/urun/lensgo-dmm2-kamera-ustu-shotgun-mikrofon-seti
 NOVA SES,Lensgo LYM-DM30 Kamera Üstü Shotgun Mikrofon Seti,5201.50,/urun/lensgo-lym-dm30-kamera-ustu-shotgun-mikrofon-seti
+NOVA SES,Synco G1A1 Pro Kablosuz Mikrofon Sistemi,6615.50,/urun/synco-g1a1-pro-kablosuz-mikrofon-sistemi
+NOVA SES,Synco G1A2 Pro 2 Kişilik Kablosuz Mikrofon Sistemi,9039.50,/urun/synco-g1a2-pro-2-kisilik-kablosuz-mikrofon-sistemi
+NOVA SES,SmallRig 3495 Wave W1-C Kablosuz Yaka Mikrofonu,1998.96,/urun/smallrig-wave-w1-c-kablosuz-yaka-mikrofonu-3495
 NOVA SES,Relacart R2 2.4G Çift Kanal Kablosuz Yaka Mikrofonu,6908.40,/urun/relacart-r2-2-4g-cift-kanal-kablosuz-yaka-mikrofonu
 NOVA SES,Rode Wireless ME Kompakt Kablosuz Mikrofon Sistemi,7999.00,/urun/rode-wireless-me-kompakt-kablosuz-mikrofon-sistemi
 NOVA SES,Saramonic Blink500 ProX Q20 Kablosuz İkili Mikrofon,5999.00,/urun/saramonic-blink500-prox-q20-kablosuz-ikili-mikrofon
@@ -747,9 +750,8 @@ NOVA SES,Lensgo 348C Siyah 1V1 Kablosuz Tekli Mikrofon Seti,11766.50,/urun/lensg
 NOVA SES,Lensgo 348C Beyaz 1V1 Kablosuz Tekli Mikrofon Seti,11766.50,/urun/lensgo-348c-beyaz-1v1-kablosuz-tekli-mikrofon-seti
 NOVA SES,Lensgo 348C Sarı 1V2 Kablosuz İkili Mikrofon Seti,15705.50,/urun/lensgo-348c-sari-1v2-kablosuz-ikili-mikrofon-seti
 NOVA SES,Lensgo 348C Sarı 1V1 Kablosuz Tekli Mikrofon Seti,11766.50,/urun/lensgo-348c-sari-1v1-kablosuz-tekli-mikrofon-seti
-NOVA SES,Rode Wireless GO II Single,21970.03,/urun/rode-wireless-go-ii-single-kablosuz-yaka-mikrofonu
-NOVA SES,LensgoDM1 Tekli Yaka Mikrofonu Seti,1060.50,/urun/lensgodm1-tekli-yaka-mikrofonu-seti
-NOVA SES,LensgoDM1 Kablolu İkili Yaka Mikrofonu Seti,1464.50,/urun/lensgo-dm1-kablolu-ikili-yaka-mikrofonu-seti
+NOVA SES,Benro RAMC2 Akıllı Telefonlar İçin Mikrofon,1007.48,/urun/benro-ramc2-akilli-telefonlar-icin-mikrofon
+NOVA SES,Sennheiser MKE 400 Mobile Kit,22471.01,/urun/sennheiser-mke-400-mobile-kit
 NOVA SES,Sennheiser MKE 200 Mobile Kit,10116.00,/urun/sennheiser-mke-200-mobile-kit
 NOVA SES,Rode VideoMic ME Mikrofon,6790.73,/urun/rode-videomic-me
 NOVA SES,RODE smartLav+ Plus Mikrofon,7076.06,/urun/rode-smartlav-mikrofon
@@ -769,16 +771,20 @@ NOVA SES,Boya BY-MM1 Condenser Shotgun Mikrofon,1299.90,/urun/boya-by-mm1-conden
 NOVA SES,Boya BY-VM600 Profesyonel Shotgun Mikrofon,1749.90,/urun/boya-by-vm600-profesyonel-shotgun-mikrofon
 NOVA SES,Saramonic SoundBird V6,13999.00,/urun/saramonic-soundbird-v6
 NOVA SES,Azden SMX-15 DSLR Video Mikrofon,8800.00,/urun/azden-smx-15-dslr-video-mikrofon
+NOVA SES,Rode Wireless GO II Single,21970.03,/urun/rode-wireless-go-ii-single-kablosuz-yaka-mikrofonu
+NOVA SES,LensgoDM1 Tekli Yaka Mikrofonu Seti,1060.50,/urun/lensgodm1-tekli-yaka-mikrofonu-seti
+NOVA SES,LensgoDM1 Kablolu İkili Yaka Mikrofonu Seti,1464.50,/urun/lensgo-dm1-kablolu-ikili-yaka-mikrofonu-seti
+NOVA SES,Benro RAMC1 Yaka Mikrofonu,1151.40,/urun/benro-ramc1-yaka-mikrofonu
+NOVA SES,RODE Lavalier GO Yaka Mikrofonu,6961.93,/urun/rode-lavalier-go
 NOVA SES,Azden SMX-10 Stereo Mikrofon,4900.00,/urun/azden-smx-10-stereo-mikrofon
 NOVA SES,Azden SMX-20 DSLR Stereo Mikrofon,6700.00,/urun/azden-smx-20-dslr-stereo-mikrofon
 NOVA SES,Azden SGM-DSLR Shotgun Mikrofon,8200.00,/urun/azden-sgm-dslr-shotgun-mikrofon
 NOVA SES,Synco Mic-M2S Shotgun Kamera Mikrofonu,2373.50,/urun/synco-mic-m2s-shotgun-kamera-mikrofonu
 NOVA SES,Moza N2 Ultra Kompakt Kamera Montajlı Shotgun Mikrofon,2023.20,/urun/moza-n2-ultra-kompakt-kamera-montajli-shotgun-mikrofon
-NOVA SES,Benro RAMC1 Yaka Mikrofonu,1151.40,/urun/benro-ramc1-yaka-mikrofonu
-NOVA SES,RODE Lavalier GO Yaka Mikrofonu,6961.93,/urun/rode-lavalier-go
 NOVA SES,Mcoplus Mic-109 Kompakt Mikrofon,3030.00,/urun/mcoplus-mic-109-kompakt-mikrofon
 NOVA SES,Rode NTG-4+ Boom Mikrofon,27961.85,/urun/rode-ntg-4-boom-mikrofon
 NOVA SES,RODE NTG-4 Mikrofon,25907.51,/urun/rode-ntg-4-mikrofon
+NOVA SES,ELGATO 10MAI9901 Wave Neo Microphone,7322.30,/urun/elgato-10mai9901-wave-neo-microphone
 NOVA SES,Boya K3 RGB Aydınlatmalı Condenser USB Mikrofon,2499.90,/urun/boya-k3-rgb-aydinlatmali-condenser-usb-mikrofon-45245
 NOVA SES,Boya BY-PM500W Kablolu - Kablosuz USB Condenser Mikrofon,7499.90,/urun/boya-by-pm500w-kablolu-kablosuz-usb-condenser-mikrofon-1
 NOVA SES,Boya BY-DM500 Dinamik Yayın Mikrofonu,5999.90,/urun/boya-by-dm500-dinamik-yayin-mikrofonu-1
@@ -821,7 +827,6 @@ NOVA SES,Comica Vimo Q (4) Kanallı Mini Kablosuz Mikrofon,9999.00,/urun/comica-
 NOVA SES,Comica Vimo C3 (2) Kanallı Mini Kablosuz Yaka Mikrofonu,3999.00,/urun/comica-vimo-c3-2-kanalli-mini-kablosuz-yaka-mikrofonu-47627
 NOVA SES,SmallRig 3487 Forevala W60 Kablosuz Mikrofon,5399.04,/urun/smallrig-3487-forevala-w60-kablosuz-mikrofon-46677
 NOVA SES,SmallRig 4934 S60 Kablosuz Mikrofon (Siyah / USB-C Versiyonu),4979.04,/urun/smallrig-4934-s60-kablosuz-mikrofon-siyah-usb-c-versiyonu-46673
-NOVA SES,Rode Wireless GO (Gen 3) 2 Kişilik Kablosuz Yaka Mikrofonu,17347.76,/urun/rode-wireless-go-gen-3-2-kisilik-kablosuz-yaka-mikrofonu-45165
 NOVA SES,SmallRig 4706 S60 Kablosuz Mikrofon (Beyaz / USB-C Versiyonu),4979.04,/urun/smallrig-4706-s60-kablosuz-mikrofon-beyaz-usb-c-versiyonu-43206
 NOVA SES,Saramonic Ultra 03 2 Kişilik Kablosuz Lavalier Yaka Mikrofonu,14999.00,/urun/saramonic-ultra-03-2-kisilik-kablosuz-lavalier-yaka-mikrofonu-43174
 NOVA SES,BOYA Omic-D Wireless İkili Yaka Mikrofonu Lightning (Siyah),3999.90,/urun/boya-omic-d-wireless-ikili-yaka-mikrofonu-lightning-siyah-43009
