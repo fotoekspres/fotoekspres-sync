@@ -9,6 +9,7 @@
 """
 import csv
 import html
+import json
 import math
 import os
 import re
@@ -192,6 +193,61 @@ def fotocarsi_liste(url):
         time.sleep(1)
     return kartlar
 
+def shopify_urunler(url):
+    """Shopify mağazasındaki tüm ürünler (products.json, sayfa başına 250)."""
+    kok = re.match(r"https?://[^/]+", url).group(0)
+    hepsi = []
+    for sayfa in range(1, 40):
+        h = getir(f"{kok}/products.json?limit=250&page={sayfa}")
+        if h is None:
+            return None
+        try:
+            p = json.loads(h).get("products") or []
+        except ValueError:
+            return None
+        if not p:
+            break
+        hepsi += p
+        time.sleep(1)
+    return hepsi
+
+
+def shopify_liste(url):
+    """GDX / Can Foto (Shopify). Eşleştirme kaynak linkiyle (ürün handle'ı) yapılır."""
+    kok = re.match(r"https?://[^/]+", url).group(0)
+    urunler = shopify_urunler(url)
+    if urunler is None:
+        return None
+    kartlar = []
+    for p in urunler:
+        v = (p.get("variants") or [{}])[0]
+        imgs = [i.get("src", "") for i in p.get("images") or []]
+        kartlar.append(dict(anahtar={dosya_adi(i) for i in imgs}, ilk=dosya_adi(imgs[0]) if imgs else "",
+                            ad=temiz(p.get("title", "")), url=f"{kok}/products/{p.get('handle', '')}",
+                            fiyat=float(v.get("price") or 0), stok=bool(v.get("available"))))
+    return kartlar
+
+
+def shopify_ham():
+    """data/ham_kaynak.txt içindeki Shopify mağazalarının ham ürün verisini data/ham/<alan>.json olarak kaydeder."""
+    yol = os.path.join(KOK, "data", "ham_kaynak.txt")
+    if not os.path.exists(yol):
+        return
+    for satir in open(yol, encoding="utf-8"):
+        u = satir.strip()
+        if not u or u.startswith("#"):
+            continue
+        p = shopify_urunler(u)
+        alan = re.sub(r"^https?://(www\.)?", "", u).split("/")[0]
+        if p is None:
+            print(f"ham veri alınamadı: {u}")
+            continue
+        os.makedirs(os.path.join(KOK, "data", "ham"), exist_ok=True)
+        with open(os.path.join(KOK, "data", "ham", alan + ".json"), "w", encoding="utf-8") as f:
+            json.dump(p, f, ensure_ascii=False)
+        print(f"ham veri: {alan} {len(p)} ürün")
+
+
 def slug(u):
     m = re.search(r"[?&]slug=([^&#]+)", u or "")
     if m:
@@ -280,6 +336,7 @@ def yaz(urunler, yol, sadece=None, tumu=False):
 
 # ---------------------------------------------------------------- çalıştır
 def main():
+    shopify_ham()
     if os.path.exists(ANA):
         urunler = oku(open(ANA, encoding="utf-8").read())
     else:
@@ -336,7 +393,7 @@ def main():
         ad, url, tip, alt = g["grup"], g["url"], g["tip"], float(g.get("min_fiyat") or 0)
         marj = float(g.get("marj") or 2)
         print(f"== {ad}: {url}")
-        kartlar = ideasoft_liste(url) if tip == "ideasoft" else tsoft_liste(url) if tip == "tsoft" else fotocarsi_liste(url) if tip == "fotocarsi" else ticimax_liste(url)
+        kartlar = ideasoft_liste(url) if tip == "ideasoft" else tsoft_liste(url) if tip == "tsoft" else fotocarsi_liste(url) if tip == "fotocarsi" else shopify_liste(url) if tip == "shopify" else ticimax_liste(url)
         filtre = (g.get("filtre") or "").strip()
         if kartlar and filtre:
             kartlar = [c for c in kartlar if re.search(filtre, c["ad"], re.I)]
