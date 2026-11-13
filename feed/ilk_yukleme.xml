@@ -6,7 +6,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13984]]></sku>
   <barcode><![CDATA[043774032716]]></barcode>
-  <price><![CDATA[15993]]></price>
+  <price><![CDATA[15816]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -58,7 +58,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-14010]]></sku>
   <barcode><![CDATA[043774034673]]></barcode>
-  <price><![CDATA[11653]]></price>
+  <price><![CDATA[11524]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -196,7 +196,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14022]]></sku>
   <barcode><![CDATA[884354020804]]></barcode>
-  <price><![CDATA[44807]]></price>
+  <price><![CDATA[44967]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -248,7 +248,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14032]]></sku>
   <barcode><![CDATA[884354027629]]></barcode>
-  <price><![CDATA[13308]]></price>
+  <price><![CDATA[13356]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -1074,7 +1074,7 @@
   <brand><![CDATA[Accsoon]]></brand>
   <sku><![CDATA[FE-ACS-14139]]></sku>
   <barcode><![CDATA[6973347000723]]></barcode>
-  <price><![CDATA[85139]]></price>
+  <price><![CDATA[85445]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -1121,7 +1121,7 @@
   <brand><![CDATA[Accsoon]]></brand>
   <sku><![CDATA[FE-ACS-14140]]></sku>
   <barcode><![CDATA[6972971860228]]></barcode>
-  <price><![CDATA[103544]]></price>
+  <price><![CDATA[103916]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -1168,7 +1168,7 @@
   <brand><![CDATA[Accsoon]]></brand>
   <sku><![CDATA[FE-ACS-14141]]></sku>
   <barcode/>
-  <price><![CDATA[99338]]></price>
+  <price><![CDATA[99694]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -1215,7 +1215,7 @@
   <brand><![CDATA[Accsoon]]></brand>
   <sku><![CDATA[FE-ACS-14142]]></sku>
   <barcode/>
-  <price><![CDATA[124580]]></price>
+  <price><![CDATA[125027]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -3039,7 +3039,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14254]]></sku>
   <barcode><![CDATA[6978683660436]]></barcode>
-  <price><![CDATA[7137]]></price>
+  <price><![CDATA[7055]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -3088,7 +3088,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14255]]></sku>
   <barcode><![CDATA[6978683660429]]></barcode>
-  <price><![CDATA[8961]]></price>
+  <price><![CDATA[8886]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -3137,7 +3137,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14262]]></sku>
   <barcode><![CDATA[Hollyland Lark C1]]></barcode>
-  <price><![CDATA[6171]]></price>
+  <price><![CDATA[6193]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -3186,7 +3186,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14263]]></sku>
   <barcode><![CDATA[6970758749497]]></barcode>
-  <price><![CDATA[6521]]></price>
+  <price><![CDATA[6544]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -3333,7 +3333,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14277]]></sku>
   <barcode><![CDATA[6973347000693]]></barcode>
-  <price><![CDATA[357594]]></price>
+  <price><![CDATA[358877]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -3387,7 +3387,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14278]]></sku>
   <barcode><![CDATA[6970758749220]]></barcode>
-  <price><![CDATA[104070]]></price>
+  <price><![CDATA[104444]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -3441,7 +3441,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14283]]></sku>
   <barcode/>
-  <price><![CDATA[129838]]></price>
+  <price><![CDATA[130304]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -3495,7 +3495,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14284]]></sku>
   <barcode><![CDATA[6970758749251]]></barcode>
-  <price><![CDATA[63052]]></price>
+  <price><![CDATA[63279]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>

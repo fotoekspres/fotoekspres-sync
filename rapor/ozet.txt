@@ -1,14 +1,14 @@
-2026-11-13 01:31 UTC
-KLAS NİKON: kaynakta 146 ürün, bizde 135, eşleşen 134, değişen 0, stoğu sıfırlanan 0
+2026-11-13 12:20 UTC
+KLAS NİKON: kaynakta 146 ürün, bizde 135, eşleşen 134, değişen 1, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-NKN-13589
 NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 0, stoğu sıfırlanan 0
-FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 225, değişen 0, stoğu sıfırlanan 0
+FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 225, değişen 1, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-TLS-13707
-FOTOKOLİK RODE: kaynakta 259 ürün, bizde 89, eşleşen 89, değişen 0, stoğu sıfırlanan 0
+FOTOKOLİK RODE: kaynakta 259 ürün, bizde 89, eşleşen 89, değişen 89, stoğu sıfırlanan 0
 FOTOGRAFIUM SARAMONİC: kaynakta 43 ürün, bizde 35, eşleşen 35, değişen 0, stoğu sıfırlanan 0
 FOTOKOLİK SARAMONİC: kaynakta 18 ürün, bizde 5, eşleşen 5, değişen 0, stoğu sıfırlanan 0
-FOTOKOLİK SES: kaynakta 565 ürün, bizde 95, eşleşen 95, değişen 0, stoğu sıfırlanan 0
+FOTOKOLİK SES: kaynakta 564 ürün, bizde 95, eşleşen 95, değişen 71, stoğu sıfırlanan 0
 FOTOKOLİK BOYA: kaynakta 256 ürün, bizde 103, eşleşen 103, değişen 0, stoğu sıfırlanan 0
 FOTOGRAFIUM SES: kaynakta 441 ürün, bizde 69, eşleşen 69, değişen 0, stoğu sıfırlanan 0
 KLAS SES: kaynakta 182 ürün, bizde 26, eşleşen 26, değişen 0, stoğu sıfırlanan 0
-NOVA SES: kaynakta 333 ürün, bizde 22, eşleşen 22, değişen 0, stoğu sıfırlanan 0
+NOVA SES: kaynakta 334 ürün, bizde 22, eşleşen 22, değişen 0, stoğu sıfırlanan 0
