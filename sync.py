@@ -337,6 +337,11 @@ def yaz(urunler, yol, sadece=None, tumu=False):
 # ---------------------------------------------------------------- çalıştır
 def main():
     shopify_ham()
+    try:
+        import gdx_uret  # GDX ürünlerini bir kez data/yeni/gdx.xml olarak üretir
+        gdx_uret.calistir()
+    except Exception as e:  # noqa: BLE001
+        print(f"gdx_uret hata: {e}")
     if os.path.exists(ANA):
         urunler = oku(open(ANA, encoding="utf-8").read())
     else:
