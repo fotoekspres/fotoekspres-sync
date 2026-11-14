@@ -8,6 +8,7 @@ feed/er_yeni.xml  : sadece sitede olmayan ürünler (data/er_mevcut.txt'de olmay
                     "Neden Foto Ekspres?" eklenir; erdijital adlı görseller
                     feed/er_img/ altına temiz adla kopyalanır.
 data/er_yeni_kodlar.txt : er_yeni.xml içindeki kodlar.
+feed/er_duzelt.xml : data/er_duzelt_kodlar.txt'deki ürünler, temizlenmiş açıklamayla (sadece Detay adımı).
 
 `python er_uret.py --eklendi` : er_yeni_kodlar.txt içindeki kodları er_mevcut.txt'ye
 ekler (yeni ürünler siteye yüklendikten sonra "Yeni ürünler eklendi" iş akışı çalıştırır).
@@ -23,10 +24,14 @@ KOK = os.path.dirname(os.path.abspath(__file__))
 KAYNAK = "https://www.erdijital.com/output/9876542933"
 MEVCUT = os.path.join(KOK, "data", "er_mevcut.txt")
 YENI_KOD = os.path.join(KOK, "data", "er_yeni_kodlar.txt")
+DUZELT_KOD = os.path.join(KOK, "data", "er_duzelt_kodlar.txt")  # açıklaması yeniden yazılacak ürünler
+DUZELT = os.path.join(KOK, "feed", "er_duzelt.xml")
 HAFIF = os.path.join(KOK, "feed", "er_hafif.xml")
 YENI = os.path.join(KOK, "feed", "er_yeni.xml")
 IMG = os.path.join(KOK, "feed", "er_img")
 RAW = "https://raw.githubusercontent.com/fotoekspres/fotoekspres-sync/main/feed/er_img/"
+SARMAL = '<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">'
+STIL_SIL = re.compile(r"(?i)(?<![\w-])(color|background|background-color|font-family|font-size)\s*:[^;\"']*;?")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
 NEDEN = ["Resmi Türkiye Garantili ürün", "14 gün içinde ücretsiz iade ve değişim",
@@ -111,9 +116,14 @@ def temizle(html, ad):
     h = re.sub(r"""<a\b[^>]*href\s*=\s*["'][^"']*erdijital[^"']*["'][^>]*>(.*?)</a>""", r"\1", h, flags=re.S | re.I)
     h = ER.sub("Foto Ekspres", h)
     h = TEL.sub("", h)
+    # site standardı: siyah yazı, Helvetica 14pt; kaynağın gri yazı/zemin ve yazı tipi ayarları silinir
+    h = re.sub(r"""style\s*=\s*(["'])(.*?)\1""", lambda m: f'style="{STIL_SIL.sub("", m.group(2)).strip()}"', h, flags=re.S | re.I)
+    h = re.sub(r'\s*style=""', "", h)
+    h = re.sub(r"(?i)<font\b[^>]*>|</font>", "", h)
+    h = re.sub(r"(?i)\s(bgcolor|color)\s*=\s*[\"'][^\"']*[\"']", "", h)
     h += ('\n<div>&nbsp;</div>\n<div><strong>Neden Foto Ekspres?</strong></div>\n'
           + "\n".join(f"<div>{x}</div>" for x in NEDEN))
-    return h
+    return SARMAL + "\n" + h + "\n</div>"
 
 
 def cdata(s):
@@ -165,6 +175,9 @@ def calistir():
         f.write(bas + "\n".join(hafif) + son)
     with open(YENI, "w", encoding="utf-8") as f:
         f.write(bas + "\n".join(yeniler) + son)
+    duz = kod_oku(DUZELT_KOD)
+    with open(DUZELT, "w", encoding="utf-8") as f:
+        f.write(bas + "\n".join(yeni_urun(i) for i in items if alan(i, "stockCode") in duz) + son)
     with open(YENI_KOD, "w", encoding="utf-8") as f:
         f.write("\n".join(kodlar) + ("\n" if kodlar else ""))
     print(f"er_uret: {len(items)} ürün, hafif {os.path.getsize(HAFIF) / 1e6:.1f} MB, "
