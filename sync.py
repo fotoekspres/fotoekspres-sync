@@ -228,6 +228,34 @@ def shopify_liste(url):
     return kartlar
 
 
+def xml_liste(url):
+    """İdeaSoft standart XML'i (xmlbankasi / Ekinci): item > stockCode, label, price1, currencyAbbr, stockAmount, pictureNPath.
+    Ham dosya data/ham/<dosya adı> olarak saklanır (ilk ürün üretimi için). Eşleştirme stok koduyla (url sonu) yapılır."""
+    h = getir(url)
+    if not h or "<item>" not in h:
+        return None
+    os.makedirs(os.path.join(KOK, "data", "ham"), exist_ok=True)
+    with open(os.path.join(KOK, "data", "ham", url.rstrip("/").rsplit("/", 1)[-1]), "w", encoding="utf-8") as f:
+        f.write(h)
+    kok = url.rsplit("/", 1)[0]
+
+    def alan(i, ad):
+        m = re.search(rf"<{ad}>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</{ad}>", i, re.S)
+        return m.group(1).strip() if m else ""
+    kartlar = []
+    for i in re.findall(r"<item>.*?</item>", h, re.S):
+        kod = alan(i, "stockCode")
+        imgs = [alan(i, f"picture{n}Path") for n in range(1, 9)]
+        imgs = [x for x in imgs if x]
+        try:
+            fiyat, stok = float(alan(i, "price1") or 0), float(alan(i, "stockAmount") or 0) > 0
+        except ValueError:
+            fiyat, stok = 0.0, False
+        kartlar.append(dict(anahtar={dosya_adi(x) for x in imgs}, ilk=dosya_adi(imgs[0]) if imgs else "",
+                            ad=temiz(alan(i, "label")), url=f"{kok}/{kod}", fiyat=fiyat, stok=stok, ham_fiyat=True))
+    return kartlar
+
+
 def shopify_ham():
     """data/ham_kaynak.txt içindeki Shopify mağazalarının ham ürün verisini data/ham/<alan>.json olarak kaydeder."""
     yol = os.path.join(KOK, "data", "ham_kaynak.txt")
@@ -403,7 +431,7 @@ def main():
         ad, url, tip, alt = g["grup"], g["url"], g["tip"], float(g.get("min_fiyat") or 0)
         marj = float(g.get("marj") or 2)
         print(f"== {ad}: {url}")
-        kartlar = ideasoft_liste(url) if tip == "ideasoft" else tsoft_liste(url) if tip == "tsoft" else fotocarsi_liste(url) if tip == "fotocarsi" else shopify_liste(url) if tip == "shopify" else ticimax_liste(url)
+        kartlar = ideasoft_liste(url) if tip == "ideasoft" else tsoft_liste(url) if tip == "tsoft" else fotocarsi_liste(url) if tip == "fotocarsi" else shopify_liste(url) if tip == "shopify" else xml_liste(url) if tip == "xml" else ticimax_liste(url)
         filtre = (g.get("filtre") or "").strip()
         if kartlar and filtre:
             kartlar = [c for c in kartlar if re.search(filtre, c["ad"], re.I)]
@@ -431,7 +459,11 @@ def main():
             if kart:
                 eslesen.add(id(kart))
             if kart and kart["stok"] and kart["fiyat"] > 0:
-                plan[u["sku"]] = (str(satis_fiyati(kart["fiyat"], marj)), str(STOK_VAR))
+                if kart.get("ham_fiyat") and not marj:
+                    # XML fiyatı olduğu gibi (para birimi ve KDV ayarı sitede yapılır); kuruş korunur
+                    plan[u["sku"]] = (f"{kart['fiyat']:.2f}".rstrip("0").rstrip("."), str(STOK_VAR))
+                else:
+                    plan[u["sku"]] = (str(satis_fiyati(kart["fiyat"], marj)), str(STOK_VAR))
             else:
                 plan[u["sku"]] = (u["price"], "0")
         oran = len(eslesen) / max(1, len(bizim))
