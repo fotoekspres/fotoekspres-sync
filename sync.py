@@ -375,6 +375,11 @@ def main():
         er_uret.calistir()
     except Exception as e:  # noqa: BLE001
         print(f"er_uret hata: {e}")
+    try:
+        import ekinci_uret  # Ekinci ürünlerini bir kez data/yeni/ekinci.xml olarak üretir
+        ekinci_uret.calistir()
+    except Exception as e:  # noqa: BLE001
+        print(f"ekinci_uret hata: {e}")
     if os.path.exists(ANA):
         urunler = oku(open(ANA, encoding="utf-8").read())
     else:
