@@ -1,1 +1,1 @@
-gdx.xml
+ekinci.xml
