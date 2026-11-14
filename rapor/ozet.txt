@@ -1,17 +1,16 @@
-2026-11-13 13:04 UTC
+2026-11-14 01:26 UTC
 KLAS NİKON: kaynakta 146 ürün, bizde 135, eşleşen 134, değişen 0, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-NKN-13589
 NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 0, stoğu sıfırlanan 0
-FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 225, değişen 0, stoğu sıfırlanan 0
-  stokta olmayan/bulunamayan: FE-TLS-13707
+FOTOKOLİK TELESİN: kaynakta 271 ürün, bizde 225, eşleşen 225, değişen 2, stoğu sıfırlanan 2
+  stokta olmayan/bulunamayan: FE-TLS-13707, FE-TLS-13760, FE-TLS-13836
 FOTOKOLİK RODE: kaynakta 259 ürün, bizde 89, eşleşen 89, değişen 0, stoğu sıfırlanan 0
-FOTOGRAFIUM SARAMONİC: kaynakta 43 ürün, bizde 35, eşleşen 35, değişen 0, stoğu sıfırlanan 0
+FOTOGRAFIUM SARAMONİC: kaynakta 43 ürün, bizde 35, eşleşen 35, değişen 3, stoğu sıfırlanan 0
 FOTOKOLİK SARAMONİC: kaynakta 18 ürün, bizde 5, eşleşen 5, değişen 0, stoğu sıfırlanan 0
 FOTOKOLİK SES: kaynakta 564 ürün, bizde 95, eşleşen 95, değişen 0, stoğu sıfırlanan 0
 FOTOKOLİK BOYA: kaynakta 256 ürün, bizde 103, eşleşen 103, değişen 0, stoğu sıfırlanan 0
-FOTOGRAFIUM SES: kaynakta 441 ürün, bizde 69, eşleşen 69, değişen 0, stoğu sıfırlanan 0
+FOTOGRAFIUM SES: kaynakta 441 ürün, bizde 69, eşleşen 69, değişen 46, stoğu sıfırlanan 0
 KLAS SES: kaynakta 182 ürün, bizde 26, eşleşen 26, değişen 0, stoğu sıfırlanan 0
-NOVA SES: kaynakta 339 ürün, bizde 22, eşleşen 21, değişen 2, stoğu sıfırlanan 1
-  stokta olmayan/bulunamayan: FE-HLL-14272
+NOVA SES: kaynakta 340 ürün, bizde 22, eşleşen 22, değişen 2, stoğu sıfırlanan 0
 GDX: kaynakta 402 ürün, bizde 401, eşleşen 401, değişen 0, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-GDX-14321, FE-GDX-14322, FE-GDX-14350, FE-GDX-14412, FE-GDX-14413, FE-GDX-14414, FE-GDX-14415, FE-GDX-14417, FE-GDX-14426, FE-GDX-14456, FE-GDX-14465, FE-GDX-14466, FE-GDX-14467, FE-GDX-14468, FE-GDX-14469, FE-GDX-14473, FE-GDX-14478, FE-GDX-14488, FE-GDX-14495, FE-GDX-14496, FE-GDX-14508, FE-GDX-14511, FE-GDX-14523, FE-GDX-14669, FE-GDX-14677, FE-GDX-14680, FE-GDX-14683
