@@ -342,6 +342,11 @@ def main():
         gdx_uret.calistir()
     except Exception as e:  # noqa: BLE001
         print(f"gdx_uret hata: {e}")
+    try:
+        import er_uret  # erdijital: hafif (stok) ve yeni ürün dosyaları
+        er_uret.calistir()
+    except Exception as e:  # noqa: BLE001
+        print(f"er_uret hata: {e}")
     if os.path.exists(ANA):
         urunler = oku(open(ANA, encoding="utf-8").read())
     else:
