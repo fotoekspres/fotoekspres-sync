@@ -464,9 +464,9 @@ def main():
             if kart:
                 eslesen.add(id(kart))
             if kart and kart["stok"] and kart["fiyat"] > 0:
-                if kart.get("ham_fiyat") and not marj:
+                if kart.get("ham_fiyat"):
                     # XML fiyatı olduğu gibi (para birimi ve KDV ayarı sitede yapılır); kuruş korunur
-                    plan[u["sku"]] = (f"{kart['fiyat']:.2f}".rstrip("0").rstrip("."), str(STOK_VAR))
+                    plan[u["sku"]] = (f"{kart['fiyat'] * (1 + marj / 100):.2f}".rstrip("0").rstrip("."), str(STOK_VAR))
                 else:
                     plan[u["sku"]] = (str(satis_fiyati(kart["fiyat"], marj)), str(STOK_VAR))
             else:
