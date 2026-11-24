@@ -357,7 +357,7 @@
   <brand><![CDATA[Benro]]></brand>
   <sku><![CDATA[FE-BNR-13484]]></sku>
   <barcode><![CDATA[6931747312856]]></barcode>
-  <price><![CDATA[24252]]></price>
+  <price><![CDATA[24395]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -413,7 +413,7 @@
   <brand><![CDATA[Moza]]></brand>
   <sku><![CDATA[FE-MZA-13485]]></sku>
   <barcode><![CDATA[743791915084]]></barcode>
-  <price><![CDATA[20041]]></price>
+  <price><![CDATA[19970]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -464,7 +464,7 @@
   <brand><![CDATA[Moza]]></brand>
   <sku><![CDATA[FE-MZA-13486]]></sku>
   <barcode><![CDATA[6111112808782]]></barcode>
-  <price><![CDATA[40699]]></price>
+  <price><![CDATA[40554]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -528,7 +528,7 @@
   <brand><![CDATA[Benro]]></brand>
   <sku><![CDATA[FE-BNR-13487]]></sku>
   <barcode><![CDATA[6931747312863]]></barcode>
-  <price><![CDATA[29720]]></price>
+  <price><![CDATA[29895]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -11889,7 +11889,7 @@
   <brand><![CDATA[Telesin]]></brand>
   <sku><![CDATA[FE-TLS-13740]]></sku>
   <barcode/>
-  <price><![CDATA[6432]]></price>
+  <price><![CDATA[6269]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -37342,7 +37342,7 @@
   <brand><![CDATA[Sony]]></brand>
   <sku><![CDATA[FE-SNY-14293]]></sku>
   <barcode/>
-  <price><![CDATA[13374]]></price>
+  <price><![CDATA[14444]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -45600,7 +45600,7 @@
   <barcode/>
   <price><![CDATA[51621]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[GDX]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -45661,7 +45661,7 @@
   <barcode/>
   <price><![CDATA[40279]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[GDX]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -78209,7 +78209,7 @@
   <barcode/>
   <price><![CDATA[102]]></price>
   <currency><![CDATA[USD]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[EKİNCİ]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
