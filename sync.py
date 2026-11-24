@@ -380,6 +380,11 @@ def main():
         ekinci_uret.calistir()
     except Exception as e:  # noqa: BLE001
         print(f"ekinci_uret hata: {e}")
+    try:
+        import kamer_uret  # Kamer İthalat ürünlerini bir kez data/yeni/kamer.xml olarak üretir
+        kamer_uret.calistir()
+    except Exception as e:  # noqa: BLE001
+        print(f"kamer_uret hata: {e}")
     if os.path.exists(ANA):
         urunler = oku(open(ANA, encoding="utf-8").read())
     else:
