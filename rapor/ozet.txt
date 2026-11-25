@@ -1,20 +1,20 @@
-2026-11-24 12:46 UTC
+2026-11-25 01:41 UTC
 KLAS NİKON: kaynakta 144 ürün, bizde 135, eşleşen 132, değişen 0, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-NKN-13534, FE-NKN-13574, FE-NKN-13589
-NOVA GİMBAL: KAYNAK OKUNAMADI, bu grup bugün güncellenmedi (10 ürün)
-FOTOKOLİK TELESİN: kaynakta 292 ürün, bizde 225, eşleşen 225, değişen 0, stoğu sıfırlanan 0
-  stokta olmayan/bulunamayan: FE-TLS-13626, FE-TLS-13639, FE-TLS-13643, FE-TLS-13696, FE-TLS-13707, FE-TLS-13729, FE-TLS-13733, FE-TLS-13770, FE-TLS-13843, FE-TLS-13845
+NOVA GİMBAL: kaynakta 10 ürün, bizde 10, eşleşen 10, değişen 0, stoğu sıfırlanan 0
+FOTOKOLİK TELESİN: kaynakta 296 ürün, bizde 225, eşleşen 225, değişen 4, stoğu sıfırlanan 1
+  stokta olmayan/bulunamayan: FE-TLS-13626, FE-TLS-13639, FE-TLS-13643, FE-TLS-13696, FE-TLS-13704, FE-TLS-13707, FE-TLS-13729, FE-TLS-13733, FE-TLS-13843, FE-TLS-13845
 FOTOKOLİK RODE: kaynakta 259 ürün, bizde 89, eşleşen 89, değişen 0, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-RDE-13908, FE-RDE-13934
-FOTOGRAFIUM SARAMONİC: kaynakta 43 ürün, bizde 35, eşleşen 35, değişen 0, stoğu sıfırlanan 0
+FOTOGRAFIUM SARAMONİC: kaynakta 43 ürün, bizde 35, eşleşen 35, değişen 3, stoğu sıfırlanan 0
 FOTOKOLİK SARAMONİC: kaynakta 18 ürün, bizde 5, eşleşen 5, değişen 0, stoğu sıfırlanan 0
 FOTOKOLİK SES: kaynakta 565 ürün, bizde 95, eşleşen 95, değişen 0, stoğu sıfırlanan 0
 FOTOKOLİK BOYA: kaynakta 256 ürün, bizde 103, eşleşen 103, değişen 0, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-BOY-14161
-FOTOGRAFIUM SES: kaynakta 442 ürün, bizde 69, eşleşen 67, değişen 0, stoğu sıfırlanan 0
-  stokta olmayan/bulunamayan: FE-LUC-14097, FE-LUC-14098
-KLAS SES: kaynakta 171 ürün, bizde 26, eşleşen 26, değişen 0, stoğu sıfırlanan 0
-NOVA SES: kaynakta 342 ürün, bizde 22, eşleşen 22, değişen 20, stoğu sıfırlanan 0
+FOTOGRAFIUM SES: kaynakta 441 ürün, bizde 69, eşleşen 66, değişen 46, stoğu sıfırlanan 1
+  stokta olmayan/bulunamayan: FE-LUC-14097, FE-LUC-14098, FE-SNY-14293
+KLAS SES: kaynakta 172 ürün, bizde 26, eşleşen 26, değişen 0, stoğu sıfırlanan 0
+NOVA SES: kaynakta 342 ürün, bizde 22, eşleşen 22, değişen 0, stoğu sıfırlanan 0
 GDX: kaynakta 405 ürün, bizde 401, eşleşen 398, değişen 0, stoğu sıfırlanan 0
   stokta olmayan/bulunamayan: FE-GDX-14321, FE-GDX-14322, FE-GDX-14333, FE-GDX-14340, FE-GDX-14346, FE-GDX-14348, FE-GDX-14349, FE-GDX-14350, FE-GDX-14364, FE-GDX-14365, FE-GDX-14371, FE-GDX-14372, FE-GDX-14373, FE-GDX-14378, FE-GDX-14396, FE-GDX-14412, FE-GDX-14413, FE-GDX-14414, FE-GDX-14415, FE-GDX-14426, FE-GDX-14428, FE-GDX-14432, FE-GDX-14433, FE-GDX-14439, FE-GDX-14441, FE-GDX-14456, FE-GDX-14465, FE-GDX-14466, FE-GDX-14467, FE-GDX-14468, FE-GDX-14469, FE-GDX-14473, FE-GDX-14478, FE-GDX-14482, FE-GDX-14488, FE-GDX-14491, FE-GDX-14495, FE-GDX-14496, FE-GDX-14508, FE-GDX-14511, FE-GDX-14523, FE-GDX-14531, FE-GDX-14542, FE-GDX-14593, FE-GDX-14620, FE-GDX-14669, FE-GDX-14671, FE-GDX-14673, FE-GDX-14677, FE-GDX-14680, FE-GDX-14681, FE-GDX-14683
 EKİNCİ: kaynakta 1169 ürün, bizde 734, eşleşen 734, değişen 0, stoğu sıfırlanan 0
