@@ -197,7 +197,7 @@
   <barcode><![CDATA[6941565995230]]></barcode>
   <price><![CDATA[17346]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[NOVA GİMBAL]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -3033,7 +3033,7 @@
   <brand><![CDATA[Nikon]]></brand>
   <sku><![CDATA[FE-NKN-13522]]></sku>
   <barcode/>
-  <price><![CDATA[43889]]></price>
+  <price><![CDATA[41799]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -13725,7 +13725,7 @@
   <barcode><![CDATA[6974944468841]]></barcode>
   <price><![CDATA[1766]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -14767,7 +14767,7 @@
   <barcode><![CDATA[176370799010]]></barcode>
   <price><![CDATA[1439]]></price>
   <currency><![CDATA[TRY]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[FOTOKOLİK TELESİN]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -22454,7 +22454,7 @@
   <brand><![CDATA[Saramonic]]></brand>
   <sku><![CDATA[FE-SRM-13966]]></sku>
   <barcode><![CDATA[6971008027860]]></barcode>
-  <price><![CDATA[10199]]></price>
+  <price><![CDATA[10207]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -22564,7 +22564,7 @@
   <brand><![CDATA[Saramonic]]></brand>
   <sku><![CDATA[FE-SRM-13968]]></sku>
   <barcode/>
-  <price><![CDATA[83208]]></price>
+  <price><![CDATA[83263]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -22622,7 +22622,7 @@
   <brand><![CDATA[Saramonic]]></brand>
   <sku><![CDATA[FE-SRM-13969]]></sku>
   <barcode/>
-  <price><![CDATA[150311]]></price>
+  <price><![CDATA[150412]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23172,7 +23172,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13979]]></sku>
   <barcode/>
-  <price><![CDATA[41196]]></price>
+  <price><![CDATA[41345]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23227,7 +23227,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13980]]></sku>
   <barcode/>
-  <price><![CDATA[49198]]></price>
+  <price><![CDATA[49375]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23280,7 +23280,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13981]]></sku>
   <barcode/>
-  <price><![CDATA[49198]]></price>
+  <price><![CDATA[49375]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23516,7 +23516,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13986]]></sku>
   <barcode><![CDATA[0043774030941]]></barcode>
-  <price><![CDATA[24836]]></price>
+  <price><![CDATA[24926]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23703,7 +23703,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13990]]></sku>
   <barcode/>
-  <price><![CDATA[70833]]></price>
+  <price><![CDATA[71089]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23787,7 +23787,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13992]]></sku>
   <barcode><![CDATA[4907034132034]]></barcode>
-  <price><![CDATA[57140]]></price>
+  <price><![CDATA[57347]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23833,7 +23833,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13993]]></sku>
   <barcode><![CDATA[043774034079]]></barcode>
-  <price><![CDATA[73382]]></price>
+  <price><![CDATA[73647]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23927,7 +23927,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13995]]></sku>
   <barcode/>
-  <price><![CDATA[158678]]></price>
+  <price><![CDATA[159251]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -23975,7 +23975,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-13996]]></sku>
   <barcode/>
-  <price><![CDATA[27266]]></price>
+  <price><![CDATA[27365]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -24234,7 +24234,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-14002]]></sku>
   <barcode><![CDATA[4907034122509]]></barcode>
-  <price><![CDATA[11262]]></price>
+  <price><![CDATA[11302]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -24359,7 +24359,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-14005]]></sku>
   <barcode><![CDATA[043774034956]]></barcode>
-  <price><![CDATA[2904]]></price>
+  <price><![CDATA[2915]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -24481,7 +24481,7 @@
   <brand><![CDATA[Tascam]]></brand>
   <sku><![CDATA[FE-TSC-14008]]></sku>
   <barcode><![CDATA[0043774031177]]></barcode>
-  <price><![CDATA[29282]]></price>
+  <price><![CDATA[29388]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -24793,7 +24793,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14015]]></sku>
   <barcode/>
-  <price><![CDATA[3468]]></price>
+  <price><![CDATA[3470]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25068,7 +25068,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14021]]></sku>
   <barcode/>
-  <price><![CDATA[23843]]></price>
+  <price><![CDATA[23859]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25171,7 +25171,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14023]]></sku>
   <barcode/>
-  <price><![CDATA[86703]]></price>
+  <price><![CDATA[86760]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25223,7 +25223,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14024]]></sku>
   <barcode><![CDATA[4515260029891]]></barcode>
-  <price><![CDATA[12193]]></price>
+  <price><![CDATA[12200]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25325,7 +25325,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14026]]></sku>
   <barcode/>
-  <price><![CDATA[14089]]></price>
+  <price><![CDATA[14098]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25762,7 +25762,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14035]]></sku>
   <barcode/>
-  <price><![CDATA[7533]]></price>
+  <price><![CDATA[7537]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25804,7 +25804,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14036]]></sku>
   <barcode/>
-  <price><![CDATA[1843]]></price>
+  <price><![CDATA[1844]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25846,7 +25846,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14037]]></sku>
   <barcode><![CDATA[4515260014279]]></barcode>
-  <price><![CDATA[8074]]></price>
+  <price><![CDATA[8080]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25890,7 +25890,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14038]]></sku>
   <barcode/>
-  <price><![CDATA[1897]]></price>
+  <price><![CDATA[1898]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -25933,7 +25933,7 @@
   <brand><![CDATA[Zoom]]></brand>
   <sku><![CDATA[FE-ZOM-14039]]></sku>
   <barcode/>
-  <price><![CDATA[5365]]></price>
+  <price><![CDATA[5368]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29292,7 +29292,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14115]]></sku>
   <barcode/>
-  <price><![CDATA[4497]]></price>
+  <price><![CDATA[4500]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29339,7 +29339,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14116]]></sku>
   <barcode/>
-  <price><![CDATA[4497]]></price>
+  <price><![CDATA[4500]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29386,7 +29386,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14117]]></sku>
   <barcode/>
-  <price><![CDATA[4497]]></price>
+  <price><![CDATA[4500]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29430,7 +29430,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14118]]></sku>
   <barcode/>
-  <price><![CDATA[11001]]></price>
+  <price><![CDATA[11008]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29476,7 +29476,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14119]]></sku>
   <barcode/>
-  <price><![CDATA[4497]]></price>
+  <price><![CDATA[4500]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29522,7 +29522,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14120]]></sku>
   <barcode/>
-  <price><![CDATA[8400]]></price>
+  <price><![CDATA[8405]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29568,7 +29568,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14121]]></sku>
   <barcode/>
-  <price><![CDATA[11650]]></price>
+  <price><![CDATA[11659]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29613,7 +29613,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14122]]></sku>
   <barcode/>
-  <price><![CDATA[8400]]></price>
+  <price><![CDATA[8405]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29660,7 +29660,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14123]]></sku>
   <barcode/>
-  <price><![CDATA[8400]]></price>
+  <price><![CDATA[8405]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29707,7 +29707,7 @@
   <brand><![CDATA[Maono]]></brand>
   <sku><![CDATA[FE-MAO-14124]]></sku>
   <barcode/>
-  <price><![CDATA[1247]]></price>
+  <price><![CDATA[1248]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29747,7 +29747,7 @@
   <brand><![CDATA[Synco]]></brand>
   <sku><![CDATA[FE-SYN-14125]]></sku>
   <barcode/>
-  <price><![CDATA[6449]]></price>
+  <price><![CDATA[6453]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29797,7 +29797,7 @@
   <brand><![CDATA[Synco]]></brand>
   <sku><![CDATA[FE-SYN-14126]]></sku>
   <barcode/>
-  <price><![CDATA[12951]]></price>
+  <price><![CDATA[12960]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29844,7 +29844,7 @@
   <brand><![CDATA[Synco]]></brand>
   <sku><![CDATA[FE-SYN-14127]]></sku>
   <barcode/>
-  <price><![CDATA[15552]]></price>
+  <price><![CDATA[15562]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29894,7 +29894,7 @@
   <brand><![CDATA[Synco]]></brand>
   <sku><![CDATA[FE-SYN-14128]]></sku>
   <barcode/>
-  <price><![CDATA[12301]]></price>
+  <price><![CDATA[12309]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -29993,7 +29993,7 @@
   <brand><![CDATA[Synco]]></brand>
   <sku><![CDATA[FE-SYN-14130]]></sku>
   <barcode/>
-  <price><![CDATA[11650]]></price>
+  <price><![CDATA[11659]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -30043,7 +30043,7 @@
   <brand><![CDATA[Synco]]></brand>
   <sku><![CDATA[FE-SYN-14131]]></sku>
   <barcode/>
-  <price><![CDATA[9050]]></price>
+  <price><![CDATA[9055]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -30092,7 +30092,7 @@
   <brand><![CDATA[Synco]]></brand>
   <sku><![CDATA[FE-SYN-14132]]></sku>
   <barcode/>
-  <price><![CDATA[2547]]></price>
+  <price><![CDATA[2549]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -30137,7 +30137,7 @@
   <brand><![CDATA[Blackmagic]]></brand>
   <sku><![CDATA[FE-BMD-14133]]></sku>
   <barcode/>
-  <price><![CDATA[122576]]></price>
+  <price><![CDATA[122657]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -30177,7 +30177,7 @@
   <brand><![CDATA[Blackmagic]]></brand>
   <sku><![CDATA[FE-BMD-14134]]></sku>
   <barcode/>
-  <price><![CDATA[386586]]></price>
+  <price><![CDATA[386842]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -30220,7 +30220,7 @@
   <brand><![CDATA[Blackmagic]]></brand>
   <sku><![CDATA[FE-BMD-14135]]></sku>
   <barcode/>
-  <price><![CDATA[263295]]></price>
+  <price><![CDATA[263469]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -30262,7 +30262,7 @@
   <brand><![CDATA[Blackmagic]]></brand>
   <sku><![CDATA[FE-BMD-14136]]></sku>
   <barcode/>
-  <price><![CDATA[171347]]></price>
+  <price><![CDATA[171460]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -30304,7 +30304,7 @@
   <brand><![CDATA[Blackmagic]]></brand>
   <sku><![CDATA[FE-BMD-14137]]></sku>
   <barcode/>
-  <price><![CDATA[272788]]></price>
+  <price><![CDATA[272970]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -30346,7 +30346,7 @@
   <brand><![CDATA[Blackmagic]]></brand>
   <sku><![CDATA[FE-BMD-14138]]></sku>
   <barcode/>
-  <price><![CDATA[584918]]></price>
+  <price><![CDATA[585306]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -35742,7 +35742,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14258]]></sku>
   <barcode/>
-  <price><![CDATA[4697]]></price>
+  <price><![CDATA[4506]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -35973,7 +35973,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14263]]></sku>
   <barcode><![CDATA[6970758749497]]></barcode>
-  <price><![CDATA[6544]]></price>
+  <price><![CDATA[6277]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36169,7 +36169,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14267]]></sku>
   <barcode><![CDATA[6976068117544]]></barcode>
-  <price><![CDATA[8129]]></price>
+  <price><![CDATA[8080]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36217,7 +36217,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14268]]></sku>
   <barcode><![CDATA[6976068117919]]></barcode>
-  <price><![CDATA[8505]]></price>
+  <price><![CDATA[7842]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36502,7 +36502,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14275]]></sku>
   <barcode><![CDATA[6976068119999]]></barcode>
-  <price><![CDATA[16285]]></price>
+  <price><![CDATA[15781]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36586,7 +36586,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14277]]></sku>
   <barcode><![CDATA[6973347000693]]></barcode>
-  <price><![CDATA[358877]]></price>
+  <price><![CDATA[344229]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36640,7 +36640,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14278]]></sku>
   <barcode><![CDATA[6970758749220]]></barcode>
-  <price><![CDATA[104444]]></price>
+  <price><![CDATA[100181]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36801,7 +36801,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14281]]></sku>
   <barcode/>
-  <price><![CDATA[51668]]></price>
+  <price><![CDATA[49559]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36851,7 +36851,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14282]]></sku>
   <barcode/>
-  <price><![CDATA[77528]]></price>
+  <price><![CDATA[74364]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36901,7 +36901,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14283]]></sku>
   <barcode/>
-  <price><![CDATA[130304]]></price>
+  <price><![CDATA[124986]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -36955,7 +36955,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14284]]></sku>
   <barcode><![CDATA[6970758749251]]></barcode>
-  <price><![CDATA[63279]]></price>
+  <price><![CDATA[60696]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -37111,7 +37111,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14287]]></sku>
   <barcode><![CDATA[6970758749039]]></barcode>
-  <price><![CDATA[2797]]></price>
+  <price><![CDATA[2683]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -37152,7 +37152,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14288]]></sku>
   <barcode/>
-  <price><![CDATA[17364]]></price>
+  <price><![CDATA[16655]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -37254,7 +37254,7 @@
   <brand><![CDATA[Hollyland]]></brand>
   <sku><![CDATA[FE-HLL-14291]]></sku>
   <barcode><![CDATA[6970758749046]]></barcode>
-  <price><![CDATA[2797]]></price>
+  <price><![CDATA[2683]]></price>
   <currency><![CDATA[TRY]]></currency>
   <stock><![CDATA[5]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
@@ -129622,7 +129622,7 @@
   <barcode><![CDATA[4014230260864]]></barcode>
   <price><![CDATA[106.6]]></price>
   <currency><![CDATA[EUR]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[KAMER]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
@@ -137263,7 +137263,7 @@
   <barcode><![CDATA[7290100281925]]></barcode>
   <price><![CDATA[520.7]]></price>
   <currency><![CDATA[EUR]]></currency>
-  <stock><![CDATA[5]]></stock>
+  <stock><![CDATA[0]]></stock>
   <availability><![CDATA[https://schema.org/InStock]]></availability>
   <category><![CDATA[KAMER]]></category>
   <description><![CDATA[<div style="text-align:center;color:#000000;font-family:helvetica, arial, sans-serif;font-size:14pt;">
